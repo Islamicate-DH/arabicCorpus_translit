@@ -1,0 +1,681 @@
+#####ARABICA#SUBJECT#
+
+
+######## BEGofRECORD ###################################################
+#000000# 000.SortField	:: JK_010192
+#NewRec# 000.BookURI	:: #0597.IbnJawzi.FadailQuds
+#NewRec# 010.AuthorAKA	:: Abn Aljwzy
+#NewRec# 010.AuthorNAME	:: jmAl Aldyn Cbd AlrHmn bn Cly bn mHmd Aljwzy (Almtwfy : 597hـ)
+#NewRec# 011.AuthorBORN	:: NOTGIVEN
+#NewRec# 011.AuthorDIED	:: 597
+#NewRec# 019.AuthorDIED	:: NODATA
+#NewRec# 020.BookTITLE	:: fDAcl Alqds
+#NewRec# 020.BookTITLESUB	:: NODATA
+#NewRec# 021.BookSUBJ	:: twAryx AlbldAn wAlCwAcl :: ktb AltAryx
+#NewRec# 022.BookVOLS	:: NODATA
+#NewRec# 025.BookLANG	:: NODATA
+#NewRec# 029.BookTITLEalt	:: fDAcl Alqds
+#NewRec# 030.LibURI	:: JK_010192
+#NewRec# 030.LibURIextra	:: NODATA
+#NewRec# 031.LibREADONLINE	:: NODATA
+#NewRec# 031.LibURL	:: NODATA
+#NewRec# 031.LibURLFILE	:: NODATA
+#NewRec# 031.LibURLextra	:: NODATA
+#NewRec# 040.EdALL	:: NODATA
+#NewRec# 040.EdEDITOR	:: NODATA
+#NewRec# 041.EdNUMBER	:: NODATA
+#NewRec# 041.EdNumber	:: NODATA
+#NewRec# 043.EdPUBLISHER	:: NODATA
+#NewRec# 044.EdPLACE	:: NODATA
+#NewRec# 045.EdYEAR	:: NODATA
+#NewRec# 049.EdISBN	:: NODATA
+#NewRec# 049.EdPAGES	:: NODATA
+#NewRec# 049.EdPHYSICAL	:: NODATA
+#NewRec# 049.EdVOLUME	:: NODATA
+#NewRec# 090.RecMISC	:: NODATA
+#NewRec# 999.MiscINFO	:: NODATA
+
+
+
+#####FILENAME#JK_010192
+# bsm Allh AlrHmn AlrHym
+# AlbAb AlAwl
+# fy fDl AlArD Almqdso qAl Allh tCAly: wAV qAl mwsy lqwmh yA qwm dxlwA
+~~AlArD Almqdso Alty ktb Allh lkm qAl AlzjAj (Almqdso AlmThro wqyl llsTl
+~~Alqds lAnh ytThr mnh wsmy byt Almqds lAnh ytThr fyh mn AlVnwb wqyl smAhA
+~~mqdso lAnhA Thrt mn AlErk wjClt msknA llAnbyAc wAlmcmnyn wfy AlmrAd
+~~bAlArD Almqdso ArbCo AqwAl. AHdhA AnhA AryHA qAlh Abn CbAs qAl Alsdy ArD
+~~byn Almqds wqAl AlDHAk AlmrAd bhVh AlArD AylyAc wbyt Almqds. qAl Abn
+~~qtybo wqrAt fy mnAjAo mwsy Anh qAl Allhm Ank Axtrt mn AlAnCAm AlDAnyo
+~~wmn AlTyr AlHmAmo (wmn Albyto byt) AylyAc wmn AylyAc byt Almqds fhVA ydl
+~~Cly An AylyAc AlArD Alty fyhA byt Almqds whw mCrb.
+# qAl Alfrzdq:
+# wbytAn byt Allh nHn wlAth ... wbyt bACly AylyAc mErf
+# wqAl qtAdo AlArD Almqdso AlEAm klhA.
+# AlbAb AlvAny
+# fy Vkr Aljbl AlVy Clyh byt Almqds qAl Abw hryro Alzytwn Twr zytA. qAl
+~~qtAdo wAlzytwn jbl Clyh byt Almqds. wqAl Abw zrCo AlsybAny rfC Cysy mn
+~~Twr zytA.
+# AxbrnA Abw AlmCmr AlAnSAry (AnbAnA) Abw AlHsyn mHmd Abn mHmd Abn
+~~AlfrA. AnbAnA Cbd AlCzyz Abn AHmd Abw bkr mHmd Abn AHmd AlxTyb HdvnA Cmr
+~~Abn AlfDl HdvnA Aby HdvnA Alwlyd Abn HmAd HdvnA AbrAhym Abn mHmd HdvnA
+~~Cmr Abn bkr Cn vwr Abn yzyd Cn xAld Abn mCdAn Cn Aby hryro qAl Aqsm rbnA
+~~Cz wjl bArbCo Ajbl fqAl wAltyn wAlzytwn wTwr synyn whVA Albld AlAmyn.
+~~qAl Altyn Twr zytA.
+# AlbAb AlvAlv
+# fy wDC byt Almqds wbdAyo Amrh PageV01P001 AnbAnA Abw AlmCmr AlmbArk
+~~Abn AHmd AlAnSAry، AnbAnA Abw AlHsyn Abn AlfrA، AnbAnA Cbd AlCzyz Abn
+~~AHmd Abn Cmr AlnSyby، AnbAnA Abw bkr Abn AHmd Abn mHmd AlxTyb، HdvnA Abw
+~~HfS Cmr Abn AlfDl Abn AlmhAjr Allxmy، Hdvny Aby، HdvnA Alwlyd Abn HmAd،
+~~HdvnA AsHq Abn AlHsyn AlTHAn، HdvnA Cbd Allh Abn SAlH، Hdvny Abn lhyCo
+~~Cn yzyd Abn Aby Hbyb، Axbrny CTAc Abn Aby rbAH Cn CAcEo zwj Alnby Sly
+~~Allh Clyh wslm، Cn Alnby Sly Allh Clyh wslm، qAl: An mko bld CZmh Allh
+~~wCZm Hrmth، wHfhA bAlmlAcko qbl An yxlq EycA mn AlArD ywmcV klhA bAlf
+~~CAm، wwSlhA bAlmdyno، wwSl Almdyno bbyt Almqds، vm xlq AlArD bCd Alf CAm
+~~xlqA wAHdA. HdvnA Alwlyd Abn HmAd، HdvnA mHmd bn AlnCmAn، HdvnA slymAn
+~~Altymy Cn Aby Cmrw AlEybAny، qAl: (qAl Cly Abn Aby TAlb: kAnt AlArD mAc،
+~~fbCv Allh ryHA، fmsHt AlArD msHA، fZhrt Cly AlArD zbdo، fqsmhA ArbC qTC،
+~~xlq mn qTCo mko، wAlvAnyo Almdyno، wAlvAlvo bbyt Almqds، wAlrAbCo
+~~Alkwfo). AnbAnA mHmd Abn nASr AnbAnA Cbd AlrHmn Abn Aby Cbd Allh Abn
+~~mndo، HdvnA Aby، AnbAnA AHmd Abn mHmd Abn Hkym، HdvnA mHmd Abn AlnCmAn
+~~Abn bEyr، HdvnA slymAn Abn Cbd AlrHmn، HdvnA mHmd Abn Hrb Cn Aby bkr Abn
+~~Aby mrym، Cn EryH Abn Cbyd، Cn kCb، qAl: bny slymAn Abn dAwd bbyt Almqds
+~~Cly AsAs qdym، kmA bny AbrAhym AlkCbo Cly AsAs qdym. qAl AlmSnf rDy Allh
+~~Cnh: (qlt wskn AljbArwn AlArD Almqdso، fslT Clyhm ywEC، vm slT AlkfAr
+~~Cly byt Almqds، fSyrwh mzblo، fAwHy Allh tCAly Aly slymAn fbnAh). AnbAnA
+~~Abw AlmCmr AlmbArk Abn AHmd AlAnSAry، AnbAnA Abw AlHsyn mHmd Abn mHmd
+~~AlfrAc، AnbAnA Abw mHmd Cbd AlCzyz Abn AHmd Abn Cmr AlnSyby Almqdsy،
+~~HdvnA Abw HfS Cmr Abn AlfDl Abn AlmhAjr Allxmy، Hdvny Aby، HdvnA Alwlyd،
+~~HdvnA Almsyb Abn wADH، HdvnA Abn AlmbArk Cn CvmAn Abn CTAc، Cn Abyh، Cn
+~~(sCyd Abn Almsyb)، qAl: Amr Allh dAwd An ybny msjd byt Almqds. qAl: yA
+~~rb wAyn Abnyh؟ qAl: Hyv try Almlk EAhrA syfh، qAl: frAh fy Vlk AlmkAn.
+~~qAl: fAxV dAwd fAss qwACdh wrfC HAcTh، flmA ArtfC Anhdm. fqAl dAwd: yA
+~~rb Amrtny An Abny lk bytA، flmA ArtfC hdmth. fqAl: yA dAwd! AnmA jCltk
+~~xlyfty fy xlqy، lm AxVth mn SAHbh bgyr vmn؟ Anh ybnyh rjl mn wldk. flmA
+~~kAn slymAn، sAwm SAHb AlArD ClyhA، fqAl lh: hy bqnTAr. fqAl slymAn: qd
+~~AstwjbthA. fqAl lh SAHb AlArD: hy xyr Aw VAk؟ qAl: bl hy xyr. qAl: fAnh
+~~qd bdA ly. qAl: Awlys qd AwjbthA؟ qAl: bly! wlkn AlbyCyn bAlxyAr mA lm
+~~ytfrqA. qAl Abn AlmbArk: hVA ASl AlxyAr. qAl: flm yzl yrAdh wyqwl lh mvl
+~~qwlh AlAwl Hty AstwjbhA mnh bsbCo qnATyr. fbnAh slymAn Hty frg mnh،
+~~wtglqt AbwAbh، fCAljhA slymAn An yftHhA، flm tnftH Hty qAl fy dCAch:
+~~bSlwAt Aby dAwd AlA tftHt AlAbwAb. fftHt AlAbwAb. qAl: fqrC lh slymAn
+~~CEro AlAf mn qrAc bny AsrAcyl، xmso AlAf bAllyl، wxmso AlAf bAlnhAr. lA
+~~tAty sACo mn lyl wlA nhAr AlA wAllh Cz wjl yCbd fyh. qAl Alwlyd: HdvnA
+~~Cmr HdvnA Dmro Cn AlEybAny، qAl: (AwHy Allh Cz wjl Aly dAwd Ank ln ttm
+~~bnAc byt Almqds. qAl: Ay rb، wlm؟ qAl: lAnk gmrt ydk fy Aldm. qAl: Ay
+~~rb، wlm ykn Vlk fy TACtk qAl: bly، wAn kAn. qAl Cmr: wHdvny Aby، HdvnA
+~~zkryA Abn yHyy Abn yCqwb Almqdsy، HdvnA Abw jCfr AHmd bn Cbd Allh
+~~AlbgdAdy، HdvnA Cly Abn CASm، HdvnA AlHryry Cn Cbd Allh Abn Efyq
+~~AlCqyly، Cn kCb، qAl: lmA wly slymAn، AwHy Allh tCAly Alyh An Abn byt
+~~Almqds، fbnAh، flmA dxlh xr sAjdA EkrA llh sbHAnh wtCAly، fqAl: yA rb mn
+~~dxlh mn xAcf fAmnh، Aw mn dAC fAstjb lh، Aw mn mstgfr fAgfr lh، fVbH
+~~ArbCo AlAf bqro، wsbCo AlAf EAo، wSnC TCAmA wdCA bny AsrAcyl Alyh. wfy
+~~rwAyo An Allh tCAly AwHy Aly dAwd: Abn ly bytA، fbny lnfsh bytA qbl Vlk،
+~~vm bnAh fsqT. PageV01P002 qAl Abw bkr AlxTyb Almqdsy: wHdvnA Cysy bn
+~~Cbyd Allh، qAl: Axbrny Cly Abn jCfr، qAl: HdvnA mHmd Abn AbrAhym Abn
+~~Cysy، HdvnA mHmd Abn AlnCmAn، HdvnA slymAn Abn Cbd AlrHmn، HdvnA Abw Cbd
+~~Almlk Aljzry، qAl: lmA xlA mn mlk slymAn snyn، bdA fy bnAc byt Almqds،
+~~fkAn Cdd mn yCml fy bnAc byt Almqds Alf rjl. Clyhm qTC AlxEb fy kl Ehr
+~~CEro AlAf. wkAn Cdo AlVyn yCmlwn fy AlHjAro CEro AlAf. wkAn Cdo AlVyn
+~~yqwmwn Clyhm vlAvmAco Amyn. wAwlj fyh tAbwt mwsy whArwn، wSly fyh wdCA
+~~rbh، fqAl: yA rb! Amrtny bbnAc hVA Albyt AlEryf، yA rb flykn ndAk Clyh
+~~Allyl wAlnhAr، wkl mn jAck ybtgy mnk AlfDl wAlmgfro wAlnSro wAltwbo
+~~wAlrzq fAstjb lh mn qryb Aw bCyd، fAstjAb lh rbh Cz wjl. wqAl: qd Astjb
+~~lk dCAck. qAl: yA slymAn! qd gfrt lmn Aty hVA Albyt lA yCnyh AlA AlSlAo
+~~fyh. qAl slymAn Abn Cbd AlrHmn wHdvnA Alwlyd Abn mHmd، qAl: smCt CTAc
+~~AlxrAsAny yqwl: lmA frg slymAn Abn dAwd mn bnAc byt Almqds، Anbt Allh Cz
+~~wjl lh Ejrtyn Cnd bAb AlrHmo، AHdAhmA tnbt AlVhb، wAlAxry tnbt AlfDo.
+~~fkAn fy kl ywm ynzC mn kl wAHdo mActy rTl VhbA wfDo. ffrE Almsjd blATo
+~~Vhb wblATo fDo، flmA jAc bxt nSr، wAHtml mnh vmAnyn Cjlo VhbA wfDo fTrHh
+~~brwmyh.
+# qAl ClmAc Alsyr: kAn byt Almqds qd xrb Hty SAr kAlmzAbl، fAmr Allh
+~~tCAly slymAn bbnAch، wVlk lArbC snyn xlt mn mlkh، fbnAh fy sbC snyn. wmn
+~~hbT Adm Aly bnAc slymAn byt Almqds ArbCo AlAf wArbC mco wst wsbCwn.
+~~AnbAnA yHyy Abn vAbt Abn bndAr AnbAnA Aby، AnbAnA AlHsyn Abn AlHsyn Abn
+~~rwmA، AnbAnA mHmd Abn jCfr AlbAqrjy، AnbAnA AlHsn Abn Cly AlqTAn، AnbAnA
+~~AsmACyl Abn Cysy AlCTAr، HdvnA Abw HVyfo AsHAq Abn bEr، AnbAnA Abw AlyAs
+~~Cn whb Abn mnbh Cn kCb، qAl: (An Allh Cz wjl AwHy Aly slymAn An Abn byt
+~~Almqds. fjmC HkmAc AlAns wCfAryt Aljn wCZmAc AlEyATyn، vm frq AlEyATyn،
+~~vm frq AlEyATyn، fjCl mnhm fryqA ybnwn، ffryqA yqTCwn AlSxr، wfryqA
+~~yqTCwn AlqnA wAlCmd mn mCAdn AlrxAm، wfryqA ygwSwn fy AlbHr fyxrjwn mnh
+~~Aldr wAlmrjAn، Aldro mvl byDo AlnCAm wbyDo AldjAj. wAxV fy bnAc Almsjd،
+~~flm yvbt AlbnAc. wkAn Clyh Hyr bnAh dAwd fAmr bhdmh، vm Hfr AlArD Hty
+~~blg AlmAc. fqAl: AsswA Cly AlmAc. fAlqwA fyh AlHjAro، fkAn AlmAc ylfZ
+~~AlHjAro، fAstEAr fy Vlk، fAEArwA Clyh An ytxV qlAlA mn nHAs، vm ymlAhA
+~~HjAro، vm yktb ClyhA mA Cly xAtmh mn Vkr AltwHyd، vm ylqyhA fy AlmAc،
+~~fykwn AsAs AlbnAc ClyhA. ffCl، fvbt wbny wCml bbyt Almqds CmlA lA ywSf،
+~~wzynh bAlVhb wAlfDo wAldr wAlyAqwt wAlwAn Aljwhr، fy smAch wArDh wAbwAbh
+~~wjdrh، vm jmC AlnAs wAxbrhm Anh msjd llh tCAly، wAnh hw AlVy Amr bbnAch،
+~~wAn kl Eyc fyh llh tCAly، wAn mn AntqSh EycA fqd xAn Allh، wAnh kAn qd
+~~Chd Aly dAwd fy Vlk vm AwSy slymAn bVlk mn bCdh، vm AtxV TCAmA wjmC
+~~AlnAs. AnbAnA AlmbArk Abn AHmd، AnbAnA Abw bkr mHmd Abn AHmd AlxTyb،
+~~HdvnA Cmr Abn AlfDl، HdvnA Aby، HdvnA Alwlyd Abn yzyd، Cn sCyd Abn Cbd
+~~AlCzyz، Cn CTyo Abn qys، Cn Cbd Allh Abn Cmrw Abn AlCAS، fDrb ynhm bswr
+~~lh bAb bATnh fyh AlrHmh، wZAhrh mn qblh AlCVAb، qAl: hw swr byt Almqds
+~~AlErqy wAllh AClm.
+# ؟AlbAb AlrAbC
+# fy Vkr AlCjAcb Alty kAnt fyh PageV01P003 AnbAnA AlmbArk Abn AHmd،
+~~AnbAnA Abw AlHsyn Abn AlfrAc، AnbAnA Cbd AlCzyz Abn AHmd، HdvnA Abw bkr
+~~mHmd Abn AHmd AlxTyb، HdvnA Cmr Abn AlfDl، HdvnA Aby، HdvnA mHmd Abn
+~~AlCbAs، HdvnA CmrAn Abn mwsy، HdvnA AlbsAm Abn dAwd، HdvnA AHmd Abn Cn
+~~slmo Abn Aby slmo AlAbrE، Cn mHmd Abn AsHq، Cn Aby mAlk Abn vClbo Abn
+~~Aby mAlk AlqrZy، qAl: smCt AbrAhym Abn TlHo Abn Cbyd Allh yHdv Cn Abyh،
+~~Cn jdh، yrfCh، qAl: An VA Alqrnyn kAn mn Hmyr wAnh qSd byt Almqds، wqd
+~~xDCt lh Almlwk، frAy fy byt Almqds AlCjAcb Alty SnChA AlDHAk bn qys fy
+~~AlzmAn AlAwl. AHdy tlk AlCjAcb Anh SnC nArA CZymo Allhb، fmn lm yTC tlk
+~~Allylo AHrqth tlk AlnAr. wAlvAnyo mn rmy byt Almqds bnEAbo rjCt AlnEAbo
+~~Clyh. wAlvAlvo wDC klbA lmn xEb Cly bAb byt Almqds، fmn kAn Cndh Eyc mn
+~~AlsHr AVA mr bVlk Alklb nbH Clyh، fAVA nbH Clyh، nsy mA Cndh mn AlsHr.
+~~wAlrAbCo wDC bAbA، fmn dxlh AVA kAn ZAlmA DgTh Vlk AlbAb Hty yCtrf
+~~bZlmh. wAlxAmso wDC CSA fy mHrAb byt Almqds، flm yqdr AHd yms tlk AlCSA
+~~AlA mn kAn mn wld AlAnbyAc، wmn kAn swy Vlk AHrqt ydh. wAlsAdso Anhm
+~~kAnwA yHbswn AwlAd Almlwk Cndh fy mHrAb byt Almqds، fmn kAn mn Ahl
+~~Almmlko AVA ASbH ASAbwA ydh mTlyo bAldhn. wjCl (slymAn Abn dAwd slslo
+~~mClqo mn AlsmAc Aly AlArD، lybyn AlmHq mn AlmbTl، fAlmHq ynAlhA، wAlmbTl
+~~lA ynAlhA، wAn yhwdyA AstwdC mAco dynAr، fjHdhA fjAcwA Aly Alslslo، wqd
+~~sbk Alyhwd AldnAnyr، fjClhA fy CSA wnAwlhA SAHb AlmAl، wHlf lqd ACTyth
+~~dnAnyrh، wHlf AlAxr Anh lm yAxV. fArtfCt Alslslo mn Vlk Alywm) wjCl
+~~slymAn tHt AlArD mjlsA wbrko fyhA mAc، fmn wqC fy AlmAc wkAn mbTlA grq،
+~~wAllh AClm.
+# ؟AlbAb AlxAms
+# fy Vkr fDl byt Almqds qAl Allh Cz wjl: (sbHAn AlVy Asry bCbdh lylA mn
+~~Almsjd AlHrAm): yCny msjd mko، (Aly Almsjd AlAqSy) whw byt Almqds، wqyl
+~~lh AlAqSy lbCd AlmsAfo Alty byn Almsjdyn، (AlVy bArknA Hwlh) Ay bAn Ajry
+~~Hwlh AlAnhAr wAnbt AlvmAr، wqyl lAnh mqr AlAnbyAc wmhbT AlmlAcko. AnbAnA
+~~Abw AlmCmr، AnbAnA Abw AlHsyn Abn AlfrAc، AnbAnA Cbd AlCzyz Abn AHmd
+~~AlnSyby، AnbAnA Abw bkr mHmd Abn AHmd AlxTyb، HdvnA Cmrw، HdvnA Alwlyd،
+~~HdvnA AbrAhym Abn mHmd، HdvnA dAwd Cn sCyd Abn Cbd AlCzyz، Cn Crwo Abn
+~~rwym، Cn Cbd Allh bn mAlk AlxvCmy، Cn kCb qAl: An Allh Cz wjl ynZr Aly
+~~byt Almqds kl ywm mrtyn.
+# AlbAb AlsAds
+# fy fDl zyArth PageV01P004 AnbAnA Abw AlmCmr، AnbAnA Abw AlHsyn Abn
+~~AlfrAc، AnbAnA Cbd AlCzyz Abn AHmd، HdvnA Abw bkr mHmd Abn AHmd AlxTyb،
+~~HdvnA Cmr Abn AlfDl. HdvnA Aby. HdvnA Alwlyd، HdvnA Cbd Allh Abn
+~~AbrAhym، Cn HfS Abn Cmrw، Cn Cbd Allh Abn srydo، Cn mkHwl، qAl: (mn zAr
+~~byt Almqds EwqA Alyh dxl Aljno، wzArh jmyC AlAnbyAc، wgbTwh bmnzlth mn
+~~Allh Cz wjl. wgymA rfqo xrjwA yrydwn byt Almqds EyCthm CEro AlAf mn
+~~AlmlAcko ystgfrwn lhm wySlwn Clyhm، wlhm mvl ACmAlhm AVA AnthwA Aly byt
+~~Almqds، wlhm bkl ywm yqymwn fyh SlAo sbCyn mlkA. wmn dxl byt Almqds
+~~TAhrA mn AlkbAcy ylqAh bmAco rHmo، mA mnhA rHmo AlA wlw qsmt Cly jmyC
+~~AlxlAcq lwsCthm. wmn Sly fy byt Almqds rkCtyn yqrA fyhA fAtHo AlktAb،
+~~wql hw Allh AHd xrj mn Vnwbh kywm wldth Amh، wkAn lh bkl ECro Cly jsdh
+~~Hsno. wmn Sly fy byt Almqds ArbC rkCAt، mr Cly AlSrAT kAlbrq، wACTy
+~~AmAnA mn AlfzC AlAkbr ywm AlqyAmo. wmn Sly fy byt Almqds st rkCAt، ACTy
+~~mAco dCwo mjAbo، AdnAhA brAco mn AlnAr، wwjbt lh Aljno. wmn Sly fy byt
+~~Almqds vmAny rkCAt، kAn rfyq AbrAhym xlyl AlrHmn. wmn Sly fy byt Almqds
+~~CEr rkCAt، kAn rfyq dAwd wslymAn fy Aljno. wmn Astgfr llmcmnyn wAlmcmnAt
+~~fy byt Almqds vlAv mrAt، kAn lh mvl HsnAthm، wdxl Cly kl mcmn wmcmno mn
+~~dCAch sbCwn mfgro، wgfr lh Vnwbh klhA. qAl Alwlyd: wHdvnA AbrAhym Abn
+~~mHmd، HdvnA Dmro Cn AlEybAny، slymAn Abn AdAwd lmA rd Allh mlkh mEy Cly
+~~rjlyh mn CsqlAn Aly byt Almqds fy xrq Clyh twADCA llh Cz wjl. wkVlk
+~~rwynA An AlnjAEy lmA glb qySr mEy Aly byt Almqds Cly qdmyh EkrA llh Cz
+~~wjl.
+# AlbAbAlbAs AlsAbC
+# fy fDl AlSlAo fyh AnbAnA Abw AlmCmr Abn AHmd AlAnSAry، AnbAnA Abw
+~~AlHsyn mHmd Abn mHmd Abn AlfrAc، AnbAnA Cbd AlCzyz AHmd Abn CmrAn، HdvnA
+~~Abw bkr mHmd Abn AlxTyb، HdvnA Cysy Abn Cbd AlCzyz AlwrAq، Axbrny Abw
+~~AlHsyn Cly Abn jCfr AlrAzy، HdvnA AbrAhym Abn mHmd Abn Cbd AlSmd
+~~Almqdsy، Hdvny AlHsn Abn AlHsyn AlClAf، HdvnA Cly Abn dAwd AlqnTry،
+~~HdvnA EybAn Cn qtAdo Cn Ans، qAl: qAl rswl Allh Sly Allh Clyh wslm: mn
+~~Sly bbyt Almqds xms SlwAt nAflo kl SlAo ArbC rkCAt yqrA fy Alxms SlwAt
+~~CEro AlAf mro (ql ho Allh AHd) fqd AEtry nfsh mn Allh tCAly lys llnAr
+~~Clyh slTAn HdvnA Abw AlCbAs AHmd Abn Cmr Abn ywns، HdvnA Abw mHmd Cbd
+~~Allh Abn mHmd Abn sAlm Almqdsy، HdvnA hEAm Abn CmAd AldmEqy، HdvnA Abw
+~~AlxTAb، HdvnA zryq Abw Cbd Allh AlAlmAny Cn Ans Abn mAlk qAl: qAl rswl
+~~Allh Sly Allh Clyh wslm: (SlAo Alrjl fy byth bSlAo wAHdo، wSlAth fy msjd
+~~AlqbAcl bst wCEryn، wSlAth fy Almsjd AlVy yjmC fyh bxmsmAco SlAo، wSlAth
+~~fy Almsjd AlAqSy bxmsyn Alf SlAo، wSlAth fy Almsjd AlHrAm bmco Alf
+~~SlAo). qAl Abw bkr AlxTyb: wHdvnA Cmr Abn AlfDl، HdvnA Aby، HdvnA
+~~Alwlyd، HdvnA AbrAhym Abn mHmd، HdvnA mHmd Abn Cbd AlrHmn، HdvnA vwr Abn
+~~yzyd، Cn mkHwl، An mymwno sAlt rswl Allh Sly Allh Clyh wslm Cn byt
+~~Almqds qAl: nCm Almskyn byt Almqds، wmn Sly fyh SlAo bAlf SlAo fymA
+~~swAh، qAlt: fmn lm yTq Vlk، qAl: flyhd lh zytA. AnbAnA nASr AnbAnA Cbd
+~~AlrHmn Abn Aby Cbd Allh Abn mndo، HdvnA Aby، HdvnA AHmd Abn mHmd Abn
+~~AbrAhym، HdvnA mHmd Abn AlnCmAn Abn bEyr، HdvnA slymAn، HdvnA Abw Cbd
+~~Almlk Cn gAlb Cn mkHwl: Cn Alnby Sly Allh Clyh wslm: qAl: lA ysmC Ahl
+~~AlsmAc mn klAm bny Adm EycA gyr AVAn mcVn byt Almqds.
+# AlbAb AlvAmn
+# fy Vkr mDACfo AlHsnAt wAlsycAt fyh PageV01P005 AnbAnA AlmbArk Abn AHmd
+~~AlAnSAry، AnbAnA mHmd Abn mHmd Abn AlHsyn AlqADy، AnbAnA Cbd AlCzyz Abn
+~~AHmd Abn Cmr، AnbAnA mHmd Abn AHmd Abn Aby bkr AlxTyb، HdvnA Cmr Abn
+~~AlfDl، HdvnA Abw AlHsyn yCqwb Abn AsHq AlCsqlAny، HdvnA Abw Cmyr AlnHAs،
+~~HdvnA Dmro Cn Allyv Abn sCd Cn nAfC. qAl: qAl Abn Cmr، wnHn fy byt
+~~Almqds: yA nAfC Axrj bnA mn hVA Albyt fAn AlsycAt tDACf fyh kmA tDACf
+~~AlHsnAt، qAl Cmr Abn AlfDl: wHdvny Aby، HdvnA Alwlyd، HdvnA AbrAhym،
+~~HdvnA kvyr Abn Alwlyd، HdvnA Abw hAEm AsmACyl Abn CyAE qAl: smCt jryr bn
+~~CvmAn wSfwAn Abn Cmrw yqwlAn: AlHsno fy byt Almqds wAlsyco bAlf.
+# AlbAb AltAsC
+# fy fDl Alskny fyh AnbAnA Abw AlmCmr، AnbAnA Abw AlHsyn Abn AlfrAc،
+~~AnbAnA Cbd AlCzyz Abn AHmd Abn Cmr، AnbAnA Abw bkr mHmd Abn mHmd AlxTyb
+~~Almqdsy، HdvnA Abw AlCbAs AHmd Abn Cmr، AnbAnA Cbd Allh Abn mHmd Abn
+~~mslm، HdvnA hEAm Abn CmAr، HdvnA mHmd Abn ECyb Cn CvmAn Abn CTAc، Cn
+~~Abyh، Cn zyAd Abn Aby swdo، Cn Aby CmrAn، Cn Vy AlASAbC Anh qAl: ArAyt
+~~yA rswl Allh An AbtlynA bAlbqAc bCdk، fAyn tAmrnA؟ qAl: Clyk bbyt
+~~Almqds، lCl Allh yrzqk Vryo tgdw glyh wtrwH qAl AlxTyb Almqdsy: wHdvnA
+~~nsym Abn Cbd Allh Almqtdry، HdvnA Cbd AlCzyz Abn jCfr AlxwArzmy، HdvnA
+~~AHmd Abn Alfrj Abw Ctbo، HdvnA Dmro Abn zmCo، Hdvny AlsybAny Cn Cmrw Abn
+~~Cbd Allh AlHDrmy Cn Aby AmAmo AlbAhly، An rswl Allh Sly Allh Clyh wslm
+~~qAl: lA yzAl TAcfo mn Amty ZAhryn Cly AlHq lCdwhm qAhryn lA yDrhm mn
+~~xAlfhm Hty yAtyhm Amr Allh Cz wjl whm kVlk. qAlwA: yA rswl Allh wAyn hm؟
+~~qAl: bbyt Almqds wAknAf byt Almqds. qAl AlxTyb: wHdvnA Cmr Abn AlfDl Abn
+~~AlmhAjr، HdvnA Aby، HdvnA Alwlyd، HdvnA AbrAhym Abn mHmd، HdvnA mHmd Abn
+~~Cbd AlrHmn Cn Abn jryj، Cn CTAc qAl: lA tqwm AlsACo Hty yswq Allh xyAr
+~~CbAdh Aly byt Almqds wAly AlArD Almqdso fysknhm AyAhA. qAl Alwlyd:
+~~wHdvnA mHmd Abn AlnCmAnn HdvnA slymAn Abn Cbd AlrHmn، HdvnA Abw Cbd
+~~Almlk Aljzry Cn gAlb Abn Cbyd Allh، Cn mkHwl Cn kCb، qAl: qAl Allh Cz
+~~wjl lbyt Almqds: Ant jnty، wqdsy wSfwty mn blAdy، mn sknk fbrHmo mny،
+~~wmn xrj mnk fbsxT mny Clyh. qAl: wHdvnA Aljzry Cn mqAtl Abn slymAn Cn
+~~whb Abn mnbh: Ahl byt Almqds jyrAn Allh Cz wjl wHq Cly Allh An lA yCVb
+~~jyrAnh.
+# ؟AlbAb AlCAEr
+# fy Anh AHd AlmsAj Alty tEd AlrHAl AlyhA AxbrnA hbo Allh Abn mHmd Abn
+~~AlHSyn، AxbrnA Abw Cly AlHsn Abn Cly Abn AlmVhb، AxbrnA AHmd Abn jCfr
+~~Abn HmdAn، HdvnA Cbd Allh Abn AHmd Abn Hnbl، Hdvny Aby، HdvnA yHyy Cn
+~~mjAld، Hdvny Abw AlwdAk Cn Aby sCyd، Cn Alnby Sly Allh Clyh wslm Anh
+~~qAl: lA tEd AlrHAl AlA Aly vlAvo msAjd، Almsjd AlHrAm، wmsjdy، wmsjd byt
+~~Almqds.
+# AlbAb AlHAdy CEr
+# fy Vkr mA hnAk mn qbwr AlAnbyAc wmHrAb dAwd wCyn slwAn PageV01P006 fy
+~~AlSHyH Anh lmA AHtDr mwsy Clyh AlslAm، qAl: yA rb Adnny mn AlArD Almqdso
+~~rmyo Hjr، wfy AlArD Almqdso AbrAhym wAsHAq wyCqwb wywsf Clyhm AlslAm.
+~~AnbAnA AlmbArk Abn AHmd AlAnSAry، AxbrnA Abw AlHsyn Abn AlfrAc، AnbAnA
+~~AlmbArk Abn AHmd AlAnSAry، AxbrnA Abw AlHsn Abn AlfrAc، AnbAnA Abw mHmd
+~~Cbd AlCzyz Abn Cmr AlnSyby، AnbAnA Abw bkr mHmd Abn AHmd AlxTyb، AnbAnA
+~~Abw HfS Cmr Abn AlfDl Abn mhAjr، HdvnA Aby، HdvnA Alwlyd Abn HmAd، HdvnA
+~~hArwn Abn sCyd، HdvnA bEr Abn bkr Cn Am Cbd Allh، Cn AbyhA، Anh qAl: mn
+~~Aty byt Almqds flyAt mHrAb dAwd، flySl fyh wlysbH fy Cyn slwAn fAnhA mn
+~~Aljno. qAl Abw bkr AlxTyb: wHdvnA Cysy Abn Cbyd Allh AlwrAq، Axbrny Cly
+~~Abn jCfr AlrAzy ، HdvnA Cbd Allh Abn mHmd Abn slm، HdvnA Cbd AlrHmn
+~~AbrAhym، HdvnA Abw HfS Cn sCyd Abn Cbd AlCzyz، qAl: kAn fy zmAn bny
+~~AsrAcyl fy byt Almqds Cnd Cyn slwAn Cyn، fkAnt AlmrAo AVA qAVft AtwA bhA
+~~fErbt mnhA، fAn kAnt bryco lm yDrhA، wAn kAnt nTfo mAtt flmA Hblt mrym
+~~HmlwhA، fErbt mnhA flm tzdd AlA xyrA، fdCt Allh An lA yfDH bhA AmrAo
+~~mcmno، fgArt AlCyn.
+# AlbAb AlvAny CEr
+# fy Vkr mA jry Cly byt Almqds mn Alnhb wAlxrAb PageV01P007 qAl Allh Cz
+~~wjl: wqDynA Aly bny AsrAcyl fy AlktAb، Ay fy AltwrAo، AxbrnAhm bVlk
+~~ltfsdn fy AlArD mrtyn، Ay fy ArD mSr، bAlmCASy wmxAlfo AltwrAo wqtl
+~~AlAnbyAc، wfy Almqtwl mn AlAnbyAc fy AlfsAd AlAwl qwlAn، AHdhmA zkryA
+~~qAlh Alsdy Cn AEyAxh، wAlvAny ECyA fAmA Almqtwl fy AlfsAd AlvAny fhw
+~~yHyy Abn zkryA، qAl mqAtl: kAn byn AlfsAdyn mctA sno wCEr snyn، fAmA sbb
+~~qtlhm zkryA fAnhm Athmwh bmryn، qAlwA mnh Hmlt، fhrb mnhm، fAnftHt lh
+~~Ejro، fdxl fyhA. wbqy mn rdAch hdb، fjAchm AlEyTAn، fdlhm Clyh، fqTCwA
+~~AlEjro bAlmnEAr whw fyhA. wAmA Alsbb fy qtlhm ECyA fhw Anh Arsl Alyhm
+~~fnhAhm Cn AlmCASy، qAl Abn AsHAq wECyA whw AlVy qAl lAylyAc، why qryo
+~~byt Almqds، wAsmhA Awry Elm، AbEry Awry Elm! AbEry Awry Elm! AbEry Awry
+~~Elm! yAtyk AlAn rAkb AlHmAr، yCny Cysy، wyAtyk bCdh rAkb AlbCyr، yCny
+~~mHmdA Sly Allh Clyh wslm. wAqbl snHAryb mlk bAbl mCh stmAco Alf rAyo Hty
+~~nzl Hwl byt Almqds، fqAl ECyA: lsnHAryb An Allh tCAly qd AwHy Aly An
+~~Amrk An twSy wtstxlf. fAqbl Cly Alqblo fSly wtDrC، wqAl: zd fy Cmry،
+~~fAwHy Allh Aly ECyA An rbk qd rHmh، wqd Axr Ajlh xms CEro sno، wAnjAh mn
+~~Cdwh، fASbH jmyC AlACdAc mwty AlA xmso mn ktAbh، wsnHAryb، wAHdhm bxt
+~~nSr، ftrkwA fy ACnAqhm AljwAmC، wTAfwA bhm sbCyn ywmA Hol byt Almqds. vm
+~~Al AlAmr Aly An qtl ECyAw vm SAr mlk byt Almqds wAlEAm lAEnAsb bn
+~~lhwAsb، wCAmlh Cly Vlk klh bxt nSr. wAmA Alsbb fy qtlhm yHyy Abn zkryA
+~~Clyh AlslAm، fAn mlkhm ArAd nkAH AmrAo lA tHl lh، whwyhA، fnhAh yHyy،
+~~wqAl Alsdy Cn AEyAxh: kAnt bnt AmrAth fHqdt AmhA Cly yHyy، fqAlt lAbnthA
+~~tzyny lh، fAn ArAdk fqwly lA: AlA yrAs yHyy، ffClt، fAmr bh fjyc brAsh
+~~wAlrAs ytklm wyqwl AnhA lA tHl lk. wmA zAl dm yHyy ygly Hty qtl Clyh mn
+~~bny AsrAcyl sbCwn AlfA، fskn wqAl Abn AsHq lmA rjC bnw AsrAcyl mn bAbl
+~~Aly byt Almqds، mA zAlwA yHdvwn AlAHdAv wykVbwn AlAnbyAc Aly An bCv
+~~zkryA wyHyy wCysy Clyhm AlslAm، fbCv Allh Cz wjl Clyhm bCd Cysy mlkA mn
+~~mlwk bAbl yqAl lh xrdws، fdxl byt Almqds fwjd dmA ygly، qAlwA: dm qrbAn،
+~~qAl: wylkm ASdqwny. qAlwA: dm nby mnA qtlnAh. qAl: flhVA Antqm fykm
+~~mnkm، qAl Allh Cz wjl: fAVA jAc wCdAwlAhmA، Ay Cqwbo Awly Almrtyn، bCvnA
+~~Ay ArslnA Clykm CbAdA lnA. wfyhm xmso AqwAl. AHdhA jAlwt wjnwdh. AxbrnA
+~~Cbd AlwhAb Abn AlmbArk AlHAfZ، AnbAnA Abw AlfDl Abn xyrwn. AnbAnA Abw
+~~Cly Abn sAdAn، AnbAnA AHmd Abn kAml، Hdvny mHmd Abn sCd، Hdvny Aby Cn
+~~Cmy، Cn Abyh، Cn jdh، Cn Abn CbAs، bCvnA Clykm CbAdA lnA jAlwt fjAswA
+~~xlAl dyArhm، wDrbwA Clyhm AlxrAj wAlVl، fsAlwA Allh An ybCv lhm mlkA
+~~yqAtlwn fy sbyl Allh، fbCv Allh TAlwt، flmA AfsdwA bCv Allh Clyhm fy
+~~Almro AlAxry bxt nSr. wAlvAny An AlVy bCv fy Almro AlAwly bxt nSr. qAl
+~~sCyd Abn Almsyb، wAxtArh AlfrAc، wAlzjAj. wAlvAlv AlCmAlqo wkAnoA kfArA.
+~~qAlh Abn AlHsn. wAlrAbC snHAryb qAlh sCyd Abn jbyr. wAlxAms qwm mn Ahl
+~~fArs qAlh mjAhd. qAl Abn zyd: PageV01P008 slT Clyhm sAbwr VA AlAktAf mn
+~~mlwk fArs (Awly bAs Edyd)، Ay Vwy Cdd wqwo fy AlqtAl (fjAswA xlAl
+~~AldyAr) ynZrwn hl bqy AHd lm yqtlwh، (wkAn wCdA mfCwlA)، lA bd mn kwnh،
+~~(vm rddnA lkm Alkro Clyhm)، Hyn qtl dAwd jAlwt. wCAd mlkhm AlyhA،
+~~(wjClnAkm Akvr nfyrA) Ay CddA (An AHsntm) wqlnA lkm (fAVA jAc wCd
+~~AlAxro)، Ay wCd Cqwbo Almro AlAxro mn AfsAdkm، whw qtl yHyy، wqSdhm
+~~Cysy، bCvnAhm fslT Allh Clyhm mlwk fArs wAlrwm، fqtlwhm wsbwhm، wqtl bxt
+~~nSr، fAnh Axrb AlmsAjd wsby AlVryo، whm sbCwn Alf glAm. AxbrnA Cbd
+~~AlwhAb AlHAfZ، AnbAnA Abw Alfl Abn xyrwn، AnbAnA Abw Cly Abn EAdAn،
+~~AxbrnA AHmd Abn kAml، Hdvny mHmd Abn sCd، Hdvny Aby، HdvnA Cmy، Cn Abyh،
+~~Cn jdh، Cn Abn CbAs، qAl: bCv Allhm Clyhm Almro AlAxyro bxt nSr، fxrb
+~~AlmsAjd، (wtbr mA ClwA ttbyrA، Csy rbkm An yrHmkm frHmhm bCd AntqAmh
+~~mnhm، wCmr blAdhm، wACAd nCmthm bCd sbCyn sno (wAn Cdtm Aly AlmCSyo CdnA
+~~Aly AlCqwbo) qAl AlClmAc: vm CAdwA Aly AlmCSyo. fbCv Allhm Clyhm mlwkA
+~~mn fArs wAlrwm. vm kAn Axr Vlk An bCv Allh sbHAnh mHmdA ftrkhm fy CVAb
+~~Aljzyo. fSl: wAxtlf AlClmAc fy AlVy mr Cly qryo، fqAl AlAkvrwn hw Czyr.
+~~AxbrnA Abn AlHSyn، AnbAnA Abn gylAn، HdvnA Abw bkr AlEAfCy، HdvnA Abw
+~~yCqwb AlHrby، HdvnA Abw HVyfo Alnhdy، HdvnA sfyAn vwry، Cn Aby AsHAq، Cn
+~~nAjyh Abn kCb، (Aw kAlVy mr Cly qryo)، qAl، hw Czyr. whVA mVhb Cly Abn
+~~Aby TAlb wAbn CbAs. qAl whb Abn mnbh: kAn Czyr mn AlsbAyA Alty sbAhA bxt
+~~nSr mn byt Almqds، frjC Aly AlEAm fbky Cly fqd AltwrAo، fnbc wkAn bxt
+~~nSr lmA dxl Aly byt Almqds qd AHrq AltwrAo wsAq bny AsrAcyl Aly bAbl،
+~~ftlAhA Czyr Clyhm fAfttnwA bh، wqAlwA: hw Abn Allh، wdfChA Aly tlmyV lh.
+~~wmAt، wkAn Asm AltlmyV myxAcyl، fbdlhA wzAd fyhA wnqS mnhA. wydl Cly Vlk
+~~An fyhA AHAdyv AsfAr mwsy، wmA jry lh، wmwth، wwSyth، wlys hVA mn klAm
+~~Allh Cz wjl. wAty Czyr Cly byt Almqds bCdmA xrbh bxt nSr AlbAly، fqAl:
+~~Any tCmr hVh bCd xrAbhA. fAmAth Allh mco CAm، fAwl mA xlq mnh rAsh، vm
+~~rkbt fyh CynAh، fjCl ynZr Aly CZAmh ttSl bCDhA bbCD. wmAt whw Abn ArbCyn
+~~sno wAbnh Abn CEryn. flmA CAE Aty qwmh fqAl: AnA Czyr، fqAlwA: HdvnA
+~~AbAcnA An CzyrA mAt bArD bAbl fAmly AltwrAo Clyhm. wqyl Vlk AlrHyl
+~~ArmyA، rwy Cbd AlSmd Abn mCql Cn whb Abn mnbh، qAl: AqAm ArmyA bArD mSr،
+~~fAwHy Allh tCAly Alyh، An AlHq bArD AylyAc fAn hVh lyst lk bArD mqAm.
+~~frkb HmArh، Hty AVA kAn bbCD AlTryq، wAxV mCh slo mn Cnb wsqAc jdydA fyh
+~~mAc، flmA bdA lh ExS byt Almqds، wmA Hwlh mn Alqry wAlmsAjd، wnZr Aly
+~~xrAb lA ywSf، qAl: Any yHyy hVh Allh bCd mwthA. vm rbT HmArh wClfh wsqAh
+~~fAlqy Allh Clyh Alnwm، wAmAth fy nwmh، fmrt Clyh sbCwn sno، fArsl Allh
+~~mlkA Aly mlk mn mlwk fArs CZym، fqAl: PageV01P009 An Allh yAmrk An tnfr
+~~bqwmk، ftCmr byt Almqds، wAylyAc wArDhA، Hty tCwd ACmr mmA kAnt. fndb
+~~vlAvo AlAf qhrmAn Alf CAml، wmA ySlHh mn AdAo AlCml، fsArwA AlyhA whm
+~~vlAvo AlAf CAml، flmA wqCwA fy AlCml rd Allh Cz wjl rwH AlHyAo fy Cyny
+~~ArmyA، wAxr jsdh myt، fnZr Aly AylyAc wmA HwlhA mn AlmdAcn wAlmsAjd
+~~wAlHrwv tCml wtCmr wtHdd Hty CAdt ACmr mA kAnt bCd vlAvyn sno tmAm
+~~Almco، frd Allh Alyh AlrwH، fnwdy mn AlsmAc km lbvt ywmA، vm nZr Aly
+~~bqyo AlEms fqAl: ywmA Aw bCD ywm. fnZr Aly TCAmh wErAbh wkAn mCh tyn
+~~wCnb، wlm ytgyr، wnZr Aly HmArh wqd tfrqt AwSAlh fjmCh Allh Cz wjl.
+~~AnbAnA Abw AlmCmr، AxbrnA Abw AlHsyn AlfrAc، AnbAnA Cbd AlCzyz Abn AHmd،
+~~AnbAnA Abw bkr mHmd Abn AHmd AlxTyb، HdvnA Cysy Abn Cbyd Allh Axbrny Cly
+~~Abn jCfr AlrAzy، HdvnA mHmd Abn slymAn Abn mskyn، HdvnA AsHq Abn rzyq،
+~~HdvnA CvmAn Abn Cbd AlrHmn AlqrEy، HdvnA yzyd Abn Cmr Cn mnSwr bn rbCy
+~~Abn HrAE، Cn HVyfo، Abn AlymAn Cn Alnby Sly Allh Clyh wslm. qAl: gzA
+~~TATry bn AsmAnws bny AsrAcyl fsbAhm، wsby Hly byt Almqds، wAHrqhA
+~~bAlnyrAn، wHml mnhA fy AlbHr AlfA wsbC mco sfyno HlyA، Hty Awrdh rwmyo.
+~~qAl HVyfo fsmCt rswl Allh Sly Allh Clyh wslm yqwl: lyxrjn Almhdy Vlk Hty
+~~tcdyh Aly byt Almqds. AnbAnA mHmd Abn nASr، AnbAnA Cbd AlrHmn Abn mndh،
+~~HdvnA Aby، HdvnA AHmd Abn mHmd Abn AbrAhym Abn Hkym، HdvnA mHmd Abn
+~~AlnCmAn Abn bEyr، HdvnA slymAn، HdvnA Alwlyd Cn sCyd Abn Cbd AlCzyz،
+~~qAl: Axrjt Alrwm Ahl rwmyo، msjd byt Almqds wAtxVth mzblo، Hty An kAnt
+~~AlmrAo ltbCv bxrq mn dmhA Hty tlqy fy msjd byt Almqds flmA qrA qySr ktAb
+~~rswl Allh Sly Allh Clyh wslm. ydCwh Aly AlAslAm، fqrAh Cly bTArqo Alrwm
+~~bbyt Almqds flmA frg mn qrActh qAl: wylkm mA trwn wqd xrbtm hVA Almsjd
+~~wAtxVtmwh mzblo twbwA mmA SnCtm wAlA qtltm Clyh kmA qtlt bnw AsrAcyl Cly
+~~dm yHyy Abn zkryA. fAxVwA fy knsh، whw ywmcV mzblo، wqd HAVt mHrAb dAwd.
+~~fmA knswA AlA Alvlv Hty qdm Almslmwn wHDr Cmr Abn AlxTAb ftHhA، wwly
+~~knshA bnfsh wmn mCh mn Almslmyn.
+# AlbAb AlvAlv CEr
+# fy gzAo mwsy ArD byt Almqds qAl ClmAc Alsyr: Amr Allh Cz wjl mwsy
+~~wqwmh bAlsyr Aly AryHA. why ArD byt Almqds. qAl Alsdy: fsArwA Hty AVA
+~~kAnwA qrybA mnhA، bCv mwsy Avny CEr nqybA mn jmyC AsbAT bny AsrAcyl
+~~lyAtwA bxbr AljbAryn، flqyhm Cwj fAxV AlAvny CEr fjClhm fy Hjzth، wCly
+~~rAsh Hml HTb، fAnTlq bhm Aly AmrAth، fqAl: AnZry Aly hclAc AlVyn yzCmwn
+~~Anhm yrydwn qtlnA، fTrHhm byn ydyh، fqAl: AlA ATHnhm brjly؟ qAlt: lA bl
+~~xl Cnhm Hty yxbrwA qwmhm bmA ArwA، flmA xrjwA qAl bCDhm lbCD: yA qwm
+~~Ankm An Axbrtm bny AsrAcyl xbr Alqwm rjCwA Cn nby Allh، wlkn AktmwA
+~~wAxbrwA nby Allh. fAnTlq CEro mnhm fAxbrwA AhAlyhm، wktm rjlAn. fqAl
+~~AlnAs: An fyhA qwmA jbAryn، wAnA ln ndxlhA Hty yxrjwA mnhA، wAlrjlAn
+~~ywEC wkAlb Abn ywfnA، fqAl Allh tCAly fAnhA mHrmo Clyhm، fDrb Clyhm
+~~Altyh، fkAn mwsy lmA nzl bArD knCAn mn ArD AlEAm wfyhm blCAm qAlwA lh
+~~AdC Clyh! qAl wylkm: kyf AdCw Cly nby Allh fAlzmwh fdCA Clyhm ftAhwA.
+# AlbAb AlrAbC CEr
+# fy ftH ywEC byt Almqds PageV01P010 qAl Ahl Alsyr: Amr Allh Cz wjl ywEC
+~~Abn nwn Almsyr Aly AryHA lHrb mn fyhA mn AljbAryn، why Alty AmtnC bnw
+~~AsrAcyl Cn dxwlhA fmAtwA fy Altyh، wmAt mwsy whrwn fy Altyh، wmAt Alkl
+~~swy ywEC wkAlb، AnmA dxl ywEC bAbnAchm، fdxlwA Clyhm fqtlwhm، fkAnt
+~~AlCSAbo mn bny AsrAcyl tjtmC Cly Cnq Alrjl Hty yqTCwhA. wkAn AlqtAl ywm
+~~AljmCo، fxAfwA mn dxwl Alsbt، fqAl ywEC: Allhm AHbs AlEms. fwqft bynhA
+~~wbyn Algrwb qyd rmH، fvbtt mqdAr sACo Hty AfttHhA، wqtl ACdAch، whdm
+~~AryHA wmdAcn Almlwk. AxbrnA Abn AlHSyn، AnbAnA Abn AlmVhb، AnbAnA AHmd
+~~Abn jCfr، HdvnA Cbd Allh Abn AHmd، Hdvny Aby، HdvnA Asywd Abn CAmr،
+~~HdvnA Abw bkr Abn hEAm Cn Abn syryn، Cn Aby hryro، qAl: qAl rswl Allh
+~~Sly Allh Clyh wslm: An AlEms lm tHbs Cly bEr AlA ywEC Abn nwn lyAly sAr
+~~Aly byt Almqds. wqAl whb Abn mnbh: kAn ysrj fy byt Almqds Alf qndyl،
+~~wkAn yxrj zyt mn Twr synA mvl Cnq AlbCyr Hty ySb fy Alqndyl wlA yms
+~~bAlAydy. wkAnt tnHdr nAr mn AlsmAc byDAc fysrj bhA، wkAn Cly AlsrAj AbnA
+~~hArwn، fAwHy Allh tCAly AlyhmA An lA tsrjA bnAc AldnyA، fAbTAt AlnAr
+~~CnhmA CEyo، fCmdA Aly nAr mn nAr AldnyA fAsrjA bhA، fAnHdrt AlnAr
+~~fAHrqthmA، fxrj AlSryx Aly mwsy، fxrj Aly AlmwDC AlVy kAn ynAjy fyh rbh،
+~~fqAl: Ay rb! AbnA hrwn Axy qd Clmt mnzlthmA mny wmkAny، fAnHdrt AlnAr
+~~fAHrqthmA. fqAl lh: yA mwsy hkVA AfCl bAwlyAcy AVA CSwny fkyf bACdAcy.
+# AlbAb AlxAms CEr
+# fy Vkr SlAo rswl Allh Sly Allh Clyh wslm Aly byt Almqds qAl Alzhry: lm
+~~ybCv Allh Cz wjl mnV xlq Adm Aly AldnyA nbyA AlA jCl qblth Sxro byt
+~~Almqds، wqd Sly AlyhA nbynA Sly Allh Clyh wslm. AxbrnA Cbd AlAwl، AnbAnA
+~~Abn AlmZfr، AnbAnA Abn ACyn، AnbAnA Alfrbry، HdvnA AlbxAry، Hdvn Cbd
+~~Allh Abn rjAc Cn AsrAcyl، Cn Aby AsHq، Cn AlbrAc، qAl Sly Allh Clyh wslm
+~~Aly byt Almqds sto CEr EhrA، Aw sbCo CEr EhrA، wkAn yHb An ytwjh Aly
+~~AlkCbo. AxrjAh fy AlSHyHyn. wqAl Abn C bAs: qAl rswl Allh Sly Allh Clyh
+~~wslm ljbryl Clyh AlslAm: wddt An rby Cz wjl Srfny Cn qblo Alyhwd Aly
+~~qblo AbAcy AbrAhym wAsmACyl wAsHAq wyCqwb.
+# AlbAb AlsAds CEr
+# fy Vkry msry rswl Allh Sly Allh Clyh wslm Aly byt Almqds wmA jry lh
+~~hnAk wVkr SlAth Alyh AxbrnA Abn AlHSyn، AnbAnA Abn AlmVhb، AnbAnA AHmd
+~~Abn jCfr، AnbAnA Cwf Cn zrAro Abn Awfy، Cn Abn CbAs، qAl: qAl rswl Allh
+~~Sly Allh Clyh wslm: lmA kAn lylo Asry by، fASbHt bmko، qTCt bAmry wCrft
+~~An AlnAs mkVby. fqCd rswl Allh Sly Allh Clyh wslm mCtzlA HzynA، fmr bh
+~~Abw jhl، fjAc Hty jls Alyh، fqAl lh kAlmsthzc: hl kAn mn Eyc؟ qAl:
+~~nCm؟؟؟؟! qAl: wmA hw؟ qAl: Any Asry by fy Allylo. qAl: Aly Ayn؟ qAl: Aly
+~~byt Almqds.
+# qAl: vm ASbHt byn ZhrAnynA؟ qAl: nCm! qAl: flm yrh Anh - mxAfo An
+~~yjHdh AlHdyv An dCA qwmh Alyh. qAl - qwmk AtHdvhm bmA Hdvtny؟ fqAl: nCm!
+~~fqAl: hA - kCb Abn lwy، Hty AnfDt Alyh AlmjAls، wjAcwA - AlyhmA. fqAl:
+~~Hdv qwmk mA Hdvtny. fqAl rswl Allh Sly Allh Clyh wslm: Any Asry by fy
+~~Allylo. qAlwA: Aly Ayn؟ qAlwA Aly byt Almqds. qAlwA: vm ASbHt byn
+~~ZhrAnynA؟ qAl: nCm - byn mSfq wmn byn wADC ydyh Cly rAsh mtCjbA llkVb.
+~~zCm - whl tstTyC An tnCt lnA Almsjd؟ wfy Alqwm mn qd sAfr - Albld wrAy
+~~Almsjd. fqAl rswl Allh Sly Allh Clyh wslm AnCt Hty Altbs Cly bCD AlnCt
+~~fjyc bAlmsjd wAnA AnZr Alyh Hty wDC dwn dAr Cqyl، fnCth wAnA AnZr Alyh،
+~~qAl Alqwm AmA AlnCt fwAllh lqd ASAb.
+# AxbrnA Abn AlHSyn، AnbAnA Abn AlmVhb، AnbAnA AHmd Abn jCfr، HdvnA Cbd
+~~Allh، Hdvny Aby، HdvnA yCqwb، HdvnA Aby، qAl Abn EhAb، qAl Abw slmo،
+~~smCt Abn Cbd Allh yHdv Anh smC rswl Allh Sly Allh Clyh wslm qAl: lmA
+~~kVbtny qryE Hyn Asry by Aly byt Almqds، fqmtn fy AlHjr fjlA Allh ly byt
+~~Almqds fTfqt Axbrhm mn AyAth wAnA AnZr Alyh. PageV01P011 AnbAnA mHmd Abn
+~~nASr AlHAfZ، HdvnA Abw bkr AHmd Abn Cly Abn AlClby AlzAhd، AnbAnA Abw
+~~yCly Abn AlfrAc، AnbAnA mwsy Abn Cysy Abn Cbd Allh AlsrAj، AnbAnA
+~~Albgwy، HdvnA mHmd Abn Hmyd، HdvnA Abw nmylo، HdvnA Alzbyr Abn jnAdo Cn
+~~Abn brydo Cn Abyh، Cn Alnby Sly Allh Clyh wslm: lmA Anthy bh jbryl Aly
+~~byt Almqds، fnzl Cn AlbrAq fArAd An yEdh، fqAl jbryl bASbCh، fvqb
+~~AlHjAro fEdh، AnbAnA Abw AlmCmr، AnbAnA Abw AlHsyn AlqADy، AnbAnA Cbd
+~~AlCzyz Abn AHmd، HdvnA Abw bkr mHmd Abn AHmd AlxTyb، HdvnA Cmr Abn
+~~AlfDl، HdvnA Aby HdvnA Alwlyd Abn HmAd، HdvnA Cbd AlrHmn Abn mHmd Abn
+~~mnSwr Abn vAbt، HdvnA Aby Cn Aby TAhr AHmd Abn mHmd، Cn kCb، An Alnby
+~~Sly Allh Clyh wslm lylo Asry bh wqf AlbrAq fy Almwqf AlVy kAn yqf fyh
+~~AlAnbyAc qbl، qAl: vm dxl jbryl AmAmh، fAVn jbryl wnzlt AlmlAcko mn
+~~AlsmAc، wHEr Allh lh Almrslyn، vm AqAm AlSlAo. wSly Alnby Sly Allh Clyh
+~~wslm bAlmlAcko wAlmrslyn، vm tqdm fwDC lh mrqAo mn Vhb، wmrqAo mn fDo،
+~~whw AlmCrAj. why Alqbo AldnyA Alty Cn ymyn AlSxro. wmn Aty Alqbo qASdA،
+~~wlh HAjo mn HwAcj AldnyA wAlAxro، fSly rkCtyn Aw ArbC rkCAt، tbyn lh
+~~srCo AjAbth. AnbAnA AlmbArk Abn AHmd، AnbAnA Abw AlHsyn mHmd Abn mHmd،
+~~AnbAnA Abw mHmd Cbd AlCzyz Abn AHmd Abn Cmr AlnSyby، AnbAnA Abw bkr AHmd
+~~Abn SAlH Abn Cmr Almqrc، HdvnA Cysy Abn Cbd Allh، HdvnA Cly Abn jCfr
+~~AlrAzy، HdvnA AlCbAs Abn AHmd Abn Cbd Allh AlrAzy، HdvnA AlCbAs Abn AHmd
+~~Abn Cbd Allh، HdvnA Cbd Allh Abn Cmr Almqdsy، HdvnA bkr Abn zyAd AlbAhly
+~~Cn Cbd Allh Abn AlmbArk، Cn sCd Abn Aby Crwbo، Cn qtAdo، Cn zrAro Abn
+~~Awfy، Cn Aby hryro qAl: qAl rswl Allh Sly Allh Clyh wslm: lmA Asry by
+~~Aly byt Almqds، mr by jbryl Cly qbr AbrAhym. fqAl Anzl fSl hAhnA rkCtyn.
+~~hAhnA qbr Abyk AbrAhym. vm mr by bbyt lHm، fqAl Anzl Sly hAhnA rkCtyn
+~~hAhnA wld Axwk Cysy. vm Aty by Aly AlSxro fqAl mn hAhnA Crj rbk Aly
+~~AlsmAc. qAl Abw bkr Almqrc، HdvnA Abw Alqsm Albgwy، HdvnA Abw nSr AlsmAr
+~~HdvnA sCyd Abn Cbd AlCzyz، Cn zyAd Abn Aby swdo، An CbAdo Abn AlSAmt qAm
+~~Cly swr byt Almqds fbky، fqAl bCDhm: mA ybkyk؟ fqAl: mn hAhnA AxbrnA
+~~Alnby Slo Allh Clyh wslm Anh rAy jhnm. wqAl Alwlyd Abn mslm: Hdvny bCD
+~~AEyAxnA An rswl Allh Sly Allh Clyh wslm lmA Zhr Cly byt Almqds lylo Asry
+~~bh، AVA Cn ymyn Almsjd wCn ysArh nwrAn sATCAn، fqAl: yA jbryl mA hVAn
+~~AlnwrAn، fqAl AlVy Cn ymynk mHrAb Axyk dAwd، wAlVy Cn ysArk qbr Axtk
+~~mrym.
+# AlbAb AlsAbC CEr
+# fy ftH Cmr byt Almqds PageV01P012 fy sno xms CEro mn Alhjro Amr Cmr
+~~Abn AlxTAb Cmrw Abn AlCAS lmnAjzo SAHb AylyAc، fnzl Cly Alrwm whm fy
+~~HSwnhm wClyhm AlArTbwn. wkAn Adhy Alrwm wAbCdhm gwrA، wkAn qd wDC
+~~bAlrmlo jndA CZymA wbAylyAc jndA CZymA، wAqAm Cmrw Cly AjnAdyn lA yqdr
+~~mn AlArTbwn Cly Eyc، vm AqblwA Cly AjnAdyn fAnhzm ArTbwn، fAwy Aly
+~~AylyAc، wktb Alyh AlArTbwn: lA ttCb fAnmA SAHb AlftH rjl Asmh Cly vlAvo
+~~AHrf. fClm Anh Cmr، fktb Alyh Cmrw yClmh bAn AlftH yVxr lh، fnAdy fy
+~~AlnAs wxrj Hty nzl AljAbyo، fqAl lh yhwdy: wAllh lA trjC Hty tftH
+~~AylyAc، fSAlHwh Cly Aljzyo wftHwhA lh fAnthy Aly byt Almqds، wdxl
+~~Almsjd، wmDy Aly mHrAb dAwd، fqrA sjdo dAwd wsjd. flmA qdm Cmr byt
+~~Almqds ktb lAhl byt Almqds: Any qd Amntkm Cly dmAckm wAmwAlkm wVrArykm
+~~wSlAtkm wbyCkm wlA tklfwA fwq TAqtkm. wmn ArAd mnkm An ylHq lAmnh flh
+~~AlAmAn. wAn Clykm AlxrAj kmA Cly mdAcn flsTyn. Ehd Cbd AlrHmn Abn Cwf
+~~wCly Abn Aby TAlb wxAld Abn Alwlyd wmCAwyo wktb. AnbAnA Abw AlmCmr،
+~~HdvnA Abw AlHsyn Abn AlfrAc، HdvnA Cbd AlCzyz Abn AHmd، HdvnA Abw bkr
+~~mHmd Abn AHmd AlxTyb، HdvnA Cmr، HdvnA Aby، HdvnA rEd Abn sCd، Cn Cqyl،
+~~Cn Alzhry، Cn qbySo Abn Vwyb، Cn Aby hryro، qAl: qAl rswl Allh Sly Allh
+~~Clyh wslm: tqbl rAyAt swd mn qbl xrAsAn، wlA yrdhA AHd Hty tnSb bAylyAc.
+# AlqADy Abw sCd Alhrwy qADy dmEq fy AldywAn bbgdAd، wAwrd klAmA Abky
+~~AlHADryn. fndb mn AldywAn mn ymDy Aly AlmCskr، wyCrfhm HAl hVh AlmSybo،
+~~fndb lVlk ACyAn AlClmAc mvl Abn Cqyl wgyrh، ftCllwA wACtVrwA، wwqC
+~~AltqACd، wqAl Abw AlmZfr AlAbywrdy qSydo ySf fyhA AlHAl:
+# wkyf tnAm AlCyn mlc jfwnhA ... Cly hfwAt AyqZt kl nAcm
+# wAxwAnkm bAlEAm yDHy mqylhm ... Zhwr AlmVAky Aw bTwn AlqEACm
+# yswmhm Alrwm AlhwAn wAntm ... tjrwn V؟yl AlxfD fCl AlmsAlm
+# wtlk Hrwb mn ygb Cn gmArhA ... lyslm yqrC bCdhA sn nAdm
+# ykAd lhn Almstjn bTybo ... ynAdy bACly AlSwt yA Al hAEm
+# Ary Amty lA yErCwn Aly AlCdy ... rmAHhm wAldyn wAhy AldCAcm
+# wyjtnbwn AlnAr xwfA mn Alrdy ... wlA yHsbwn AlCAr Drbo lAzm
+# AtrDy SnAdyd AlACAryb bAlAVy ... wygDy Cly Vl kmAo AlACAjm
+# flythm AV lm yVwdwA Hmyo ... Cn Aldyn DnwA gyro bAlmHArm
+# wAn zhdwA fy AlAjr AV Hmy Alwgy ... fhlA Atwh rgbo fy AlmgAnm
+# wmA zAlt byt Almqds mC AlkfAr Aly sno vlAv wvmAnyn wxmsmAco. fqSdh
+~~SlAH Aldyn AlnAcb hnAk Cn Amyr Almcmnyn AlnASr ldyn Allh bCd An mlk mA
+~~Hwlh، fwSl Alxbr AlynA fy sAbC wCEryn mn rjb sno vlAv wvmAnyn wxmsmAco
+~~An ywsf Abn Aywb Almlqb bSlAH Aldyn ftH byt Almqds wxTb fyh bnfsh wSly
+~~fyh.
+# ؟AlbAb AltAsC CEr
+# fy Vkr mn nzlh mn AlAkAbr wAqAm bh wmn twfy bh PageV01P013 nzlh Abw Vr
+~~wAkvr AlSlAo fyh. wSly fyh Cmr. AnbAnA Abw AlmCmr، AnbAnA AlqADy Abw
+~~AlHsyn Abn AlfrAc، AnbAnA Cbd AlCzyz Abn AHmd، HdvnA Abw bkr mHmd Abn
+~~AHmd AlxTyb، HdvnA Cmr Abn AlfDl، HdvnA Aby، HdvnA Alwlyd، HdvnA AbrAhym
+~~Abn mHmd، HdvnA Cbd Allh Abn SAlH، HdvnA mCAwyo Abn SAlH، Cn Azhr Abn
+~~sCyd، Cn kCb، qAl: Alywm fy byt Almqds kAlf ywm، wAlEhr kAlf Ehr، wAlsno
+~~fyh kAlf sno. wmn mAt fyh fkAnmA mAt fy smAc AldnyA، wmn mAt Hwlh fkAnmA
+~~mAt fyh. qAl AbrAhym Abn mHmd: HdvnA mHmd Abn Cbd AlrHmn، Cn vwr Abn
+~~yzyd، Cn xAld Abn mCdAn، qAl: smCt kCbA yqwl: mqbwr byt Almqds lA yCVb.
+~~AnbAnA Abn nASr، AnbAnA Cbd AlrHmn Abn mndh، HdvnA Aby، HdvnA AHmd Abn
+~~mHmd Abn AbrAhym، HdvnA mHmd Abn AlnCmAn، HdvnA slymAn HdvnA Abw Cbd
+~~Almlk، Cn mqAtl، Cn whb Abn mnbh، qAl: Ahl byt Almqds jyrAn Allh، wHq
+~~Cly Allh An lA yCVb jyrAnh، wmn dfn fy byt Almqds njA mn ftno Alqbr
+~~wDyqh. wmAt bbyt Almqds CbAdo Abn AlSAmt، wEdAd Abn Aws، wAbw Aby Abn Am
+~~HrAm، wAbw ryHAno wAsmh EmCwn، wVw AlASAbC، wAbw mHmd AlnjAry. hclAc mn
+~~Ahl byt Almqds mAtwA bh. wAlVy ACqb mnhm CbAdo wEdAd wslAmo Abn qySr
+~~fyrwz Aldylmy. wAlVyn lm yCqbwA mnhm Abw ryHAno wVw AlASAbC Abw mHmd
+~~AlnjAry.
+# AlbAb AlCErwn
+# fy Vkr mn yntAbh mn AlmlAcko wAlCbAd AnbAnA Cbd AlCzyz Abn AHmd، HdvnA
+~~Abw bkr mHmd Abn AHmd AlxTyb، HdvnA Abw mHmd AlqAsm Abn mzAHm AmAm byt
+~~Almqds، HdvnA mHmd Abn AlHsn AlCsqlAny، HdvnA mHmd Abn Cmrw Abn AljrAH
+~~Algnwy، HdvnA EhAb Abn xrAE AlHwsy، Cn sCyd Abn snAn، Cn Aby AlzAhryo،
+~~qAl: (Atyt byt Almqds Aryd AlSlAo، fdxlt Almsjd، wgflt Cn sdno Almsjd
+~~Hty ATfct AlqnAdyl، wAnqTCt Alrjl، wglqt AlAbwAb، fbynmA AnA kVlk AV
+~~smCt HfyfA lh jnAHAn qd Aqbl whw yqwl sbHAn AldAcm AlqAcm، sbHAn AlqAcm
+~~AldAcm، sbHAn AlHy Alqywm، sbHAn Almlk Alqdws، sbHAn rb AlmlAcko wAlrwH،
+~~sbHAn Allh، wnHmdh، sbHAn AlCly AlACly، sbHAnh wtCAly vm Aqbl Hfyf bCd
+~~Hfyf ytjAwbwn bhA، Hty AmtlA Almsjd. fAVA bCDhm qryb mny، fqAl: Admy؟
+~~qlt: nCm! qAl: lA rwC Clyk، hVh AlmlAcko. qlt: sAltk bAlVy qwAmkm Cly mA
+~~Ary! mn AlAwl؟ qAl: jbryl. qlt: vm AlVy ytlwh؟ qAl: mykAcyl. qlt: mn
+~~ytlwhm bCd Vlk؟ qAl: AlmlAcko. qlt: fsAltk bAlVy qwAmkm lmA Ary mA
+~~lqAclhA mn AlvwAb؟ qAl: mn qAlhA mro kl ywm lm ymt Hty yry mqCdh fy
+~~Aljno Aw yr lh. PageV01P014 AxbrnA Abw bkr Abn Hbyb AnbAnA Cly Abn SAdq،
+~~AnbAnA Abw Cbd Allh Abn bAkwyh، qAl smCt Cbd AlCzyz Abn AllbAn Almqrc
+~~yqwl: smCt Cbd AlCzyz Abn AlHsyn Abn slymAn yqwl: smCt (mHmd Abn AHmd
+~~AlSwfy yqwl، AnbAnA AstAVy Abw Cbd Allh Abn Aby Eybo knt bbyt Almqds،
+~~wknt AHb An Abyt fy Almsjd، wmA knt Atrk، flmA kAn fy bCD AlAyAm bSrt fy
+~~AlrwAq bHSr qAcmo، flmA An Slyt AlCtmo wrAc AlAmAm، Atyt AlHSr fAxtbAt
+~~wrAchA، wAnSrf AlnAs wAlqwAm، vm xrjt Aly AlSxro، flmA smCt flq AlAbwAb
+~~wqCt Cyny Cly AlmHrAb، wqd AnEq wdxl mnh rjl، vm rjl، Aly An tm sbCo.
+~~wASTf Alqwm، flm Azl wAqfA EAxSA zAcl AlCql Aly An Anfjr AlSbH، fxrj
+~~Alqwm Cly AlTryq AlVy dxlwh). qAl Abn bAkwyh، wHdvnA AHmd Abn hrwn
+~~AlfArsy، HdvnA AlHsn Abn mHmd Abn AHmd Almqrc، HdvnA AHmd Abn mHmd
+~~AlAnSAry، qAl smCt mHmd Abn AHmd AlnysAbwry، qAl smCt VA Alnwn، yqwl:
+~~(bynA AnA fy bCD jbAl byt Almqds smCt SwtA yqwl Vhbt AlAlAm Cn AbdAn
+~~AlxdAm، wwlht bAlTACo Cn AlErAb wAlTCAm، wAlft qlwbhm Twl AlmqAm، byn
+~~ydy Almlk AlClAm، ftbCt AlSwt، fAVA Amrd mSfr Alwjh ymyl mvl AlgSn AVA
+~~Hrkth AlryH، Clyh Emlo qd Atzr bhA، wAxry qd AtEH bhA، flmA rAny twAry
+~~Cny bAlEjr. fqlt: lys AljfAc mn AxlAq Almcmnyn، flkmny wAwSny، fxr sAjdA
+~~wjCl yqwl: hVA mqAm mn lAV bk wAstjAr bmCrftk wAlf bmHbtk، fyA Alh
+~~Alqlwb (wmA tHwyh mn jlAl CZmtk)، AHmny Cn AlqATCyn ly Cnk، qAl: fgAb
+~~Cny flm Arh). qAl sCyd AlAfryqy rAyt jAryo bbyt Almqds ClyhA drC ECr
+~~wxmAr Swf، why tqwl: mA ADyq AlTryq Cly mn lm tkn dlylh، wAwHE xlwo mn
+~~lm tkn Anysh. fqlt: yA jAryo mA qTC Alxlq Cn Allh؟ fqAlt: Hb AldnyA، An
+~~llh CbAdA sqAhm mn Hbh Erbo fwlht qlwbhm flm yHbwA mC Allh gyrh.
+# AlbAb AlHAdy wAlCErwn
+# fy An AlHEr mn hnAk AnbAnA Abw AlmCAly Abn shl AlAsAfrAyyny، AnbAnA
+~~Abw AlqAsm Cly Abn Aby AlClA AlmSySy، AnbAnA Abw mHmd Cbd AlrHmn Abn
+~~CvmAn Abn mCrwf. HdvnA Abw AlHsyn AHmd Abn slymAn Abn Aywb AlAsdy، HdvnA
+~~xAld Abn rwH، HdvnA AbrAhym، HdvnA Alwlyd Abn mslm، HdvnA sCyd Abn bEr
+~~Cn qtAdo، Cn Cbd Allh Abn AlSAmt، Cn Aby Vr، qAl: qlt yA rswl Allh
+~~AxbrnA Cn byt Almqds، fqAl: ArD AlmHEr wAlmnEr، Amwh fSlwA fyh! flyAtyn
+~~Cly byt Almqds wlbsTo qws Aw msHo qws fy byt Almqds Aw mn Hyv yry byt
+~~Almqds xyr mn kVA wkVA. AnbAnA Abw AlmCmr، AnbAnA Abw AlHsyn AlqADy،
+~~AnbAnA Cbd AlCzyz Abn AHmd، HdvnA Abw bkr mHmd Abn AHmd AlxTyb، HdvnA
+~~Cmr Abn AlfDl، HdvnA Aby HdvnA Alwlyd Abn HmAd، HdvnA mHmd Abn AlnCmAn،
+~~HdvnA slymAn Abn AlACrj، Cn kCb، qAl: AlCrD wAlHsAb bbyt Almqds. qAl
+~~Alwlyd، wHdvnA Adrys Abn slymAn، HdvnA EhAb Abn xrAE، Cn qtAdo fy qwlh
+~~tCAly (ywm ynAdy AlmnAdy mn mkAn qryb)، qAl mn Sxro byt Almqds. qAl
+~~Alwlyd، wHdvnA Cbd Allh Abn mHmd AlCryAny، HdvnA Alwlyd Abn mslm، HdvnA
+~~Cbd AlrHmn Abn yzyd، Cn jAbr Cn Abyh fy qwlh (wAstmC ywm ynAdy AlmnAdy
+~~mn mkAn qryb) qAl yqf AsrAfyl Cly Sxro byt Almqds fynfx fy AlSwr، fyqwl:
+~~AythA AlCZAm Alnxro، wAljlwd Almmzqo، wAlAECAr AlmtqTCo، An Allh yAmrk
+~~An tjtmCy llHsAb). AnbAnA Abn nASr، AnbAnA Cbd AlrHmn Abn mndh، HdvnA
+~~Aby، HdvnA AHmd Abn mHmd Abn AbrAhym، HdvnA mHmd Abn AlnCmAn Abn bEyr،
+~~HdvnA slymAn، HdvnA Abw Cbd Almlk Cn gAlb، Cn nAfC، Cn Abn Cmr، fy qwlh
+~~tCAly (fDrb bynhm bswr lh bAb bATnh fyh AlrHmo wZAhrh mn qblh AlCVAb)
+~~qAl hw HAcT byt Almqds AlErqy AlVy mn wrAch wAd yqAl lh wAdy jhnm. wmn
+~~dwnh bAb yqAl lh bAb AlrHmo.
+# AlbAb AlvAny wAlCErwn
+# fy fDylo AlSxro PageV01P015 AnbAnA mHmd Abn nASr، AnbAnA Cbd AlrHmn
+~~Abn mndh، HdvnA Aby، HdvnA AHmd Abn mHmd Abn AbrAhym Abn Hkym، HdvnA
+~~mHmd Abn AlnCmAn Abn bEyr، HdvnA slymAn Cn gAlb، Cn mkHwl، Cn kCb، Cn
+~~Ans Abn mAlk، An Aljn ltHn EwqA Aly byt Almqds wSxro byt Almqds mn jnd
+~~Alfrdws. why AlArD. qAl slymAn: wHdvnA Alwlyd Abn mslm، Cn Cbd AlrHmn
+~~Abn yzyd Cn jAbr Cn Hbyb Abn mslm، Cn Aby Adrys AlxwlAny، qAl: yjCl Allh
+~~Cz wjl ywm AlqyAmd Sxro byt Almqds mrjAno byDAc kCrD AlsmAc wAlArD، vm
+~~ynSb ClyhA CrEh، vm yqDy byn CbAdh، ySyrwn mnhA Aly Aljno wAly AlnAr).
+~~AnbAnA Abw AlmCmr AlAnSAry، AnbAnA Abw AlHsn AlfrAc، AnbAnA Cbd AlCzyz
+~~Abn AHmd، HdvnA Abw bkr mHmd Abn AHmd AlxTyb، HdvnA Cmr Abn AlfDl، HdvnA
+~~Aby، HdvnA AbrAhym Abn mHmd، HdvnA Adm، Cn Aby jCfr AlrAzy، Cn AlrbyC
+~~Abn Ans، Cn Aby AlCAlyd fy qwlh tCAly Aly AlArD Alty bArknA fyhA qAl: mn
+~~brkthA An kl mAc CVb yxrj mn ASl Sxro byt Almqds. qAl Alwlyd، HdvnA mHmd
+~~Abn AlnCmAn، HdvnA slymAn Abn Cbd AlrHmn، HdvnA Abw Cbd Almlk Aljzry، Cn
+~~gAlb Abn Cbyd Allh، Cn Aby AlznAd، Cn AlACrj، Cn Aby hryro، Cn Alnby Sly
+~~Allh Clyh wslm. qAl: AlAnhAr klhA wAlsHAb wAlbHAr wAlryAH mn tHt Sxro
+~~byt Almqds qAl Abn CbAs: Sxro byt Almqds mn Sxwr Aljno. qAl Almfsrwn fy
+~~qwlh wAstmC ywm ynAdy AlmnAdy، AstmC Hdyv ywm ynAdy AlmnAdy، whw
+~~AsrAfyl، yqf Cly Sxro byt Almqds، fynAdy: AyhA AlnAs hlmwA Aly AlHsAb،
+~~An Allh yAmrkm An tjtmCwA lfSl AlqDAc، whVh hy Alnfxo AlAxyro، wAlmkAn
+~~Alqryb Sxro byt Almqds. qAl kCb wmqAtl: hy Aqrb Aly AlsmAc bvmAnyo CEr
+~~mylA. qAl AlzjAj: wyqAl An tlk AlSxro fy wsT AlArD.
+# ؟AlbAb AlvAlv wAlCErwn
+# fy fDl AlSlAo Aly jAnby AlSxro AnbAnA Abw AlmCmr AlAnSAry، AnbAnA Abw
+~~AlHsyn Abn AlfrAc، AnbAnA Cbd AlCzyz Abn AHmd Abn Cmr AlnSyby، AnbAnA
+~~Abw bkr mHmd Abn AHmd Abn mHmd AlxTyb، HdvnA Cmr Abn AlfDl، Hdvny Aby،
+~~HdvnA Alwlyd، HdvnA mHmd Abn AlnCmAn، HdvnA slymAn Abn Cbd AlrHmn، HdvnA
+~~Abw Cbd Almlk Aljzry، Cn gAlb Abn Cbyd Allh، Cn mkHwl، Cn kCb، (qAl: mn
+~~Aty byt Almqds fSly Cn ymyn AlSxro wEmAlhA، wdCA Cnd mwDC Alslslo، wtSdq
+~~bmA ql wkvr، Astjyb dCAch، wkEf Allh Hznh، wxrj mn Vnwbh mvl ywm wldth
+~~Amh، An sAl Allh AlEhAdo ACTAh AyAhA).
+# AlbAb AlrAbC wAlCErwn
+# fy Vkr AlSxro Alty qAm ClyhA slymAn lmA frg AnbAnA Abw AlmCmr
+~~AlAnSAry، AnbAnA Abw AlHsyn mHmd Abn mHmd، AnbAnA Cbd AlCzyz Abn AHmd
+~~Abn Cmr، HdvnA Abw bkr mHmd Abn AHmd AlxTyb، HdvnA Cmr Abn AlfDl Abn
+~~AlmhAjr، Hdvny Aby، HdvnA Alwlyd، HdvnA Cbyd Allh Abn Cbyd Abn CmrAn
+~~AlTbrAny، HdvnA mnSwr Abn Aby mzAHm، HdvnA mCAwyo Abn Cbyd Allh AlAECry،
+~~Cn CASm Abn rjAc Abn Hywo، Cn Abyh، An kCbA qdm AylyAc mro frEy mn AHbAr
+~~yhwd bDCo CEr dynArA، Cly An dlh Cly AlSxro Alty qAm ClyhA slymAn Abn
+~~dAwd Alty qAm ClyhA Hyn frg mn bnAc Almsjd، why mmA yly nAHyo AlAsbAT،
+~~fqAl kCb: qAm slymAn Abn dAwd Cly hVh AlSxro، vm Astqbl Alqds klh wdCA
+~~Allh Cz wjl bvlAv، fArAh Allh Cz wjl tCjyl AjAbth fy dCwtyn، wArjw An
+~~ystjyb fy AlAxro. fqAl: Allhm hb ly mlkA lA ynbgy lAHd mn bCdy Ank Ant
+~~AlwhAb، fACTAh Allh Cz wjl Vlk، wqAl: Allhm hb ly mlkA wHkmA ywAfq Hkmk.
+~~ffCl Allh Cz wjl Vlk bh، vm qAl: Allhm lA yAt hVA Almsjd AHd yryd AlSlAo
+~~fyh AlA Axrjth mn xTycth kywm wldth Amh.
+# ؟AlbAb AlxAms wAlCErwn
+# fy An Allh tCAly Crj mn hnAk Aly AlsmAc PageV01P016 qd VkrnA Cn Alnby
+~~Sly Allh Clyh wslm An jbryl Aty bh AlSxro wqAl: mn hA hnA Crj rbk Aly
+~~AlsmAc. AnbAnA Abw AlmCmr AlAnSAry، AxbrnA Abw AlHsyn Abn AlfrAc AnbAnA
+~~Cbd AlCzyz Abn AHmd، HdvnA Abn bkr mHmd Abn AHmd AlxTyb، HdvnA Cmr Abn
+~~AlfDl Abn mhAjr، HdvnA Alwlyd، HdvnA Cbd Allh Abn AbrAhym، Cn AbrAhym bn
+~~ACyn، Cn rdyH Abn CTyo Abn AlnCmAn، Cn Cbd Allh Abn bEr AlHmSy، Cn kCb
+~~AlAHbAr، qAl: (yqwl Allh Cz wjl lbyt Almqds Ant CrEy AlAdny mnk ArtfCt
+~~Aly AlsmAc wmnk bsTt AlArD wmn tHtk jClt kl mAc CVb yTlC fy rcws
+~~AljbAl). qAl Alwlyd: AnbAnA AbrAhym Abn mHmd، HdvnA dAwd، Cn Sdqo Abn
+~~yzyd، Cn vwr Abn yzyd، Cn Cbd Allh Abn bEr Cn kCb، qAl: An fy AltwrAo
+~~Anh yqwl lSxro byt Almqds Ant CrEy AlAdny، wmnk ArtfCt Aly AlsmAc، wmn
+~~tHtk bsTt AlArD klhA، wkl mAc ysyl mn Vrwo AljbAl mn tHtk. wAClm An
+~~AlHdyv AlmrfwC qd sbq bAwzAq wrdAth bkr Abn zyAd. qAl Abw HAtm Abn HyAn
+~~AlHAfZ: hVA Hdyv lA yEk CwAm Ahl AlHdyv Anh mwDwC. wkAn bkr Abn zyAd yDC
+~~AlHdyv Cly AlvqAt. wAmA AlHdyv bCdh Cn kCb fyrwyh AbrAhym Abn ACyn. qAl
+~~Abw HAtm AlrAzy: hw mnkr AlHdyv lm yrwh Cn Cbd Allh Abn bEr. PageV01P017

@@ -1,0 +1,690 @@
+#####ARABICA#SUBJECT#
+
+
+######## BEGofRECORD ###################################################
+#000000# 000.SortField	:: JK_000748
+#NewRec# 000.BookURI	:: #0301.IbnHarunBardiji.TabaqatAsma
+#NewRec# 010.AuthorAKA	:: AlbrdyHy
+#NewRec# 010.AuthorNAME	:: AHmd bn hArwn AlbrdyHy Abw bkr
+#NewRec# 011.AuthorBORN	:: 230
+#NewRec# 011.AuthorDIED	:: 301
+#NewRec# 019.AuthorDIED	:: NODATA
+#NewRec# 020.BookTITLE	:: TbqAt AlAsmAc Almfrdo mn AlSHAbo wAltAbCyn wASHAb AlHdyv
+#NewRec# 020.BookTITLESUB	:: NODATA
+#NewRec# 021.BookSUBJ	:: AltrAjm AlCAmo :: ktb AltrAjm AlCAmo :: ktb AlHdyv Alnbwy AlEryf wtrAjm AlrwAo
+#NewRec# 022.BookVOLS	:: 1
+#NewRec# 025.BookLANG	:: NODATA
+#NewRec# 029.BookTITLEalt	:: AlAsmAc Almfrdo
+#NewRec# 030.LibURI	:: JK_000748
+#NewRec# 030.LibURIextra	:: NODATA
+#NewRec# 031.LibREADONLINE	:: NODATA
+#NewRec# 031.LibURL	:: NODATA
+#NewRec# 031.LibURLFILE	:: NODATA
+#NewRec# 031.LibURLextra	:: NODATA
+#NewRec# 040.EdALL	:: NODATA
+#NewRec# 040.EdEDITOR	:: Cbdh Cly kwEk
+#NewRec# 041.EdNUMBER	:: AlAwly
+#NewRec# 041.EdNumber	:: NODATA
+#NewRec# 043.EdPUBLISHER	:: dAr AlmAmwn lltrAv
+#NewRec# 044.EdPLACE	:: dmEq
+#NewRec# 045.EdYEAR	:: 1410
+#NewRec# 049.EdISBN	:: NODATA
+#NewRec# 049.EdPAGES	:: NODATA
+#NewRec# 049.EdPHYSICAL	:: NODATA
+#NewRec# 049.EdVOLUME	:: NODATA
+#NewRec# 090.RecMISC	:: NODATA
+#NewRec# 999.MiscINFO	:: NODATA
+
+
+
+#####FILENAME#JK_000748
+#
+# | TbqAt AlAsmAc Almfrdo mn AlSHAbo wAltAbCyn wASHAb AlHdyv llAmAm
+# AlHAfZ Aby bkr AHmd bn hArwn Albrdyjy PageV01P001
+# | bsm Allh AlrHmn AlrHym
+# rb ACn bfDlk
+# AxbrnA AlEyx AlAmAm AlCAlm AlAwHd AlHAfZ Abw AlfDl mHmd bn nASr bn
+~~mHmd bn Cly bn Cmr AlslAmy gfr Allh lh qAl AxbrnA AlEyxAn Abw AlHsyn
+~~AlmbArk bn CbdAljbAr bn AHmd bn AlqAsm AlSyrfy wAbw TAhr PageV01P041
+~~AHmd bn Cly bn CbydAllh bn swAr Almqryc bqrActy Cly kl wAHd mnhmA wVlk
+~~fy Ehr rbyC AlAwl mn sno AHdy wtsCyn wArbC mco qAlA AxbrnA Abw Alfrj
+~~AlHsyn bn Cly bn CbydAllh AlTnAjyry qAl HdvnA Abw Hkym mHmd bn AbrAhym
+~~bn Alsry bn yHyy bn Alsry bn mSCb bn Aby bkr bn Ebr wkAnt lh SHbo Abn
+~~SCfwq bn Cmrw bn zrAro bn Cds bn zyd bn CbdAllh bn dArm bn mAlk bn HnZlo
+~~bn mAlk bn zyd mnAo bn tmym Altmymy AldArmy bAlkwfo qrAco Clyh wAnA AsmC
+~~fy Vy AlqCdo sno xms wsbCyn wvlAv mco qAl HdvnA AlqADy Abw CbdAllh
+~~CbdAlmlk bn bdr bn Alhyvm qrAco Clyh qAl HdvnA Abw bkr AHmd bn hArwn bn
+~~rwH Albrdyjy AlHAfZ bAlAhwAz wVlk bCd sno vmAnyn wmctyn qAl ly mn
+~~AlAsmAc Almfrdo whm ASHAb Alnby Sly Allh Clyh wslm wlA nClm AHdA mn
+~~AlClmAc smy bEyc mn hVh AlAsmAc
+# 1 AlmqdAd bn AlAswd Alkndy yCd mn Ahl Almdyno PageV01P042
+# 2 CkAEo bn mHSn yCd bAlmdyno
+# 3 CkAf bn wdACo bAlEAm
+# 4 Ekl bn Hmyd bAlkwfo PageV01P043
+# 5 knAz bn HSn wyqAl Abn HSyn whw Abw mrvd Algnwy bAlEAm
+# 6 nwAs bn smCAn bAlEAm PageV01P044
+# 7 sxbro bAlkwfo
+# 8 xrbAq whw Vw Alydyn ysmyh mHmd bn syryn fy Hdyv sCyd bn bEyr Cn
+~~qtAdo bAlEAm
+# 9 CE AlCVry bAlEAm PageV01P045
+# 10 bno Aljhny rwy Cnh jAbr mn Hdyv Abn lhyCo bAlEAm
+# 11 sfyno mwly rswl Allh Sly Allh Clyh wslm wqd rwy An Alnby Sly Allh
+~~Clyh wslm smAh sfyno bAlmdyno PageV01P046
+# 12 syAbo rwy Cnh Cmrw bn sCyd bAlmdyno
+# 13 jydro wyqAl jndro bn xyEno whw Abw qrSAfo bAlEAm
+# 14 mCyqyb bn Aby fATmo wqd kAn ASAbh Trf mn jVAm bAlmdyno PageV01P047
+# 15 jdAr rwy Cnh yzyd bn Ejro wAxtlf fy hVA AlHdyv
+# 16 bhzAd whw jd ywsf bn mAhk rwy Cn Alnby Sly Allh Clyh wslm HdyvA
+~~bmko PageV01P048
+# 17 AHmr rwy Cnh AlHsn bAlbSro
+# 18 nAbgo rwy Cnh kryz bAlbSro
+# 19 Akydr rwy Cnh Abnh rwq PageV01P049
+# 20 mstwrd bn EdAd bmSr
+# 12 mdlwk ykny bAby CbdAllh bAlEAm
+# 22 xExAE whw Cnbry rwy Cnh HSyn bn Aby AlHr bAlbSro
+# 23 srq wAxtlf fyh fqAl bCDhm bAlmdyno wqAl bCDhm bmSr PageV01P050
+# 24 jCyl AlAEjCy bAlmdyno
+# 25 qvm whw Abn AlCbAs wqd qyl lA SHbo lh qbrh bxrAsAn
+# 26 jAhmo rwy Cnh Abnh bAlmdyno PageV01P051
+# 27 Asmr bn mDrs bdwy
+# 28 slyl AlAEjCy bAlmdyno whw mn Hdyv Aljryry
+# 29 hrmAs whw Abn zyAd bAlbSro PageV01P052
+# 30 AsCd bn zrAro whw Axw sCyd bn zrAro bAlmdyno
+# 31 hlb whw Abw qbySo bn hlb bAlkwfo
+# 32 jrmwz Alhjymy bAlbSro
+# 33 CrbAD bn sAryo bAlEAm PageV01P053
+# 34 Shyb bn snAn bAlEAm
+# 35 jwdAn wyqAl lA SHbo lh rwy Cnh AlCbAs bn CbdAlrHmn
+# 36 fyrwz whw Abn Aldylmy rwy Cnh Abnh CbdAllh bAlEAm PageV01P054
+# 37 rwyfC whw ( 21 ) Abn vAbt AlAnSAry bmSr
+# 38 fltAn whw Abn CASm rwy Cnh klyb Aljrmy bAlkwfo
+# 39 SCb whw Abn jvAmo rwy Cnh Abn CbAs whw bAlmdyno
+# 40 wAvlo whw Abn AlAsqC bAlEAm PageV01P055
+# 41 mxnf whw Abn slym bAlbSro
+# 42 mnyb rwy Cnh Abnh CbdAllh bAlEAm
+# 43 mzydo whw AlCSry bAlbSro PageV01P056
+# 44 msrH rwt Cnh Abnth qyl bAlmdyno
+# 45 CtbAn whw Abn mAlk rwy Cnh Ans bn mAlk wmHmwd bn AlrbyC bAlmdyno
+~~PageV01P057
+# 46 jEyb rwy Cnh Abnh wlA yCrf Asm Abnh bAlEAm
+# 47 sCr whw Aldyly rwy Cnh Abnh wAbnh lA ysmy bAlEAm
+# 48 bSro bn Aby bSro rwy Cnh Abw hryro yqAl bAlEAm wqd qyl bAlmdyno
+~~PageV01P058
+# 49 nDlo bn Cmrw bAlmdyno
+# 50 grfo bn AlHArv bAlEAm wqd qyl bmSr
+# 51 krdm bAlmdyno
+# 52 lby bn lbA bwAsT PageV01P059
+# 53 mvCb wyqAl hw Hmzo AlAslmy wqd qyl hw sfyno wkl fyh rwAyo bAlkwfo
+~~hw mn Hdyv ( 22 ) AECv bn Aby AlECvAc
+# 54 Vw AljwEn rwy Cnh Abw AsHAq bAlkwfo
+# 55 Vw AlASAbC rwy Cnh Abw CmrAn bAlEAm wAbw CmrAn hVA lA yCrf Asmh
+~~PageV01P060
+# 56 Vw AlzwAcd whw mn Hdyv slym bn mTyr mn Ahl wAdy Alqry bAlEAm
+# 57 Vw AllHyo whw AlklAby mn Hdyv yzyd bn Aby mnSwr sktwA Cnh
+~~PageV01P061
+# 58 Vw Algro wfyh AxtlAf whw mn Hdyv Alkwfyyn wqd qyl Anh Alslyk
+# 59 hdAj bAlmdyno
+# 60 Cvym whw Abn klyb rwy Cnh Abnh whw mn Hdyv Abn jryj wyqAl An Abn
+~~jryj smCh mn AbrAhym bn Aby yHyy lAnh yqwl Hdvt PageV01P062
+# 61 CEwr wqd qyl lA SHbo lh bAlEAm
+# 62 mdlj rwy Cnh EryH bn Cbyd bAlEAm
+# 63 AdrC wyqAl hw Aslmy rwy Cnh Almqbry wlA yvbt lAnh mn Hdyv CbdAllh
+~~bn sCyd bn Aby sCyd Almqbry bAlmdyno PageV01P063
+# 64 sndr rwy Cnh Abnh whw mn Hdyv Abn lhyCo bAlEAm
+# 65 mvym rwy Cnh CbdAllh bn AlHArv whw mn Hdyv zyd bn Aby Anyso sktwA
+~~Cnh PageV01P064
+# 66 mrHb wqd qyl Abn mrHb rwy ( 31 ) Cnh AlECby bAlmdyno
+# 67 HVym whw Abn Cmrw bAlkwfo
+# 68 AVyno rwy Cnh Abnh bAlkwfo wAsm Abnh CbdAlrHmn
+# 69 mxmr whw Abn mCAwyo rwy Cnh Hkym bn mCAwyo whw mn Hdyv AsmACyl bn
+~~CyAE bAlEAm PageV01P065
+# 70 zArC rwt Cnh Am AbAn whw mn Hdyv mTr AlACnq bAlbSro
+# 71 mxEy whw Abn Hmyr rwy Cnh Ckrmo bn CmAr wqd qyl lA SHbo lh bAlbSro
+~~PageV01P066
+# 72 xwAt bn jbyr bAlmdyno
+# 73 xrym whw Abn fAtk bAlkwfo
+# 74 SHAr whw AlCbdy bAlbSro PageV01P067
+# 75 hzAl rwy Cnh Abnh bAlmdyno
+# 76 nqAdo whw Asdy bAlkwfo
+# 77 mHrE AlkCby bAlmdyno PageV01P068
+# 78 Adym rwy Cnh AlSby bn mCbd wAxtlf fyh whVA Hdyv Eryk Cn mnSwr ysmyh
+~~Adym bAlkwfo
+# 79 CdAc bn xAld bAlbSro PageV01P069
+# 80 mnqC bAlmdyno
+# 81 AlljlAj bAlmdyno
+# 82 srAqo whw Abn mAlk bn jCEm bAlmdyno
+# 83 AqrC whw Abn HAbs Altmymy bAlmdyno PageV01P070
+# 84 AEj whw AlCSry bAlbSro
+# 85 hbyb whw Abn mgfl rwy Cnh Aslm Abw CmrAn bmSr
+# 86 xbAb whw Abn AlArt bAlkwfo PageV01P071
+# 87 swAd whw Abn qArb bAlbSro
+# 88 Hml bn mAlk bn AlnAbgo rwy Cnh Abn CbAs bAlmdyno
+# 89 dgfl wqd qyl lA SHbo lh rwy Cnh AlHsn bAlbSro PageV01P072
+# 90 rkAno bAlmdyno wqd qyl bmko
+# 91 Cvyr rwy Cnh slymAn bn CbdAlrHmn AlAzdy sktwA Cnh
+# 92 tlb wkAn ECbo yqwl vlb rwy Cnh mlqAm Abnh bAlbSro PageV01P073
+# 93 kdyr AlDby rwy Cnh Abw AsHAq bAlkwfo wqd qyl lys lh SHbo
+# 94 xwyld whw Abw Cqrb Abnh Abw nwfl bn Aby Cqrb bAlbSro
+# 95 CkrAE bn Vcyb rwy Cnh Abnh CbydAllh bn CkrAE bAlbSro PageV01P074
+# 96 HbEy whw Abn jnAdo Alslwly rwy Cnh AlECby wAbw AsHAq kwfy
+# 97 hdAr rwy Cnh EqrAn mwly AlCbAs EAmy
+# 98 EmCwn whw Abw ryHAnh bAlEAm PageV01P075
+# 99 jrhd bAlmdyno ( 41 )
+# 100 Crs whw Abn Cmyro bAlEAm
+# 101 Dryk bAlEAm PageV01P076
+# 102 SnAbHy rwy Cnh qys bn Aby HAzm bAlkwfo
+# 103 AslC whw mn Hdyv AlrbyC bn bdr Cn Abyh wfyh nZr PageV01P077
+# 104 nfyr rwy Cnh Abnh jbyr bn nfyr bAlEAm
+# 105 jrvwmo whw Abw vClbo AlxEny bAlEAm PageV01P078
+# | wmn AlTbqo AlvAnyo whm AltAbCwn
+# 106 jzy bn bkyr yrwy Cn HVyfo wAm slmo rwy Cnh Abw AsHAq kwfy
+# 107 bhy mwly Alzbyr rwy Cnh Abw AsHAq wAlsdy kwfy PageV01P079
+# 108 wrAd kAtb Almgyro bn ECbo rwy Cnh AlECby wCbdAlmlk bn Cmyr kwfy
+# 109 bdyH yrwy Cn CbdAllh bn jCfr mdyny
+# 110 AECb mwly CvmAn whw AECb AlTAmC yrwy Cn CbdAllh bn jCfr mdyny
+# 111 Ctrys whw Abn Crqwb yrwy Cn Abn msCwd kwfy
+# 112 HlAm bn jzl whw Abn Axy Aby Vr yrwy Cn Aby Vr kwfy PageV01P080
+# 113 HTAn bn CbdAllh AlrqAEy rwy Cnh ywns bn jbyr bSry
+# 114 hmdAn bryd kAn lCmr bn AlxTAb yrwy Cn Cmr mjhwl ( 42 )
+# 115 HmdAn mwly mCql bn ysAr rwy Cnh AsHAq bn Aby CvmAn bSry
+~~PageV01P081
+# 116 Arbdo whw Altmymy AlVy yHdv Cnh Abw AsHAq kwfy
+# 117 flflo AljCfy yrwy Cnh Alwlyd bn qys kwfy
+# 118 TAwws AlymAny yrwy Cnh Alzhry wCmrw bn dynAr PageV01P082
+# 119 zr bn HbyE kAhly yrwy Cn Cmr bn AlxTAb wCly wCbdAllh kwfy
+# 120 mAhk yrwy Cnh ywsf bn mAhk mky
+# 121 Hwy whw Abw Cbyd HAjb slymAn bn CbdAlmlk rwy Cnh AlAwzACy wSAlH bn
+~~Aby AlAxDr yrwy Cn Ans bn mAlk wAlqAsm bn mHmd EAmy PageV01P083
+# 122 Ehr bn HwEb yrwy Cn Aby hryro wAbn CbAs wAby sCyd wAsmAc bnt yzyd
+~~EAmy
+# 123 jry bn klyb rwy Cnh Abw AsHAq wqtAdo kwfy PageV01P084
+# 124 jylAn bn frwo whw Abw Aljld rwy Cnh Cwf AlACrAby bSry
+# 125 mlqAm bn Altlb yrwy Cn Abyh bSry
+# 126 frzdq yrwy Cn Aby hryro rwy Cnh qzCo bn swyd bSry PageV01P085
+# 127 kryz yrwy Cnh AlmnVr Abw AlrHAl bSry
+# 128 wqAS bn rbyCo rwy Cnh ( 51 ) slymAn bn mwsy wmkHwl EAmy
+# 129 xywAn wqd qyl HywAn whw Abw Eyx AlhnAcy rwy Cnh qtAdo wbyhs Abn
+~~fhdAn bSry PageV01P086
+# 130 HmAn whw Axw Aby Eyx AlhnAcy rwy Cnh Abw Eyx AlhnAcy yrwy Cn
+~~mCAwyo bSry
+# 131 nbtl whwAbw HAzm SAHb Abn CbAs mdyny
+# 132 xmr wqd qyl xmyr rwy Cnh Abw AsHAq kwfy
+# 133 wAhb bn CbdAllh AlmCAfry yrwy Cn Aby hryro mSry PageV01P087
+# 134 gnym whw Abn qys rwy Cnh vAbt bn CmAro wCwf bSry
+# 135 HsHAs rwy Cnh ywns bn zhrAn EAmy
+# 136 jAbAn yrwy Cnh sAlm bn Aby AljCd kwfy PageV01P088
+# 137 CAyE bn Ans rwy Cnh CTAc bn Aby rbAH mky
+# 138 HDyn bn AlmnVr whw Abw sAsAn yrwy Cn Cly wAby mwsy bSry
+# 139 myzAn whw Abw SAlH rwy Cnh xAld AlHVAc wslymAn Altymy bSry
+~~PageV01P089
+# 140 mynA whw mwly DbACo bnt Alzbyr rwy Cnh kAml Abw AlClAc kwfy
+# 141 qylwyh whw Abw SAlH AlVy rwy Cnh yHyy bn Aby kvyr yHdv Cn Abn CbAs
+~~bSry ( 51 )
+# 142 jrvwm whw Abw rhm AlsmCy yrwy Cn Aby Aywb AlAnSAry EAmy
+~~PageV01P090
+# 143 slAmAn bn CAmr yrwy Cnh CbdAlrHmn bn zyAd bn AnCm mSry
+# 144 vrwAn bn mlHAn rwy Cnh smAk bn Hrb kwfy
+# 145 Clym Alkndy yrwy Cn slmAn kwfy
+# 146 msHAj AlDby rwy Cnh mgyro kwfy PageV01P091
+# 147 mjzAo bn zAhr yrwy Cnh rqbo bn mSqlo wECbo kwfy
+# 148 mrwH bn sbro yrwy Cn Cmr bSry
+# 149 qsAmo bn zhyr rwy Cnh Cwf wCmrAn bn Hdyr bSry
+# 150 mhzm yrwy Cn Abn CbAs yrwy Cnh AsmACyl bn CyAE EAmy
+# 151 mqsm ykny AbA AlqAsm rwy Cnh AlHkm bn Ctybo wyzyd bn Aby zyAd kwfy
+~~wqyl mky PageV01P092
+# 152 Ewly bn xbAb whw Abw AlrqAd yrwy Cn Cly kwfy
+# 153 gDbAn bn HnZlo rwy Cnh Abw gADro wAbw gADro Asmh mHmd bn Aby bkr
+~~bSry
+# 154 lbyd bn EmAs yrwy Cn Abn msCwd rwy Cnh sCyd bn msrwq kwfy
+# 155 lmAzo bn zbAr whw Abw lbyd yrwy Cn Crwo AlbArqy rwy Cnh Alzbyr bn
+~~Alxryt bSry ( 61 ) PageV01P093
+# 156 Tyslo bn myAs wmyAs lqb whw Tyslo bn Cly rwy Cnh yHyy bn Aby kvyr
+~~wzyAd bn mxrAq ymAmy Hnfy
+# 157 fyl bn CrAdo rwy Cnh AlSCq bn Hzn bSry
+# 158 kndyr bn sCyd rwy Cnh dAwd bn Aby hnd bSry PageV01P094
+# 159 EyHo bn CbdAllh whw Abw Hbro yrwy Cn Cly bSry
+# 160 qrfo bn bhys whw Abw AldhmAc yrwy Cnh Hmyd bn hlAl bSry
+~~PageV01P095
+# 161 lclco trwy Cn Aby Srmo wAbw Srmo rjl mn ASHAb Alnby Sly Allh Clyh
+~~wslm yrwy Cn lclco hVh mHmd bn yHyy bn HbAn mdyny
+# 162 Cdso AlTAcy rwy Cnh slmo bn khyl kwfy
+# 163 nbyH AlCnzy yrwy Cnh AlAswd bn qys kwfy
+# 164 jwn bn qtAdo yrwy Cnh AlHsn bn Aby AlHsn bSry PageV01P096
+# 165 mErH bn hACAn yrwy Cn Cqbo bn CAmr mSry
+# 166 nACm bn Ajyl yrwy Cnh yzyd bn Aby Hbyb yHdv nACm Cn CbdAllh bn
+~~Cmrw mSry PageV01P097
+# 167 nwf AlbkAly yrwy Cn CbdAllh bn Cmrw wqd qyl An nwfA AlVy rwy Cnh
+~~Abw AsHAq wAlHkm hw lys nwfA AlEAmy qAl Abw bkr Albrdyjy ( 62 ) whw Cndy
+~~wAHd wAllh AClm
+# 168 Ewys rwy Cnh Abw nCAmo Cmrw bn Cysy bSry PageV01P098
+# 169 CqAr bn Almgyro bn ECbo yrwy Cnh mjAhd kwfy
+# 170 AyAd bn lqyT rwy Cnh CbdAlmlk bn Cmyr wgyrh kwfy ACqb AyAd
+~~CbydAllh bn AyAd bn lqyT PageV01P099
+# 171 bjAlo bn Cbdo rwy Cnh Cmrw bn dynAr mdny
+# 172 krdws bn Cmrw yrwy Cn Cly wCbdAllh rwy Cnh CbdAlmlk bn mysro wAECv
+~~bn swAr kwfy
+# 173 zhdm Aljrmy yrwy Cn Aby mwsy AlAECry rwy Cnh qtAdo wAywb bSry
+~~PageV01P100
+# 174 hzyl bn ErHbyl yrwy Cn CbdAllh bn msCwd rwy Cnh Abw qys AlAwdy
+~~kwfy
+# 175 THrb AlCjly rwy Cnh mjAld bn sCyd kwfy
+# 176 njdo bn nfyC yrwy Cn Abn CbAs EAmy wqyl kwfy wAlSHyH EAmy
+~~PageV01P101
+# 177 mxml bn dmAv rwy Cnh Abw rwq kwfy
+# 178 Hzwr whw Abw gAlb SAHb Aby AmAmo EAmy
+# 179 bAVAm whw Abw SAlH mwly Am hAnyc rwy Cnh smAk bn Hrb wAlklby kwfy
+~~PageV01P102
+# 180 nbyh bn whb rwy Cnh nAfC mwly Abn Cmr mdyny
+# 181 msrd rwy Cnh shl Abw AlAswd kwfy
+# 182 mwvr bn CfAzo yrwy Cn CbdAllh bn msCwd kwfy
+# 183 mrbC yrwy Cn Ans bSry PageV01P103
+# 184 mydAn rwy Cnh qtAdo bSry ( 71 )
+# 185 hrmy bn Cmrw wqd qyl Abn AlHArv wqd qyl Abn CbdAllh yrwy Cn xzymo
+~~bn vAbt mdyny
+# 186 lAHq bn Hmyd whw Abw mjlz yHdv Cn Abn CbAs wAbn Cmr bSry wqd rwy
+~~AbrAhym bn ThmAn Cn mnSwr Cn lAHq Cn AlmCrwr wlA yvbt lAn ASHAb mnSwr lm
+~~yVkrwA fyh lAHqA wlAHq hVA mjhwl An vbtt AlrwAyo PageV01P104
+# 187 mCfs bn CmrAn bn HTAn rwy Cnh mwsy AlfrAc wgyrh kwfy
+# 188 mAzn bn Cmrw yrwy Cn Cly rwy Cnh sCyd bn HnZlo kwfy
+# 189 jlAH rwy Cnh yzyd bn Aby Hbyb EAmy PageV01P105
+# 190 jwAl rwy Cnh CTyo AlrAsby yrwy Cn Abn CbAs mjhwl
+# 191 nDyr bn qys rwy Cnh msCr kwfy
+# 192 nbhAn mwly Am slmo rwy Cnh Alzhry mdyny
+# 193 Dbo bn mHSn rwy Cnh AlHsn bSry PageV01P106
+# 194 frwx mwly CvmAn yrwy Cn CvmAn mdyny
+# 195 bjAd bn sCd bn Aby wqAS rwy Cnh Abnh mHmd bn bjAd mdyny
+# 196 mhASr bn Hbyb yrwy Cn Aby vClbo AlxEny rwy Cnh AlAHwS bn Hkym EAmy
+# 197 dxyn rwy Cnh kCb bn Clqmo mSry PageV01P107
+# 198 Hyo bn HAbs rwy Cnh yHyy bn Aby kvyr lm yrw Cnh gyrh
+# 199 Trfo Almsly yrwy Cn Abn Aby Awfy kwfy
+# 200 wAqC bn sHbAn rwy Cnh qtAdo ( 72 ) wvAbt wHmyd bSry PageV01P108
+# 201 lmys rwy Cnh jAbr AljCfy yrwy Cn CAcEo wqd qyl AnhA AmrAo
+# 202 Vr bn CbdAllh AlhmdAny rwy Cnh Hbyb bn Aby vAbt wslmo bn khyl
+~~wACqb Abnh Cmr bn Vr kwfy
+# 203 ysyC AlHDrmy rwy Cnh Vr AlhmdAny kwfy
+# 204 xzACy bn zyAd yrwy Cn CbdAllh bn mgfl rwy Cnh Alhyvm bn jhm bSry
+~~PageV01P109
+# 205 nhAr AlCbdy rwy Cnh Abw TwAlo CbdAllh bn CbdAlrHmn bn mCmr mdyny
+# 206 Cryf bn drhm AljmAl yrwy Cn zyd bn whb kwfy PageV01P110
+# 207 ysyr bn Cmrw rwy Cnh Abw AsHAq AlEybAny kwfy
+# 208 Hwyrv bn nhAr yrwy Cnh yzyd bn Aby zyAd kwfy
+# 209 xmyl rwy Cnh Hbyb bn Aby vAbt kwfy PageV01P111
+# 210 mmTwr yrwy Cnh zyd bn slAm wmmTwr jdh yrwy Cn mCAV bn jbl EAmy
+# 211 lqmAn bn CAmr AlAwSAby EAmy yrwy Cn Aby AmAmo
+# 212 Ctyk bn AlHArv yrwy Cn jAbr bn Ctyk mdyny PageV01P112
+# 213 CAcV Allh Abw Adrys AlxwlAny yrwy Cn CbAdo bn AlSAmt wAby AldrdAc
+~~rwy Cnh Alzhry wAbw HAzm EAmy PageV01P113
+# 214 zAVAn Abw Cmr yrwy Cn Cly wCbdAllh ( 81 ) rwy Cnh CbdAllh bn
+~~AlsAcb kwfy
+# 215 Dryb bn nqyz whw Abw Alslyl yrwy Cnh Aljryry bSry PageV01P114
+# 216 xlAs bn Cmrw rwy Cnh qtAdo wCwf bSry
+# 217 jmhAn rwy Cnh CTAc bn AlsAcb kwfy
+# 218 mDArb bn Hzn rwy Cnh Aljryry bSry PageV01P115
+# 219 khyl bn Hrmlo yrwy Cn Aby hryro EAmy
+# 220 sryC mwly Cmrw bn Hryv rwy Cnh AsmACyl bn Aby xAld kwfy
+# 221 Hmyry bn bEyr rwy Cnh qtAdo bSry
+# 222 ZAlm bn Cmrw whw Abw AlAswd Aldyly yrwy Cn Cmr wAby Vr bSry
+~~PageV01P116
+# 223 blj Almhry yrwy Cnh Abw Aljwdy wAbw Aljwdy yrwy Cnh ECbo EAmy
+~~PageV01P117
+# | wmn AlTbqo AlvAlvo whm AlAtbAC
+# 224 slmy bn CbdAllh whw Abw bkr AlhVly yrwy Cn mHmd wAlHsn bSry
+# 225 mCAn bn rfACo yrwy Cnh Alwlyd bn mslm EAmy PageV01P118
+# 226 SACd yrwy Cn AlECby kwfy
+# 227 rqbo bn mSqlo yrwy Cn nAfC wmnSwr wAlHkm kwfy PageV01P119
+# 228 mnkdr bn mHmd bn Almnkdr yrwy Cn Abyh mdyny ( 82 )
+# 229 EwVb Abw mCAV rwy Cnh ECbo wsfyAn bSry
+# 230 zmAm yrwy Cn CTAc bn Aby rbAH mjhwl
+# 231 gwv bn slymAn rwy Cnh Abn whb mSry PageV01P120
+# 232 Srd bn Aby AlmnAzl rwy Cnh mHmd bn CbdAllh AlAnSAry bSry
+# 233 mCArk bn CbAd rwy Cnh CbdAlSmd bn CbdAlwArv wmslm bn AbrAhym bSry
+# 234 brdAn bn Aby AlnDr rwy Cnh sfyAn bn Cyyno mdyny
+# 235 mkrm rwy Cnh sCyd bn Aby Crwbo bSry PageV01P121
+# 236 smy whw mwly Aby bkr bn CbdAlrHmn rwy Cnh CbydAllh bn Cmr wmHmd bn
+~~CjlAn wsfyAn bn Cyyno mdyny
+# 237 Sdyq bn mwsy rwy Cnh AldrAwrdy mdyny
+# 238 jnAH yrwy Cn CAcEo bnt sCd mdyny
+# 239 gDyfyr rwy Cnh Abn Cyyno bSry
+# 240 Hdmr rwy Cnh lyv kwfy PageV01P122
+# 241 AyfC rwy Cnh Abw Hryz qADy sjstAn mjhwl
+# 242 yAfC bn CAmr AlklACy rwy Cnh AsmACyl bn CyAE yHdv Cn qtAdo EAmy
+# 243 Tyb bn mHmd yrwy Cn CTAc rwy Cnh Aywb bn AlnjAr mdyny PageV01P123
+# 244 Hnyf AlmcVn rwy Cnh jryr bn CbdAlHmyd kwfy ( 91 )
+# 245 jHE bn rqAd rwy Cnh sfyAn Alvwry kwfy
+# 246 qHVm rwy Cnh ywns bn Aby AsHAq yrwy Cn Abn CbAs kwfy
+# 247 HlAl bn vwr bn Aby AlHlAl AlCtky rwy Cnh CbydAllh bn vwr bn Aby
+~~AlHlAl bSry
+# 248 qryn yrwy Cnh Abn Aby Vcb yHdv Cn CAmr bn sCd mdyny PageV01P124
+# 249 mTCm bn AlmqdAm yrwy Cnh AsmACyl bn CyAE wyHyy bn Hmzo EAmy
+# 250 mnbwV yrwy bn CbAd yrwy Cnh Cbd Almjyd bn Cbd AlCzyz bn Aby rwAd
+~~mky PageV01P125
+# 252 HryE bn slym yrwy Cnh CbdAllh bn Adrys wCbdAlslAm bn Hrb kwfy
+# 253 EbAk yrwy Cn AbrAhym AlnxCy kwfy
+# 254 dvAr AlqTAn yrwy Cn sCyd bn jbyr kwfy
+# 255 Hbyb bn Hbyb Axw Hmzo bn Hbyb AlzyAt yrwy Cn Aby AsHAq kwfy
+~~PageV01P126
+# 256 SmSwm bn Alwlyd whw Axw mHmd bn Alwlyd Alzbydy yrwy Cn Alzhry EAmy
+# 257 mykAl rwy Cnh slmo bn AlfDl AlAbrE kwfy
+# 258 jld bn Aywb yrwy Cn mCAwyo bn qro rwy Cnh ( 92 ) AsmACyl bn Clyo
+~~bSry PageV01P127
+# 259 mnxl rwy Cnh CbdAllh bn dAwd whw Abn bhz bn Hkym bSry
+# 260 jfr rwy Cnh bEAr bn Aby Cysy AlHrEy bSry
+# 261 mEmrj bn HmrAn yrwy Cn Aws bn nCAmo bSry
+# 262 wqdAn whw Abw yCfwr AlVy yrwy Cn Abn Aby Awfy wACqb Abnh ywns bn
+~~Aby yCfwr kwfy PageV01P128
+# 263 ClwAn bn Aby mAlk rwy Cnh sfyAn Alvwry yHdv Cn AlECby kwfy
+# 264 HbAl bn rfydo yrwy Cnh yHyy AljAbr kwfy
+# 265 fSAfS wknyth Abw CASm yrwy Cn Almqbry mdyny
+# 266 bHyr bn sCd yrwy Cn xAld bn mCdAn rwy Cnh AsmACyl bn CyAE wbqyo bn
+~~Alwlyd EAmy
+# 267 jHAf byAC AlzT yrwy Cnh Alvwry kwfy PageV01P129
+# 268 zhro bn mCbd Abw Cqyl yrwy Cn Aby SAlH mwly CvmAn rwy Cnh Allyv bn
+~~sCd mSry
+# 269 grqdo rwy gnh nCym bn mysro kwfy
+# 270 HryS rwy Cnh fTr bn xlyfo kwfy
+# 271 CVAfr rwy Cnh ECbh wHmAd bn zyd yrwy Cn Aby mCEr kwfy ( 101 )
+# 272 gTryf yrwy Cn jAbr bn zyd bSry PageV01P130
+# 273 Hlw AlAwdy yrwy Cnh CbydAllh bn mwsy kwfy
+# 274 rzyq bn AlHkym CAml Cmr bn CbdAlCzyz Cly Aylo rwy Cnh Allyv bn sCd
+~~EAmy
+# 275 Emr bn CTyo rwy Cnh AlACmE wqys bn AlrbyC kwfy
+# 276 djyn bn vAbt yrwy Cn Aslm mwly Cmr bSry PageV01P131
+# 277 drmk bn Cmrw yrwy Cn Aby AsHAq kwfy
+# 278 zyAdo bn mHmd yrwy Cnh Allyv bn sCd mSry
+# 279 mnZwr bn syAr yrwy Cnh khms bn AlHsn bSry PageV01P132
+# 280 SqCb bn zhyr rwy Cnh HmAd bn zyd bSry
+# 281 jxdb bn jrCb rwy Cnh Alvwry kwfy
+# 282 zbAn bn fAcd rwy Cnh sCyd bn Aby Aywb mSry
+# 283 xEf bn mAlk rwy Cnh zyd bn jbyr kwfy PageV01P133
+# 284 sqyf bn bEr rwy Cnh Cysy bn ywns wwkyC kwfy
+# 285 jbryl bn AHmr yrwy Cn Abn brydo kwfy
+# 286 mDrs bn CbdAllh Abw AlShbAc rwy Cnh ( 102 ) wkyC kwfy
+# 287 mHtsb yrwy Cn vAbt AlbnAny bSry PageV01P134
+# 288 qTry AlxEAb yrwy Cn CbdAlwArv kwfy wCbdAlwArv hVA kwfy
+# 289 zmCo bn SAlH yrwy Cn Cmrw bn dynAr wAby Alzbyr wAlzhry wAbn TAwws
+~~mky
+# 290 ZbyAn yrwy Cnh Hbyb bn Cbyd EAmy
+# 291 jwvo bn Cbyd yrwy Cnh mHmd bn CjlAn mdyny PageV01P135
+# 292 sfr bn nsyr rwy Cnh mCAwyo bn SAlH EAmy
+# 293 rcbo bn AlCjAj rwy Cnh mCmr bn Almvny bSry
+# 294 ACyn AlHArvy rwy Cnh CbdAlrHmn bn Hmyd AlrcAsy yrwy Cn AlmnhAl bn
+~~Cmrw kwfy PageV01P136
+# 295 flyt AlCAmry yrwy Cnh Alvwry kwfy
+# 296 mstqym bn CbdAlmlk yrwy Cn Aby Alzbyr wEhr bn HwEb rwy Cnh mHmd bn
+~~rbyCo mky
+# 297 mHbr bn hArwn rwy Cnh Abw CASm AlCbAdAny bSry
+# 298 wzyr bn CbdAllh rwy Cnh bqyo bn Alwlyd EAmy PageV01P137
+# 299 hnyd bn AlqAsm rwy Cnh mwsy bn AsmACyl bSry
+# 300 dArm yrwy Cn sCyd bn Aby brdo rwy Cnh Abw AsHAq kwfy ( 111 )
+# 301 zmyl mwly Crwo yrwy Cnh Hywo bn EryH mSry PageV01P138
+# 302 AjlH bn CbdAllh rwy Cnh Alvwry wgyrh kwfy Asm AjlH yHyy ykny AbA
+~~Hjyo
+# 303 CrfTo rwy Cnh AsmACyl bn CyAE EAmy
+# 304 wAzC bn nAfC yrwy Cn Aby slmo bn CbdAlrHmn wnAfC jzry PageV01P139
+# 305 xyAr bn Cbydo rwy Cnh Axwh ryAH bn Cbydo EAmy
+# 306 brVCo bn CbdAlrHmn rwy Cnh Cmrw bn Hryv AlAEjCy kwfy
+# 307 jhDm Cn CbdAllh bn bdr rwy Cnh HAtm bn AsmACyl mdyny
+# 308 EmyT bn CjlAn rwy Cnh Abnh CbydAllh bn EmyT bSry
+# 309 rmyH bn hlAl AlTAcy yrw Cn CbdAllh bn brydo rwy Cnh PageV01P140
+# yHyy bn wADH mrwzy
+# 310 rmH rwy Cnh mrwAn AlfzAry kwfy
+# 311 rbyH bn Cbd AlrHmn bn Aby sCyd yrwy Cnh AldrAwrdy mdny
+# rkn rwy Cn mkHwl EAmy
+# 313 Emlo bn hzAl wykny AbA HtrwE yrwy Cn vAbt AlbnAny rwy Cnh Abw slmo
+~~mwsy bn AsmACyl bSry PageV01P141
+# 314 Csl bn sfyAn rwy Cnh ECbo ( 112 ) wsCyd bn Aby Crwbo bSry
+# 315 wfAc bn EryH rwy Cnh Allyv bn sCd mSry
+# 316 mqrn bn krzmo rwy Cnh CbdAlrHmn bn mhdy mjhwl
+# 317 hryr bn CbdAlrHmn bn rAfC bn xdyj rwy Cnh Abw AsmACyl Almcdb mdyny
+~~PageV01P142
+# 318 bsAm AlSyrfy yrwy Cnh wkyC wAbw nCym kwfy
+# 319 AxDr bn CjlAn rwy Cnh HmAd bn slmo wmHmd bn CbdAllh AlAnSAry bSry
+~~PageV01P143
+# 320 HSn rwy Cnh AlAwzACy yHdv Cn Aby slmo bn CbdAlrHmn EAmy
+# 321 qAbws bn Aby ZbyAn rwy Cnh Alvwry wjryr bn CbdAlHmyd kwfy
+# 323 wDyn bn CTAc yrwy Cnh bqyo bn Alwlyd EAmy PageV01P144
+# 323 znfl AlCrfy yrwy Cn Abn Aby mlyko mdyny
+# 324 qryb Abw CbdAlmlk bn qryb AlASmCy yrwy Cnh Cmrw bn CASm wAbnh
+~~AlASmCy bSry wlh Hdyv msnd PageV01P145
+# 325 zbyd zbyd AlyAmy rwy Cnh sfyAn wECbo kwfy
+# 326 msrbl AlCbdy rwy Cnh AljrAH bn mlyH Abw wkyC wyHdv msrbl Cn Amh
+~~qAlt rAyt CAcEo rDy Allh CnhA ( 121 ) tSTbg bxl xmr
+# 327 hzhAz yrwy Cn AbrAhym kwfy
+# 328 Akyl mcVn AbrAhym yrwy Cn AbrAhym kwfy PageV01P146
+# 329 drAj bn CbdAlrHmn rwy Cnh AlHArv wAbn lhyCo mSry
+# 330 dhvm bn qrAn rwy Cnh Abw bkr bn CyAE wmrwAn AlfzAry kwfy
+# 331 rdys whw Abw AlmHjl AlVy yrwy Cn CmrAn bn HTAn kwfy
+# 332 qyrAT whw Abw AlCAlyo AlVy yrwy Cnh Eryk kwfy PageV01P147
+# 333 bxtry bn mxtAr rwy Cnh wkyC kwfy
+# 334 DmDm bn zrCo rwy Cnh AsmACyl bn CyAE EAmy
+# 335 CfAq rwy Cnh msCr wAlHjAj bn ArTAo kwfy
+# 336 mstlm bn sCyd rwy Cnh yzyd bn hArwn wAsTy PageV01P148
+# 337 HsAm bn mSk bn ZAlm bn EyTAn rwy Cnh ECbo wgyrh bSry
+# 338 Cfyr bn mCdAn yrwy Cn slym bn CAmr wqtAd wkAn mcVn msjd HmS wykny
+~~AbA CAcV HmSy PageV01P149
+# 339 bEmyn yrwy Cn Aby zrCo bn Cmrw bn jryr wbEmyn Abw Aby yHyy AlHmAny
+~~yrwy Cn bEmyn CmAr bn rzyq kwfy
+# 340 bjyr bn Aby bjyr ( 122 ) yrwy Cnh AsmACyl bn Amyo TAcfy
+# 341 msro bn mCbd Allxmy rwy Cnh wkyC wDmro bn rbyCo mqdsy smC mnh wkyC
+~~bmko PageV01P150
+# 342 mstnyr bn AlAxDr rwy Cnh HErj bn nbAto wmstnyr Cm HErj bSry
+# 343 sdyr AlSyrfy yrwy Cn Aby jCfr mHmd bn Cly kwfy
+# 344 qCnb Altmymy yrwy Cn Clqmo bn mrvd rwy Cnh Abn Cyyno wgyrh kwfy
+# 345 mTrH rwy Cnh Abw bkr bn CyAE wAlmHArby kwfy PageV01P151
+# 346 lhyCo bn Ctbo whw Abw CbdAllh bn lhyCo rwy Cnh Abnh CbdAllh bn
+~~lhyCo wAllyv bn sCd mSry
+# 347 Hnyn bn Aby Hkym rwy Cnh Abn lhyCo mSry
+# 348 mZAhr bn Aslm rwy Cnh Abn jryj wAbw CASm qd smC mn mZAhr mky
+# 349 jwybr SAHb AlDHAk yrwy Cnh hEym kwfy PageV01P152
+# 350 Eyym bn bytAn yrwy Cn EybAn bn Amyo mSry
+# 351 CbydAlrHmn bn fDAlo Axw mbArk bn fDAlo yrwy Cn bkr bn CbdAllh
+~~Almzny bSry
+# 352 rzAm bn sCyd rwy Cnh Abw nCym kwfy ( 138 ) PageV01P153
+# 353 xSyf Aljzry rwy Cnh Alvwry wAsrAcyl wCtAb bn bEyr wmHmd Abn slmo
+~~AlHrAny
+# 354 Hyy bn CbdAlrHmn rwy Cnh Abn whb wAllyv bn sCd mSry
+# 355 qHAfo bn yzyd rwy Cnh bqyo EAmy PageV01P154
+# 356 mADy bn CbdAllh rwy Cnh Abn whb EAmy
+# 357 dynAr Abw Cmr yrwy Cn Abn AlHnfyo kwfy
+# 358 bAb bn Cmyr yrwy Cnh AlAwzACy ymAmy Hnfy
+# 359 zryk bn Aby zryk yrwy Cnh Abn mhdy wgyrh bSry PageV01P155
+# | wmn AlTbqo AlrAbCo
+# 360 jrwl bn jnfl yrwy Cn mndl wCbydAllh bn Cmr kwfy
+# 361 hql bn zyAd yrwy Cn AlAwzACy EAmy
+# 362 AEhb bn CbdAlCzyz yrwy Cn mAlk bn Ans wAllyv bn sCd mSry
+~~PageV01P156
+# 363 qrAn bn tmAm yrwy Cn wqAc bn AyAs whEAm bn Crwo kwfy
+# 364 mSAd bn Cqbo rwy Cnh CbdAlrHmn bn mhdy wCmr bn Aywb mwSly
+~~PageV01P157
+# 365 mndl bn Cly yrwy Cn lyv wDrAr bn mro wAlACmE kwfy ( 132 )
+# 366 Cwbd bn Aby CmrAn yrwy Cnh mHmd bn Almvny bSry
+# 367 xnys bn bkr bn xnys yrwy Cn msCr skn bgdAd PageV01P158
+# 368 rHmo bn mSCb wAsTy yHdv Cn Czro bn vAbt
+# 369 CvAm bn Cly AlCAmry yrwy Cn AlACmE wAsmACyl bn Aby xAld kwfy
+# 370 srwr bn Almgyro bn Axy mnSwr bn zAVAn yrwy Cn mnSwr bn zAVAn wAsTy
+~~PageV01P159
+# 371 srAr bn mjEr yrwy Cn Aywb AlsxtyAny wsCyd bn Aby Crwbo bSry
+# 372 CVAl yrwy Cn mHmd bn jHAdo bSry
+# 373 Sgdy bn snAn yrwy Cn xAld AlHVAc wmHmd bn fDAc bSry PageV01P160
+# 374 CTAf bn xAld yrwy Cn zyd bn Aslm mdny
+# 375 CrCro bn Albrnd yrwy Cn Abn Cwn wrwH bn AlqAsm bSry PageV01P161
+# 376 HnAn bn sdyr AlSyrfy yrwy Cn Abyh kwfy
+# 377 bqyo bn Alwlyd yrwy Cn ECbo wbHyr bn sCd wAlAwzACy EAmy
+# 378 jyfr bn AlHkm yrwy Cnh Abw AHmd Alzbyry kwfy PageV01P162
+# 379 CbAco bn klyb HdvnA Cnh kwfy
+# 380 bdl bn AlmHbr yrwy Cn ECbo bSry
+# 381 sCyd bn Alxms yrwy Cn CbdAllh bn AlHsn ( 141 ) wzyd bn Aslm whw
+~~Abw mAlk bn sCyr bn Alxms kwfy PageV01P163
+# 382 mCdy bn slymAn yrwy Cn mHmd bn CjlAn bSry
+# 383 Cqyl bn xAld yrwy Cn Alzhry mSry
+# 384 msmC bn CASm bSry SAHb zhd wmqTCAt
+# 385 nAyl bn njyH yrwy Cn sfyAn Alvwry bSry PageV01P164
+# 386 ECyv bn mHmd bn mHrz bSry HdvwnA Cnh
+# 387 EAhyn bn HyAn Axw fhd bn HyAn yrwy Cnh mbArk bn fDAlo wAlrbyC bn
+~~SbyH bSry
+# 388 Cbd Almhymn bn AlCbAs bn shl rwy Cnh yCqwb Alzhry wAsHAq Alfrwy
+~~mdyny
+# 389 kAdH yrwy Cn Abn lhyCo wgyrh kwfy PageV01P165
+# 390 mrHwm bn CbdAlCzyz AlCTAr yrwy Cn Aby nCAmo wAby CmrAn Aljwny bSry
+# 391 zAfr bn slymAn yrwy Cn ECbo wAsrAcyl wmAlk bn Ans kwfy skn Alry
+~~PageV01P166
+# 392 fhyr bn zyAd yrwy Cn AbrAhym bn yzyd Almky wjCfr bn brqAn rqy
+# 393 Aglb bn tmym yrwy Cn ywns bn Cbyd wmHmd bn jHAdo bSry
+# 394 mgls bn CbdAllh rwy Cnh EbAbo bn swAr xrAsAny mjhwl
+# 395 hyAj bn bsTAm yrwy Cnh ( 142 ) yHyy bn Aby bkyr wdAwd bn Cmrw
+~~xrAsAny PageV01P167
+# 396 mrAjm bn AlCwAm bn mrAjm yrwy Cnh AbrAhym bn AlHjAj AlsAmy bSry
+~~wAbwh AlCwAm bn mrAjm yrwy Cnh ECbo
+# 397 frdws bn AlAECr yrwy Cnh Abw kryb kwfy
+# 398 nAhD bn CbdAllh rwy Cnh CbdAlrHmn bn AlmbArk bSry
+# 399 zAjr bn AlSlt rwy Cnh mHmd bn AbAn Alblxy wAbw HfS AlflAs bSry
+~~PageV01P168
+# 400 rfdo bn qDACo yrwy Cn CbdAllh bn Cbyd bn Cmyr EAmy
+# 401 rdyH bn CTyo yrwy Cn yHyy bn Aby Cmrw AlsybAny EAmy
+# 402 Hnyfo bn mrzwq yrwy Cn Eryk skn bgdAd PageV01P169
+# 403 Hjyn bn Almvny yrwy Cn Allyv bn sCd wgyrh skn bgdAd
+# 404 rwym bn yzyd Almqryc yrwy Cn Allyv bn sCd wslAm Aby AlmnVr skn
+~~bgdAd
+# 405 AEhl bn HAtm yrwy Cn Abn Cwn bSry
+# 406 mSbH bn AlhlqAm yrwy Cn Eryk wqys bn AlrbyC kwfy
+# 407 swro bn AlHkm yrwy Cn EybAn bn CbdAlrHmn wCbdAllh bn Hbyb bn Aby
+~~vAbt skn bgdAd PageV01P170
+# 408 mshr bn CbdAlmlk bn slC yrwy ( 151 ) Cn AlACmE wCn Abyh kwfy
+# 409 bTryq bn yzyd Alklby yrwy Cnh hEAm bn CmAr EAmy
+# 410 ASrm bn HwEb yrwy Cn zyAd bn sCd mAt bhmVAn DCyf
+# 411 xSyb bn jHdr yrwy Cnh sCyd bn slymAn wgyrh DCyf PageV01P171
+# 412 CrAby bn mCAwyo yrwy Cnh yHyy bn CbdAllh bn bkyr yrwy Cn CbdAllh
+~~bn hbyro mSry
+# 413 mlAzm bn Cmrw rwy Cnh Abw slmo Almnqry wCly bn CbdAllh bn jCfr
+~~ymAmy PageV01P172
+# 414 HkAm bn slm AlrAzy yrwy Cn Aby snAn wAlEybAny wCnbso bn sCyd rAzy
+~~PageV01P173
+# | wmn AlTbqo AlxAmso
+# 415 msdd bn msrhd yrwy Cn HmAd bn zyd wCn CbdAlwArv bn sCyd bSry
+# 416 sydAn bn mDArb HdvnA Cnh Abw HAtm AlrAzy PageV01P174
+# 417 ysro bn SfwAn Allxmy yrwy Cn mHmd bn mslm AlTAcfy EAmy
+# 418 hnAd bn Alsry yrwy Cn Aby AlAHwS kwfy PageV01P175
+# 419 mnbh bn CvmAn Allxmy yrwy Cn vwr bn yzyd EAmy
+# 420 hdyo bn CbdAlwhAb ( 152 ) yrwy Cn AlfDl bn mwsy mrwzy
+# 421 mSrf bn Cmrw yrwy Cn CbdAllh bn Adrys wAbn fDyl kwfy
+# 422 snyd bn dAwd yrwy Cn ywsf bn mHmd bn Almnkdr wHjAj bn mHmd mSySy
+~~PageV01P176
+# 423 jmhwr bn mnSwr yrwy Cn Aby AsmACyl Almcdb wAsmACyl bn mjAld kwfy
+# 424 CbdAlmtCAl bn TAlb yrwy Cn Abn whb yrwy Cnh mHmd bn yHyy
+~~AlnysAbwry
+# 425 mErf bn sCyd yrwy Cn yCqwb bn AbrAhym bn sCd wAsTy PageV01P177
+# 426 xEyE bn ASrm yrwy Cn CbdAlrzAq mAt bmSr Axr ktAb TbqAt AlAsmAc
+~~Almfrdo wAlHmd llh rb AlCAlmyn wSly Allh Cly sydnA mHmd Alnby wAlh
+~~AjmCyn PageV01P178 PageV01P179 PageV01P180 nqd TbqAt AlAsmAc Almfrdo
+~~tAlyf AlAmAm AlHAfZ Aby CbdAllh AlHsyn bn AHmd bn bkyr PageV01P181 $ rd
+~~AlHAfZ Abn bkyr Cly mn Ankr An ykwn AlHAfZ Albrdyjy brdCyA
+# qAl AlEyx AlAmAm AlHAfZ Abw AlfDl mHmd bn nASr bn mHmd bn Cly AlslAmy
+~~gfr Allh lh kAn bxT Abn bkyr AlHAfZ fy Axr ktAb TbqAt AlAsmAc Almfrdo
+~~Alty kAnt ly AsmAc qd zAdhA wAsmAc qd AxVhA Cly Albrdyjy wgyr Vlk mn
+~~klAmh fnqlt Vlk qAl AlHsyn bn AHmd bn CbdAllh bn bkyr AlSyrfy Crft An
+~~bCD AlHfAZ Ankr An ykwn AHmd bn hArwn Albrdyjy brdCyA wnsb mn qAlh Aly
+~~AltSHyf whw brVCy brdyjy wHdv Cnh jmACo fqAlwA AlbrdCy PageV01P182 mnhm
+~~Abw AlEyx AlASbhAny wgyrh smCt AbA bkr mHmd bn Cly AlSAbwny AlbddCy
+~~wsAlth Cn brVCo wbrdyj fqAl mn byn brVCo Aly brdyj ArbCo CEr frsxA
+~~wbrdyj bld kbyr HwAlyh nhr mvl djlo bbgdAd ydwr AlmAc HwAlyh wkAn Abw
+~~Eyx bASbhAn wAbw bkr AlEAfCy wgyrhm yqwlwn AHmd bn hArwn AlbrVCy wbyAn
+~~Vlk mA HdvnA Abw AlqAsm Cmr bn mHmd bn PageV01P183 syf bn mHmd bn jCfr
+~~bn AbrAhym bn CbdAllh bn slymAn AlkAtb qAl HdvnA AlHsn bn AHmd bn SAlH
+~~AlzyAt qAl HdvnA AHmd bn hArwn bn rwH AlbrVCy qAl HdvnA mslm bn AlHjAj
+~~AlnysAbwry qAl HdvnA Abw gsAn mAlk bn CbdAlwAHd AlmsmCy qAl HdvnA mCAV
+~~bn hEAm qAl HdvnA Aby Cn mTr AlwrAq Cn Cmrw bn dynAr wCTAc bn Aby rbAH
+~~wAby Alzbyr Almky Cn jAbr An Alnby Sly Allh Clyh wslm bAC mdbrA hVA Hdyv
+~~gryb SHyH mn Hdyv mTr ( 162 ) Abn ThmAn AlwrAq Cn AlvlAvo lA Clm lh wjhA
+~~gyr hVA PageV01P184 wAxrjh mslm bn AlHjAj fy ktAbh AlmxtSr mn AlSHyH Cn
+~~Aby gsAn PageV01P185
+# | Vkr AsmAc VkrhA AHmd bn hArwn AlbrdCy AlmCrwf bAlbrdyjy rHmh Allh
+~~Cly ZwAhrhA why AlqAb lyst bAsAmy fmn Vlk
+# 1 fhyr bn zyAd Alrqy qAl Abn bkyr whw yHyy bn zyAd bn Aby dAwd AlAsdy
+~~mwly bny Asd twfy bCd Almctyn wyHyy kvyr
+# 2 wAjlH bn CbdAllh Alkndy qAl Abn bkyr hw yHyy bn CbdAllh Abw Hjyo
+~~AlAjlH kAn bh jlHo wyHyy kvyr
+# 3 wSgdy bn snAn PageV01P186 qAl Abn bkyr whw Cmr bn snAn AlHrEy wlqbh
+~~Sgdy wCmr kvyr PageV01P187
+# | Vkr AsmAc mwAfqo lbCD AlAsmAc Alty fy hVA AlktAb ftSyr bVkrnA lhA
+~~mvAny wmvAlv wAkvr mn Vlk fmn Vlk qAl
+# Albrdyjy
+# 4 mkrm rwy Cnh sCyd bn Aby Crwbo qAl Abn bkyr mkrm gyr mnswb rwy Cn
+~~Aby fzAro Cn Aby zyd mwly Cmrw bn Hryv Cn CbdAllh bn msCwd Cn Alnby Sly
+~~Allh Clyh wslm fy AlwDwc bAlnbyV ( 171 ) PageV01P188 wmkrm bn CbdAlrHmn
+~~yHdv Cn mHmd bn CbdAlmlk ArAh Aljdy Cn nAfC Cn Abn Cmr Hdv Cnh mHmd bn
+~~Cbyd bn CbdAlmlk AlAsdy AlhmVAny wmkrm bn ywsf bn HTAn ykny AbA lyv Hdv
+~~Cnh slm bn sAlm Alblxy wslymAn bn Aby hwVo wCbdAllh bn Almgyro AlnxCy
+~~Hdv Cn yAsyn AlzyAt wAbn Aby njyH wAsrAcyl bn ywns wgyrhm wmkrm bn mHmd
+~~Hdv Cnh Abw kryb mHmd bn AlClAc yrwy PageV01P189 Cn CbdAlrHmn bn mHmd bn
+~~Aby bkr bn Cmrw bn Hzm wmkrm gyr mnswb yHdv Cn nAfC Hdv Cnh Abw Cbydo
+~~CbdAlwAHd bn wASl AlHdAd wmkrk bn Hkym AlnxCy Abw CbdAllh yHdv Cn fDAlo
+~~AlzhrAny Cn AlHsn AlbSry Hdv Cnh dAwd bn Cmrw AlDby wAlqADy Abw bkr mkrm
+~~bn AHmd bn mHmd bn mkrm AlqTwTAny Cm Aby AlCbAs bn mkrm AlmCdl wEAb ktb
+~~mCnA AlHdyv yCrf bmkrm bn Cmr AlzjAj wykny bAby AlHsyn fy jwAr Aby bkr
+~~AlEAfCy qAl Albrdyjy
+# 5 bsAm AlSyrfy qAl Abn bkyr bsAm bn yzyd AlnqAl Hdv Cnh Abn bnt mnyC
+~~wgyrh yHdv Cn HmAd bn slmo wgyrh PageV01P190
+# 6 wqrfo bn bhys Abw AldhmAc qAl Abn bkyr wqrfo bn CbdAlCzyz rwy Cn Aby
+~~Alzbyr Cn jAbr AHAdyv
+# 7 wClwAn bn Aby mAlk yHdv Cn AlECby rwy Cnh Alvwry qAl Abn bkyr ( 172
+~~) ClwAn bn dAwd Cn AlACmE rwy Cnh Cmrw bn CvmAn AlHmSy
+# 8 xSyb bn jHdr qAl Abn bkyr wxSyb bn nASH yrwy Cn mAlk bn Ans wgyrh
+~~wxSyb AlwAbEy rwy Cn AlACmE wyHyy bn sCyd AlAnSAry wgyrhmA PageV01P191
+# 9 msdd bn msrhd qAl Abn bkyr wmsdd bn yCqwb bn AsHAq Alqlwsy yHdv Cn
+~~Abyh wgyrh wmsdd bn qTn nysAbwry yrwy Cn AHmd bn AbrAhym Aldwrqy bAlzhd
+# 10 whyAj bn bsTAm qAl Abn bkyr hyAj bn CmrAn yHdv Cn CmrAn bn HSyn
+~~wsmro bn jndb Hdv Cnh AlHsn AlbSry PageV01P192
+# 11 ECyv bn mHrz qAl Abn bkyr ECyv bn Aby AlAECv yrwy Cn hEAm bn Crwo
+# 12 dvAr AlqTAn qAl Abn bkyr dvAr bn mHArb bn dvAr yrwy Cn Abyh wdvAr
+~~bn AlHArv Alnhdy Hdv Cnh mHmd bn qys AlAsdy
+# 13 mHbr bn hArwn qAl Abn bkyr mHbr bn qHVm wAld dAwd bn AlmHbr Hdv Cnh
+~~Abnh dAwd
+# 14 mxEy bn Hmyr qAl Abn bkyr mxEy bn mCAwyo AlbAhly yrwy Cn mTr AlwrAq
+~~wgyrh PageV01P193
+# 15 gwv bn slymAn qAl Abn bkyr ( 188 ) gwv bn AlmbArk kwfy
+# 16 Srd bn Aby AlmnAzl qAl Abn bkyr Srd bn HmAd bn sAlm Abw shl AlwAsTy
+~~yrwy Cn CbdAlrHmn bn mshr qADy jbl Hdv Cnh qAsm AlmTrz wgyrh
+# 17 mnZwr bn syAr qAl Abn bkyr mnZwr bn AlqCqAC yrwy Cn AlECby mn Hdyv
+~~mgyro bn mqsm Aby hEAm AlDby rwy Cn mgyro ECbo bn AlHjAj PageV01P194
+# 18 myvm yrwy Cnh CbdAllh bn AlHArv qAl Abn bkyr myvm AltmAr rAwyo
+~~AlEyCo
+# 19 jbryl bn AHmr qAl Abn bkyr jbryl bn mjACo bn AlfDl Abw HAtm
+~~Alsmrqndy Cn qtybo bn sCyd wgyrh
+# 20 dArm Cn sCyd bn Aby brdo qAl Abn bkyr dArm bn mHmd bn Alsry bn yHyy
+~~Altmymy ykny bAby Cbydo AlqTAn kwfy whw Axw Aby bkr bn Aby dArm
+# 21 ASrm bn HwEb qAl Abn bkyr ASrm bn gyAv Abw gyAv yHdv Cn hEAm bn
+~~HsAn wgyrh rwy Cnh AljArwd bn mCAV wASrm bn mAlk AlfArsy ykny bAby Cmrw
+~~yHdv Cn mHmd bn Cbyd AlTnAfsy PageV01P195
+# 22 qAl Albrdyjy zAVAn Abw Cmr qAl Abn bkyr zAVAn wAld mnSwr bn zAVAn
+~~wAsTy
+# 23 Emlo bn hzAl qAl Abn bkyr Emlo bn Cmr bn wAqd AlwAqdy whw Axw mHmd
+~~bn Cmr AlwAqdy
+# 24 wfAc bn EryH qAl Abn bkyr ( 182 ) wfAc bn shyl PageV01P196
+# 25 bxtry bn AlmxtAr qAl Abn bkyr bxtry bn Cbyd AlTAbxy yrwy Cn Abyh Cn
+~~Aby hryro Hdv Cnh hEAm bn CmAr AldmEqy wbxtry bn AlHsyn bn Albxtry yrwy
+~~Cn kAml bn TlHo rwy Cnh Abn qAnC wAbw bkr bn Aby dArm wgyrhmA
+# 26 bqyo bn Alwlyd qAl Abn bkyr bqyo bn mhrAn Alzndwrdy Hdv Cnh Cly bn
+~~AsHAq bn zATyA wCtydh PageV01P197
+# 27 hnAd bn Alsry bn yHyy bn Aby Cbydo Altmymy kwfy yrwy Cn wkyC wAby
+~~mCAwyo AlDryr wgyrhmA qAl Abn bkyr hnAd bn Alsry kwfy mtAxr yrwy Cn Aby
+~~kryb wAby sCyd AlAEj wgyrhmA
+# 28 xEyE bn ASrm qAl Abn bkyr xEyE AlbSry yrwy Cn ECbo rwy Cnh Abnh
+~~AbrAhym bn xEyE PageV01P198
+# 29 xyAr bn Cbydo qAl Abn bkyr xyAr bn slmo
+# 30 Cryf bn drhm qAl Abn bkyr Cryf bn AbrAhym Alvqfy
+# 31 mDArb bn Hzn Cn Aby hryro qAl Abn bkyr mDArb bn nzyl bn mrzwq
+~~Alklby yHdv Cn Abyh Cn bqyo wgyrh Hdv Cnh mHmd bn shl bn AlHsn AlCTAr
+~~AlAmwy PageV01P199
+# 32 dynAr Abw Cmr qAl Abn bkyr dynAr mwly Ans Cn Ans
+# 33 bjyr bn Aby bjyr qAl Abn bkyr bjyr bn mHmd bn bjyr bn jAbr Abw
+~~AlqAsm AlmHArby yrwy Cn yHyy bn yCly bn AlHArv AlmHArby wgyrh
+~~PageV01P200 qAl AlEyx hVA Axr mA kAn bxT Abn bkyr ( 191 ) fy nsxty mn
+~~zyAdAth PageV01P201 qAl wAnA AtVkr mA shl Allh gyr hVh AlAsmAc wAvbthA
+~~fy mA yly hVA PageV01P202 bCwn Allh An EAc Allh wSly Allh Cly mHmd Alnby
+~~wCly Alh wslm tslymA PageV01P203 nqlth mn xTh wqAblt bh wttbCt DbTh lAn
+~~AbA CbdAllh AlSwry AlHAfZ qd Snf fy hVA AlktAb ktAbyn yrd fyhmA Cly
+~~Albrdyjy mA AxTA fyh wSHf wmA AxTA Abn bkyr AyDA wbCDhmA Cndy bxT AlSwry
+~~wsmCthmA bAlAjAzo Cnh wCArDt bh mC nfsy wAlHmd llh kvyrA Axr mA kAn fy
+~~AlASl bxT AlEyx AlAmAm Aby AlfDl mHmd bn nASr AlbgdAdy wAlHmd llh rb
+~~AlCAlmyn wSly Allh Cly sydnA mHmd Alnby wAlh AjmCyn Alnby wAlh AjmCyn (
+~~192 ) PageV01P204

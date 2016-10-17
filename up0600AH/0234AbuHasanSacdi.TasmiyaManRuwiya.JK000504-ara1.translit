@@ -1,0 +1,805 @@
+#####ARABICA#SUBJECT#
+
+
+######## BEGofRECORD ###################################################
+#000000# 000.SortField	:: JK_000504
+#NewRec# 000.BookURI	:: #0234.AbuHasanSacdi.TasmiyaManRuwiya
+#NewRec# 010.AuthorAKA	:: AlsCdy
+#NewRec# 010.AuthorNAME	:: Cly bn CbdAllh bn jCfr Abw AlHsn AlsCdy mwlAhm
+#NewRec# 011.AuthorBORN	:: 161
+#NewRec# 011.AuthorDIED	:: 234
+#NewRec# 019.AuthorDIED	:: NODATA
+#NewRec# 020.BookTITLE	:: tsmyo mn rwy Cnh mn AwlAd AlCEro
+#NewRec# 020.BookTITLESUB	:: NODATA
+#NewRec# 021.BookSUBJ	:: Axry :: ktb AlHdyv Alnbwy AlEryf wtrAjm AlrwAo :: ktb AlTbqAt
+#NewRec# 022.BookVOLS	:: 1
+#NewRec# 025.BookLANG	:: NODATA
+#NewRec# 029.BookTITLEalt	:: tsmyo mn rwy Cnh mn AwlAd AlCEro
+#NewRec# 030.LibURI	:: JK_000504
+#NewRec# 030.LibURIextra	:: NODATA
+#NewRec# 031.LibREADONLINE	:: NODATA
+#NewRec# 031.LibURL	:: NODATA
+#NewRec# 031.LibURLFILE	:: NODATA
+#NewRec# 031.LibURLextra	:: NODATA
+#NewRec# 040.EdALL	:: NODATA
+#NewRec# 040.EdEDITOR	:: d. Cly mHmd jmAz
+#NewRec# 041.EdNUMBER	:: AlAwly
+#NewRec# 041.EdNumber	:: NODATA
+#NewRec# 043.EdPUBLISHER	:: dAr Alqlm
+#NewRec# 044.EdPLACE	:: Alkwyt
+#NewRec# 045.EdYEAR	:: 1402 - 1982
+#NewRec# 049.EdISBN	:: NODATA
+#NewRec# 049.EdPAGES	:: NODATA
+#NewRec# 049.EdPHYSICAL	:: NODATA
+#NewRec# 049.EdVOLUME	:: NODATA
+#NewRec# 090.RecMISC	:: NODATA
+#NewRec# 999.MiscINFO	:: NODATA
+
+
+
+#####FILENAME#JK_000504
+# bsm Allh AlrHmn AlrHym AxbrnA AlEyx Abw EAkr yHyy bn AHmd bn ywsf
+~~AlsqlATwny qrAco Clyh bEArC Alrqyq bAljAnb Algrby mn bgdAd wnHn nsmC
+~~wVlk CEyo ywm AlAHd sAbC CEryn Vy AlqCdh mn sno vlAv wstyn wxmsmAyh qyl
+~~lh Abrkm AlEyx Abw AlHsyn AlmbArk bn Cbd AljbAr AlSyrfy qrAco Clyh wAnt
+~~tsmC wVlk fy Ehwr sno vmAn wtsCyn wArbCmAch fAqrbh qAl AnbAnA Aw Cly
+~~AlHsn bn AHmd bn AbrAhym bn EAVAn qrAco Clyh qAl qrc Cly Aby Cmr wCvmAn
+~~bn AHmd Cbd Allh AldqAq AlmCrwf bAbn AlsmAk wAnA AsmC fy ywm Alxmys
+~~lvlAv bqyn mn AlmHrm mn sno ArbC wArbCyn wvlAvmAch qAl vnA Abw Cly Hnbl
+~~bn AsHAq bn Hnbl qAl nZr Abw Cbd Allh yCny AHmd bn Hnbl fy hVA AlktAb
+~~fCjb mn txlyS Cly bn Almdyny hVh AlAsmAc wmCrfth bhA AxbrnA CvmAn vnA
+~~Hnbl bn AsHAq qAl vnA Cly bn Cbd Allh Almdyny qAl PageV01P077
+# 1 fATmo bnt mHmd bn Cbd Allh rswl Allh Sly Allh Clyh wslm wmn wld
+~~fATmo AlHsn bn Cly bn Aby TAlb wAlHsyn bn Cly bn Aby TAlb rDy Allh Cnh
+~~wmn wld AlHsn bn Cly Cbd Allh bn Hsn bn Hsn bn Cly wHsn bn Hsn bn Hsn bn
+~~Cly wAlHsn bn zyd bn Hsn bn Hsn bn Cly wCly bn Hsn bn Hsn bn Hsn bn Cly
+~~wmHmd bn Cmrw bn Hsn bn Cly wzyd bn Hsn bn Hsn wmn wld AlHsyn bn Cly
+~~mHmd bn Cly wCbd Allh bn Cly wzyd bn Cly wCmr bn Cly wHsyn bn Cly bn
+~~Hsyn wmn wld mHmd bn Cly jCfr bn mHmd bn Cly wmn wld zyd Cly Hsyn bn zyd
+~~bn Cly bn Hsyn PageV01P078
+# 2 wmn wld Aby bkr AlSdyq rDy Allh Cnh CAcEo bnt Aby bkr zwj Alnby Sly
+~~Allh Clyh wslm wAsmAc bnt Aby bkr wCbd AlrHmn bn Aby bkr wCbd Allh bn
+~~Cbd AlrHmn bn Aby bkr wCbd Allh bn mHmd bn Cbd AlrHmn bn Aby bkr whw bn
+~~Aby Ctyq wAlqAsm bn mHmd bn Aby bkr wCbd AlrHmn bn AlqAsm bn mHmd bn Aby
+~~bkr PageV01P079
+# 3 wmn wld Cmr bn AlxTAb rDy Allh Cnh HfSo zwj Alnby Sly Allh Clyh wslm
+~~Am Almcmnyn rDy Allh CnhA wCbd Allh bn Cmr wCASm bn Cmr wwAqd bn Cmr
+# 4 wmn wld Cbd Allh bn Cmr sAlm bn Cbd Allh bn Cmr wCbd Allh bn Cbd
+~~Allh bn Cmr wHmzh bn Cbd Allh bn Cmr wCbyd Allh bn Cbd Allh bn Cmr wblAl
+~~bn Cbd Allh bn Cmr wzyd bn Cbd Allh bn Cmr wCbd AlrHmn bn Cbd Allh bn
+~~Cmr PageV01P080
+# 5 wmn wld Cbd Allh bn Abw bkr bn Cbd Allh bn Cmr Cmr bn sAlm bn Cbd
+~~Allh bn Cmr wjCfr bn sAlm bn Cbd Allh wmn wld Cbd Allh bn Cbd Allh Abw
+~~Cbydo bn Cbd Allh bn Cbd Allh bn Cmr bn AlxTAb wCbd AlCzyz bn Cbd Allh
+~~bn Cbd Allh bn Cmr yCny bn AlxTAb wmn wld Hmzo bn Cbd Allh Cmr bn Hmzo
+~~bn Cbd Allh bn Cmr bn AlxTAb wmn wld Cbyd Allh bn Cbd Allh bn Cmr Abw
+~~bkr bn Cbyd Allh bn Cbd Allh bn Cmr wAlqAsm bn Cbyd Allh bn Cbd Allh bn
+~~Cmr wxAld bn Aby bkr bn Cbyd Allh bn Cbd Allh bn Cmr PageV01P081 wmn wld
+~~zyd bn Cbd Allh bn Cmr mHmd bn zyd bn Cbd Allh bn Cmr wmn wld mHmd bn
+~~zyd bn Cbd Allh bn Cmr Cmr bn mHmd bn zyd bn Cbd Allh bn Cmr wCASm bn
+~~mHmd bn zyd wwAqd bn mHmd bn zyd wAbw bkr bn mHmd bn zyd wzyd bn mHmd bn
+~~zyd wmn wld wAqd bn Cbd Allh bn Cmr Cbd Allh bn wAqd bn Cbd Allh bn Cmr
+~~wCvmAn bn wAqd bn Cbd Allh bn Cmr wmn wld Cbd AlrHmn bn Cbd Allh Abw bkr
+~~bn Cmr bn Cbd AlrHmn bn Cbd Allh bn Cmr bn AlxTAb wmn wld CASm bn Cmr
+~~Cbyd Allh bn CASm bn Cmr wHfS bn CASm bn Cmr bn AlxTAb wmn wld Cbyd Allh
+~~bn CASm CASm bn Cbyd Allh bn CASm bn Cmr bn AlxTAb mn wld HfS bn CASm bn
+~~Cmr bn AlxTAb Cmr bn HfS bn CASm bn Cmr wCysy bn HfS bn CASm bn Cmr bn
+~~AlxTAb wmn wld Cmr bn HfS bn CASm Cbyd Allh bn Cmr bn HfS bn CASm wAbw
+~~bkr bn Cmr bn HfS bn CASm wCbd Allh bn Cmr bn HfS wmn wld Cbyd Allh bn
+~~Cmr rbAH bn Cbyd Allh bn Cmr bn HfS bn CASm wmn wld Cbd Allh bn Cmr bn
+~~HfS Cbd AlrHmn bn Cbd Allh wAlqAsm bn Cbd Allh bn Cmr bn HfS bn CASm mn
+~~wld Cbd AlrHmn bn Cmr Cbd AlrHmn bn mjbr bn Cbd AlrHmn bn Cmr
+~~PageV01P082
+# 4 wmn wld CvmAn bn CfAn rDy Allh Cnh AbAn bn CvmAn bn CfAn wCmr bn
+~~CvmAn bn CfAn wsCyd bn CvmAn bn CfAn wmn wld AbAn bn CvmAn Cbd AlrHmn bn
+~~AbAn bn CvmAn bn CfAn wmn wld Cmrw bn CvmAn bn CfAn Cbd Allh bn Cmrw bn
+~~CvmAn bn CfAn wmHmd bn Cmrw bn CvmAn bn CfAn wsCyd bn xAld bn Cmrw bn
+~~CvmAn bn CfAn wAmyo bn Cbd Allh bn Cmrw bn CvmAn bn CfAn PageV01P083
+# 5 wmn wld Cly bn Aby TAlb rDy Allh Cnh mHmd bn Cly bn AlHnfyo wCmr bn
+~~Cly bn Aby TAlb wfATmh bnt Cly bn Aby TAlb wmn wld mHmd bn Cly bn
+~~AlHnfyh AlHsn bn mHmd bn Cly bn Aby TAlb wAbw hAEm Cbd Allh bn mHmd bn
+~~Cly bn Aby TAlb wmn wld Cmr bn Cly bn Aby TAlb mHmd bn Cmr bn Cly bn Aby
+~~TAlb wCbd Allh bn mHmd bn Cmr bn Cly bn Aby TAlb PageV01P084
+# 6 wmn wld Alzbyr bn AlCwAm rDy Allh Cnh Cbd Allh bn Alzbyr bn AlCwAm
+~~wCrwh bn Alzbyr bn AlCwAm wmSCb bn Alzbyr bn AlCwAm wmn wld Cbd Allh bn
+~~Alzbyr CAmr bn Cbd Allh bn Alzbyr wHmzh bn Cbd Allh bn Alzbyr wCbAd bn
+~~Cbd Allh bn Alzbyr wHbyb bn Cbd Allh bn Alzbyr wAbw bkr bn Cbd Allh bn
+~~Alzbyr whEAm bn Hmzo bn Cbd Allh bn Alzbyr wmSCb bn vAbt bn Cbd Allh bn
+~~Alzbyr wnAfC bn vAbt bn Cbd Allh bn Alzbyr wCbd Allh bn mSCb bn vAbt bn
+~~Cbd Allh bn Alzbyr wSdyq bn mwsy bn Cbd Allh bn Alzbyr wCmr bn mSCb
+~~wmHmd bn CbAd bn Cbd Allh bn Alzbyr wmn wld Crwo bn Alzbyr Cbd Allh bn
+~~Crwo bn Alzbyr whEAm bn Crwo bn Alzbyr wmHmd bn Crwo bn Alzbyr wyHyy bn
+~~Crwo bn Alzbyr wCvmAn bn Alzbyr wCmr bn Cbd Allh wAbn Crwo bn Alzbyr
+~~wfATmh bnt AlmnVr bn Alzbyr wCbd Allh bn mCAwyo bn AlmnVr PageV01P085
+# 7 wmn wld TlHo bn Cbyd Allh rDy Allh Cnh yHyy bn TlHo bn Cbyd Allh
+~~wmwsy bn TlHo bn Cbyd Allh wCmrAn bn TlHo bn Cbyd Allh wCAcEh bnt TlHo
+~~bn Cbyd Allh wCysy bn TlHo bn Cbyd Allh wmn wld yHyy bn TlHo bn Cbyd
+~~Allh TlHo bn yHyy bn TlHo bn Cbyd Allh wAsHAq bn yHyy bn TlHo bn Cbyd
+~~Allh wblAl bn yHyy bn TlHo bn Cbyd Allh wAbrAhym bn mHmd bn TlHo bn Cbyd
+~~Allh wmCAwyo bn AsHAq bn TlHo wmwsy bn AsHAq bn TlHo
+# 8 wmn wld Cbd AlrHmn bn Cwf rDy Allh Cnh AbrAhym bn Cbd AlrHmn bn Cwf
+~~wHmyd bn Cbd AlrHmn bn Cwf wAbw slmo bn Cbd AlrHmn bn Cwf wmn wld
+~~AbrAhym bn Cbd AlrHmn bn Cwf SAlH bn AbrAhym bn Cbd AlrHmn bn Cwf wsCd
+~~bn AbrAhym bn Cbd AlrHmn bn Cwf wAbrAhym bn sCd bn AbrAhym bn Cbd AlrHmn
+~~bn Cwf wyCqwb bn AbrAhym bn sCd bn AbrAhym bn Cbd AlrHmn bn Cwf wsCd bn
+~~AbrAhym bn sCd bn AbrAhym bn Cbd AlrHmn bn Cwf wmn wld Hmyd bn Cbd
+~~AlrHmn bn Cwf Cbd AlrHmn bn Hmyd bn Cbd AlrHmn bn Cwf wmn wld Aby slmo
+~~bn Cbd AlrHmn bn Cwf slmo bn Aby slmo wCmr bn Aby slmo bn Cbd AlrHmn bn
+~~Cwf wCbd Almjyd bn shyl bn Cbd AlrHmn bn Cwf wAlHsn bn CvmAn bn Cbd
+~~AlrHmn bn Cwf PageV01P086
+# 9 wmn wld sCd bn Aby wqAS rDy Allh Cnh mSCb bn sCd bn mAlk wCAmr bn
+~~sCd bn mAlk wmHmd bn sCd bn mAlk wAbrAhym bn sCd bn mAlk wCmyr bn sCd bn
+~~mAlk wyHyy bn sCd bn mAlk wCAcEh bnt sCd bn mAlk wmn wld CAmr bn sCd bn
+~~mAlk dAwd bn CAmr bn sCd bn mAl wqryn bn CAmr bn sCd bn mAlk wmn wld
+~~mHmd bn sCd AsmACyl bn mHmd bn sCd bn mAlk wAbrAhym bn mHmd bn sCd bn
+~~mAlk wAsmACyl bn AbrAhym bn mHmd bn sCd bn mAlk wmn wld Cmr bn sCd Abw
+~~bkr bn HfS bn Cmr bn sCd bn mAlk wHfS bn Aby bkr bn HfS bn sCd wAlAECv
+~~bn AsHAq bn sCd bn Aby wqAS PageV01P087
+# 10 wmn wld sCyd bn zyd bn Cmrw bn nfyl hEAm bn sCyd bn zyd bn Cmrw bn
+~~nfyl wnfyl bn hEAm bn sCyd bn zyd bn Cmrw bn nfyl PageV01P088
+# 11 wmn wld Cbd Allh bn msCwd AlhVly rDy Allh Cnh Cbd AlrHmn bn Cbd
+~~Allh bn msCwd wAbw Cbydo bn Cbd Allh bn msCwd wmn wld Cbd AlrHmn bn Cbd
+~~Allh bn msCwd AlqAsm bn Cbd AlrHmn bn Cbd Allh bn msCwd wmCn bn Cbd
+~~AlrHmn bn Cbd Allh bn msCwd wAlqAsm bn mCn bn Cbd AlrHmn bn Cbd Allh bn
+~~msCwd wmn wld Aby Cbydo bn Cbd Allh bn msCwd Cbd Almlk bn Aby Cbydo bn
+~~Cbd Allh bn msCwd wCtbh bn Cbd Allh bn Ctbo bn Cbd Allh bn msCwd wCbd
+~~AlrHmn bn Cbd Allh bn Ctbo bn Cbd Allh bn msCwd PageV01P089
+# 12 wmn wld Ctbo bn msCwd Cbd Allh bn Ctbo bn msCwd wmn wld Cbd Allh bn
+~~Ctbo Cbd Allh bn Cbd Allh bn Ctbo bn msCwd wCwn bn Cbd Allh bn Ctbo
+~~wnAjyh bn Cbd Allh bn Ctbo
+# 13 wmn wld CAmr bn rbyCo AlCdwy Cbd Allh bn CAmr bn rbyCo PageV01P090
+# 14 wmn wld zyd bn HArvo Alklby mwly rswl Allh Sly Allh Clyh wslm AsAmo
+~~bn zyd bn HArvo wmHmd bn AsAmo bn zyd bn HArvo
+# 15 wmn wld Aby slmo bn Cbd AlAsd Cmr bn Aby slmo wslmh bn Cmr bn Aby
+~~slmo wzynb bnt Aby slmo PageV01P091
+# 16 wmn wld CmAr bn yAsr mHmd bn CmAr bn yAsr wslmh bn mHmd bn CmAr bn
+~~yAsr wAbw Cbydo bn mHmd bn CmAr bn yAsr
+# 17 wmn wld xbAb bn AlArv Cbd Allh bn xbAb bn AlArv
+# 18 wmn wld Shyb bn snAn Syfy bn Shyb
+# 19 wmn wld Ctbo bn gzwAn gzwAn bn Ctbo bn gzwAn PageV01P092
+# 20 wmn wld AlmqdAd bn Cmrw xzymh bn AlmqdAd bn Cmrw PageV01P093
+# 21 wmn wld AlCbAs bn Cbd AlmTlb Cbd Allh bn CbAs wAlfDl bn CbAs wkvyr
+~~bn AlCbAs wtmAm bn AlCbAs wqvm bn AlCbAs wCly bn Cbd Allh bn CbAs
+~~PageV01P094 slymAn bn Cly wmHmd bn Cly wdAwd bn Cly Axwo wCbd Allh bn
+~~mCbd bn CbAs wAbrAhym bn Cbd Allh bn mCbd bn CbAs wAlCbAs bn Cbd Allh bn
+~~CbAs wAlCbAs bn Cbd Allh bn mCbd bn CbAs wAlHsyn bn Cbd Allh bn Cbyd
+~~Allh bn CbAs wCbd Allh bn Cbd Allh bn CbAs bn Cbd AlmTlb wmHmd bn Cly bn
+~~Cbd Allh bn CbAs PageV01P095
+# | 1 ( bAb tsmyo mn smC mn Alnby )
+# Sly Allh Clyh wslm hw wAbnh wkAnt lh SHbh
+# 1 Abw bkr AlSdyq wCAcEh bnt Aby bkr wAsmAc bnt Aby bkr wCbd AlrHmn bn
+~~Aby bkr
+# 2 wCmr bn AlxTAb wHfSh bnt Cmr wCbd Allh bn Cmr
+# 3 wCly bn Aby TAlb wAlHsn bn Cly bn Aby TAlb wAlHsyn bn Cly
+# 4 wAlzbyr bn AlCwAm wCbd Allh bn Alzbyr
+# 5 wzyd bn HArvo wAsmAh bn zyd
+# 6 wAlCbAs bn Cbd AlmTlb wAlfDl bn CbAs wCbd Allh bn CbAs
+# 7 Abw slmo bn Cbd AlAsd wCmr bn Aby slmo wzynb bnt Aby slmo bn Cbd
+~~AlAsd
+# 8 Abw mrvd HSyn bn knAz Algnwy wmrvd bn Aby mrvd Algnwy
+# 9 Abw sfyAn bn Hrb bn Amyo wmCAwyo bn Aby sfyAn PageV01P096
+# 10 AlsAcb bn Aby AlsAcb Almxzwmy wCbd Allh bn AlsAcb wyzyd bn AlsAcb
+~~wAlsAcb bn yzyd
+# 11 mxrmo bn nwfl wAlmswr bn mxrmo bn nwfl
+# 12 wsCd bn CbAdh wqys bn sCd bn CbAdh wsCyd bn sCd bn CbAdh
+# 13 wCbd Allh bn jHE wmHmd bn Cbd Allh bn jHE bn rcAb
+# 14 wjCfr bn Aby TAlb wCbd Allh bn jCfr bn Aby TAlb PageV01P097
+# 15 wAlDHAk bn xlyfh AlAEhly wvAbt bn AlDHAk bn xlyfh
+# 16 wCbd Allh bn Aby Amyo wCbd Allh bn Cbd Allh bn Aby Amyo
+# 17 wCbd Allh bn Cmrw bn HrAm wjAbr bn Cbd Allh bn Cmrw bn HrAm Alslmy
+# 18 wCmrw bn AlCAS bn wAcl wCbd Allh bn Cmrw bn AlCAS
+# 19 wxlAd bn zyd wAlsAcb bn xlAd bn swyd
+# 20 wHkym bn HzAm whEAm bn Hkym bn HzAm PageV01P098
+# 21 wbEyr bn sCd wAlnCmAn bn bEyr bn sCd AlAnSAry PageV01P099
+# 22 wsCd bn xyvmo wCbd Allh bn sCd bn xyvmo PageV01P100
+# | 1 ( bAb tsmyo AlAxwo )
+# 1 Cly bn Aby TAlb wjCfr bn Aby TAlb wCqyl bn Aby TAlb
+# 2 wAlHsn bn Cly bn Aby TAlb wAlHsyn bn Cly bn Aby TAlb wmHmd bn Cly bn
+~~Aby TAlb
+# 3 wCbd Allh bn Cmr bn AlxTAb wCASm bn Cmr wwAqd bn Cmr
+# 4 wCvmAn bn Aby AlCAS Alvqfy wAlHkm bn Aby AlCAS wjCfr bn Aby AlCAS
+~~PageV01P101
+# 5 wCbd Allh bn Hsn bn Hsn bn Cly bn Aby TAlb wHsn bn Hsn bn Hsn wCly
+~~bn Hsn bn Hsn bn Hsn wzyd bn Hsn bn Hsn
+# 6 mHmd bn Cly bn Hsyn wCbd Allh bn Cly wzyd bn Cly wCmr bn Cly wHsyn
+~~bn Cly bn Hsyn
+# 7 wsAlm bn Cbd Allh bn Cmr wHmzh bn Cbd Allh bn Cmr
+# 8 wAbw bkr bn sAlm bn Cbd Allh bn Cmr wjCfr bn sAlm bn Cbd Allh bn Cmr
+# 9 wCmr bn mHmd bn zyd bn Cbd Allh bn Cmr bn AlxTAb wCASm bn mHmd bn
+~~zyd wAbw bkr bn mHmd bn zyd PageV01P102
+# 10 Cbyd Allh bn Cmr bn HfS bn CASm wAbw bkr bn Cmr bn HfS wCbd Allh bn
+~~Cmr bn HfS
+# 11 AbAn bn CvmAn wCmrw bn CvmAn wsCyd bn CvmAn bn CfAn
+# 12 Cbd Allh bn Alzbyr wCrwh bn Alzbyr wmSCb bn Alzbyr
+# 13 wCAmr bn Cbd Allh bn Alzbyr wCbAd bn Cbd Allh bn Alzbyr wHmzh bn
+~~Cbd Allh bn Alzbyr wxbyb bn Cbd Allh bn Alzbyr wAbw bkr bn Cbd Allh bn
+~~Alzbyr
+# 14 Cbd Allh bn Crwo bn Alzbyr wyHyy bn Crwo bn Alzbyr wmHmd bn Crwo bn
+~~Alzbyr wCvmAn bn Crwo bn Alzbyr whEAm bn Crwo bn Alzbyr
+# 15 mwsy bn TlHo bn Cbyd Allh wCysy bn TlHo bn Cbyd Allh wyHyy bn TlHo
+~~bn Cbyd Allh wCmrAn bn TlHo bn Cbyd Allh
+# 16 wTlHh bn yHyy bn TlHo wblAl bn yHyy bn TlHo PageV01P103
+# 17 AbrAhym bn Cbd AlrHm bn Cwf wHmyd bn Cbd AlrHmn bn Cwf wAbw slmo bn
+~~Cbd AlrHmn bn Cwf wmSCb bn Cbd AlrHmn bn Cwf
+# 18 wmSCb bn sCd bn Aby wqAS wCAmr bn sCd bn Aby wqAS wAbrAhym bn sCd
+~~wCmr bn sCd bn Aby wqAS wyHyy bn sCd wmHmd bn sCd
+# 19 wCbd Allh bn Cbd Allh bn Ctbo bn msCwd wCwn bn Cbd Allh bn Ctbo
+~~wnAjyh bn Cbd Allh bn Ctbo
+# 20 AlnDr bn Ans wmwsy bn Ans wAbw bkr bn Ans wCmr bn Ans bn mAlk
+# 21 mHmd bn syryn wyHyy bn syryn wAns bn syryn wmCbd bn syryn wHfSh bnt
+~~syryn wkrymh bnt syryn PageV01P104
+# 22 wCrwh bn Almgyro bn ECbo wHmzh bn Almgyro bn ECbo wAlCqAr bn
+~~Almgyro bn ECbo wyCqwb bn Almgyro bn ECbo
+# 23 Cbd AlrHmn bn Aby bkro wmslm bn Aby bkro wCbd AlCzyz bn Aby bkro
+# 24 wCTAc bn ysAr wslymAn bn ysAr wCbd Allh bn ysAr wAsHAq bn ysAr mwly
+~~bn mxrmo wmwsy bn ysAr wCbd AlrHmn bn ysAr
+# 25 mHmd bn AsHAq bn ysAr SAHb Almgzy wAbw bkr bn AsHAq wCmr bn AsHAq
+~~PageV01P105
+# 26 wsAlm bn Aby AljCd wzyAd bn Aby AljCd wCbyd bn Aby AljCd swAdo bn
+~~AljCd wAbrAhym bn AljCd
+# 27 AsmACyl bn rAEd wmHmd bn rAEd wCmr bn rAEd whm bnw Aby AsmACyl
+# 28 sfyAn bn sCyd bn msrwq Alvwry wCmr bn sCyd wAlmbArk bn sCyd
+# 29 sfyAn bn Cyyno bn Aby CmrAn AlhlAly wCmrAn bn Cyyno wAbrAhym bn
+~~Cyyno wmHmd bn Cyyno
+# 30 Cmr bn Cbyd wmHmd bn Cbyd wyCly bn Cbyd AlTnAfsyyn PageV01P106
+# 31 mwsy bn Cqbo AlAsdy mwly Al Alzbyr bn AlCwAm wAbrAhym bn Cqbo wmHmd
+~~bn Cqbo
+# 32 wCbd Allh bn Hnyn wCbyd bn Hnyn wmHmd bn Hnyn mwly Al AlCbAs
+# 33 AsmACyl bn Aby xAld Albjly wAlAECv bn Aby xAld wAlnCmAn bn Aby xAld
+~~wsCyd bn Aby xAld
+# 34 CmAro bn Cbd Alkwfy wslym bn Cbd wzr bn Cbd
+# 35 Cmr bn nAfC AlCdwy wAbw bkr bn nAfC wCbd Allh bn nAfC mwAly bn Cmr
+# 36 mHmd bn Aby yHyy wAnys bn Aby yHyy wCbd Allh bn Aby yHyy AlAslmy
+~~PageV01P107
+# 37 Crwo bn CAmr Almky wCbyd bn CAmr wCbd AlrHmn bn CAmr
+# 38 Cly bn vAbt AlAnSAry wCzrh bn vAbt wmHmd vAbt
+# 39 bkyr bn Cbd Allh bn AlAEj wyCqwb bn AlAEj wCmr bn AlAEj PageV01P108
+# 40 mHmd bn Aby AmAmh bn shyl bn Hnyf wshl bn Aby AmAmh wCbd Allh bn
+~~Aby AmAmh
+# 41 HnZlo bn Aby sfyAn bn Cbd AlrHmn bn SfwAn bn Aby Amyo AljmHy wCmrw
+~~bn Aby sfyAn wCbd AlrHmn bn Aby sfyAn
+# 42 Abw Cmrw bn AlClAc wAbw sfyAn bn AlClAc PageV01P109
+# 43 wmCAV Abw brdh bn Aby mwsy AlAECry wAbw bkr bn Aby mwsy wmwsy bn
+~~Aby mwsy wAbrAhym bn Aby mwsy wmHmd bn Aby mwsy
+# 44 yHyy bn sCyd bn qys AlAnSAry wsCd bn sCyd wCbd rbh bn sCyd
+# 45 wHjyr bn AlrbyC AlCdwy wHryv bn AlrbyC wslymAn bn AlrbyC
+~~PageV01P110
+# 46 zyAd bn jbyr bn Hyo wCbyd Allh bn jbyr wCbd Allh bn jbyr
+# 47 xArjo bn zyd bn vAbt wAsCd bn zyd bn vAbt
+# 48 wjAmC bn Aby rAEd AlSyrfy wAlrbyC bn Aby rAEd wrbyH bn Aby rAEd
+~~PageV01P111
+# 49 shyl bn Aby SAlH AlsmAn wCbAd bn Aby SAlH wSAlH bn Aby SAlH wCbd
+~~Allh bn Aby SAlH PageV01P112
+# 50 yzyd bn AlbrAc bn CAzb wCbyd Allh bn AlbrAc bn CAzb wAlrbyC bn
+~~AlbrAc bn CAzb wlwT bn CAzb
+# 51 Cbd AlHkym bn Cbd Allh bn Aby frwh wSAlH bn Cbd Allh bn Aby frwh
+~~wCbd AlACly bn Cbd Allh bn Aby frwh wAsHAq bn Cbd Allh bn Aby frwh wywns
+~~bn Cbd Allh bn Aby frwh
+# 52 wCbyd Allh bn Cbd Allh bn AlHArv bn nwfl AlhAEmy wAsHAq bn Cbd Allh
+~~bn AlHArv bn nwfl wAlSlt bn Cbd Allh
+# 53 AsAmo bn zyd bn Aslm mwly Cmr bn AlxTAb wCbd Allh bn zyd wCbd
+~~AlrHmn bn zyd PageV01P113
+# 54 AsHAq bn Cbd Allh bn Aby TlHo wCmrw bn Cbd Allh bn Aby TlHo wCbd
+~~Allh bn Cbd Allh bn Aby TlHo
+# 55 Cbd AlrHmn bn Aby bkr bn Cbd AlrHmn bn AlHArv bn hEAm Almxzwmy wCbd
+~~Almlk bn Aby bkr wCmr bn Aby bkr wAlHArv bn Aby bkr
+# 56 mCbd bn kCb wCbd AlrHmn bn kCb wCbyd Allh bn kCb wCbd Allh bn kCb
+~~bn mAlk
+# 57 Cbd AlrHmn bn Eybh wmsAfC bn Eybh wmSCb bn Eybh wCbd Allh bn Eybh
+~~wSfyh bnt Eybh PageV01P114
+# 58 kvyr bn kvyr bn AlmTlb bn Aby wdACh Alshmy Almky wjCfr bn kvyr
+~~wsCyd bn kvyr
+# 59 Abw Cbydo bn HVyfo bn AlymAn AlCbsy wCmrAn bn HVyfo wsCd bn HVyfo
+# 60 Cbd Almlk bn ACyn wHmrAn bn ACyn wzrArh bn ACyn
+# 61 TArq bn EhAb Albjly wkvyr bn EhAb wAbw CVrh bn EhAb
+# 62 Cmr bn AlxTAb wzyd bn AlxTAb
+# 63 yCly bn Amyo wslmh bn Amyo
+# 64 hEAm bn Hkym bn HzAm wxAld bn Hkym bn HzAm PageV01P115
+# 65 AlbrAc bn mAlk bn AlnDr wAns bn mAlk
+# 66 CAbd bn Cmrw Almzny wrAfC bn Cmrw Almzny
+# 67 AlHkm bn Cmrw AlgfAry wrAfC bn Cmr AlgfAry
+# 68 AlnCmAn bn mqrn Almzny wswyd bn mqrn Almzny
+# 69 HnZlo bn AlrbyC AlkAtb wrbAH bn AlrbyC
+# 70 TArq bn AEym bn msCwd AlAEjCy wrAfC bn AEym Abw hnd
+# 71 qys bn sCd bn CbAdh wsCyd bn sCd PageV01P116
+# 72 qtAdo bn AlnCmAn wsCd bn mAlk Alxdry AxwAn lAm
+# 73 yzyd bn vAbt wzyd bn vAbt
+# 74 Cmrw bn Hzm wCmArh bn Hzm
+# 75 sCyd bn Hryv wCmrw bn Hryv PageV01P117
+# 76 shl bn Hnyf wCvmAn bn Hnyf
+# 77 Cbd AlrHmn bn SfwAn wCbd Allh bn SfwAn
+# 78 HArv bn Ctyk wjAbr bn Ctyk
+# 79 Cdy bn Cmyrh bn frwh wAlCrs bn Cmyrh PageV01P118
+# 80 xrym bn fAtk wsmrh bn fAtk
+# 81 AlHsn bn Aby AlHsn AlbSry wsCyd bn Aby AlHsn
+# 82 mHmd bn mslm bn EhAb Alzhry wCbd Allh bn mslm bn EhAb
+# 83 nAfC bn jbyr bn mTCm wmHmd bn jbyr bn mTCm PageV01P119
+# 84 sCyd bn Cbd AlrHmn bn Abzy wCbd Allh bn Cbd AlrHmn bn Abzy
+# 85 Cbd AlrHmn bn Cbd Allh wAbw Cbydo bn Cbd Allh bn msCwd
+# 86 AlqAsm bn Cbd AlrHmn bn Cbd Allh bn msCwd wmCn bn Cbd AlrHmn
+# 87 Hkym bn Hkym bn CbAd bn Hnyf wCvmAn bn Hkym
+# 88 Cbd Allh bn Aby bkr bn Hzm wmHmd bn Aby bkr bn Hzm PageV01P120
+# 89 mHmd bn Almnkdr wAbw bkr bn Almnkdr
+# 90 whb bn mnbh whmAm bn mnbh
+# 91 AlrbyC bn Cmylh wysyr bn Cmylh
+# 92 mHmd bn swqo wsCyd bn swqo PageV01P121
+# 93 Abw Cbydo bn Cbd Allh bn zmCo wwhb bn Cbd Allh bn zmCo
+# 94 Cbd Allh bn sCyd bn jbyr wCbd Almlk bn sCyd bn jbyr PageV01P122
+# 95 AsHAq bn Cbd Allh bn Aby TlHo AlAnSAry wCbd Allh bn Cbd Allh bn Aby
+~~TlHo
+# 96 jbyr bn mHmd bn jbyr bn mTCm wsCyd bn mHmd bn jbyr
+# 97 Cbd AlrHmn bn Cbd Allh AlmsCwdy AlAkbr wCtbh bn Cbd Allh
+# 98 Abw Cmys yzyd bn HAzm wjryr bn HAzm
+# 99 HmAd bn zyd wsCyd bn zyd PageV01P123
+# 100 mSCb bn vAbt bn Cbd Allh bn Alzbyr wnAfC bn vAbt wmHmd bn vAbt
+~~wCrwh bn vAbt
+# 101 hmAm bn nAfC AlSnCAny wwhb bn nAfC
+# 102 Aywb bn mwsy AlqrEy bn Cmrw bn sCyd bn AlCAS wCmrAn bn mwsy
+# 103 Abw bkr bn Cbyd Allh bn Cbd Allh bn Cmr wAlqAsm bn Cbyd Allh
+# 104 Cmr bn HfS bn CASm bn Cmr bn AlxTAb wCysy bn HfS bn CASm
+# 105 dAwd bn CAmr bn sCd bn mAlk wqryn bn CAmr bn sCd
+# 106 mCAwyo bn AsHAq bn TlHo bn Cbyd Allh wmwsy bn AsHAq bn TlHo
+# 107 rbCy bn HrAE AlgTfAny wmsCwd bn HrAE
+# 108 AsmACyl bn Cbyd bn rfACo wAbrAhym bn Cbyd bn rfACo
+# 109 Cbyd bn rfACo bn rAfC wmCAd bn rfACo bn rAfC
+# 110 AlAswd bn yzyd bn qys wCbd AlrHmn bn yzyd PageV01P124
+# 111 Clqmo bn wAcl bn Hjr wCbd AljbAr bn wAcl bn Hjr
+# 112 bkyr bn msmAr wmhAjr bn msmAr
+# 113 AlHArv bn Ebyl Albjly wAlmgyro bn Ebyl
+# 114 Cbd AlrHmn bn Cbd Allh bn Aby SCSCh wmHmd bn Cbd Allh
+# 115 AlClAc bn zyAd AlCdwy whEAm bn zyAd PageV01P125
+# 116 xAld bn qys bn rbAH wnwH bn qys bn rbAH
+# 117 Sdqh bn ysAr Aljzry wxAld bn ysAr
+# 118 mwsy bn Cbydo AlrbVy wCbd Allh bn Cbydo wmHmd bn Cbydo
+# 119 yzyd bn Aby zyAd mwly bny hEAm wbrd bn Aby zyAd PageV01P126
+# 120 Cysy bn Cbd AlrHmn bn Aby lyly AlAnSAry wmHmd bn Cbd AlrHmn bn Aby
+~~lyly
+# 121 zkryA bn Aby zAcdo wCmr bn Aby zAcdo
+# 122 Cly bn HSyn bn Aby AlHsn wAlHsyn bn HSyn
+# 123 Cly bn SAlH bn Hy AlhmdAny wAlHsn bn SAlH bn Hy
+# 124 wAlzbyr bn Alxryt AlbSry wHryE bn Alxryt
+# 125 mHmd bn Cbd AlrHmn bn Aby Vcb wAlmgyro bn Cbd AlrHmn PageV01P127
+# 126 Almgyro bn mslm Alqsmly wCbd AlCzyz bn mslm
+# 127 Cbd Allh bn Aby CvmAn AlqrEy wxAld bn Aby CvmAn
+# 128 AsHAq bn rAEd wAlnCmAn bn rAEd
+# 129 zyd bn Aby Anysh Aljzry wyHyy bn Aby Anyso
+# 130 CvmAn bn Cbd AlrHmn Altymy wmCAV bn Cbd AlrHmn Altymy
+# 131 zyd bn Aslm wxAld bn Aslm
+# 132 wSAlH bn AbrAhym bn Cbd AlrHmn wsCd bn AbrAhym PageV01P128
+# 133 dAwd bn SAlH AltmAr wmHmd bn SAlH AltmAr
+# 134 Cbd Allh bn brydh AlAslmy wslymAn bn brydh
+# 135 mslm bn Cbd AlrHmn AlnxCy wHSyn bn Cbd AlrHmn AlnxCy
+# 136 AlnCmAn bn Cbd Allh bn bdr wbCjo bn Cbd Allh bn bdr
+# 137 snAn bn slmo bn AlmHbq wmwsy bn slmo bn AlmHbq PageV01P129
+# 138 mTrf bn Cbd Allh bn AlExyr wyzyd bn Cbd Allh bn AlExyr
+# 139 HArvo bn mHmd bn Cbd AlrHmn bn Aby AlrjAl wCbd AlrHmn bn mHmd
+# 140 hzyl bn ErHbyl wArqm bn ErHbyl
+# 141 mHmd bn AlmntEr wAlmgyro bn AlmntEr
+# 142 jCfr bn Cmrw bn Amyo AlDmry wAlzbrqAn bn Cmrw
+# 143 sCyd bn Aby brdh bn Aby mwsy AlAECry wywsf bn Aby brdh
+# 144 TArq bn EhAb wAbw CVrh bn EhAb PageV01P130
+# 145 Alrkyn bn AlrbyC bn Cmylh wysyr bn Cmylh
+# 146 AlHsn bn mslm bn ynAq whrql bn mslm
+# 147 AlHsn bn mHmd bn AlHnfyo wCbd Allh bn mHmd bn AlHnfyo
+# 148 yzyd bn yzyd bn jAbr AlAzdy wCbd AlrHmn bn yzyd bn jAbr
+~~PageV01P131
+# 149 Cbyd Allh bn Cbd Allh bn AlASm wCbd Allh bn Cbd Allh bn AlASm
+~~AlCAmry
+# 150 CASm bn Dmro wCbd Allh bn Dmro Alslwly
+# 151 CASm bn Cmr bn Cbd AlCzyz bn wCbd AlCzyz bn Cmr
+# 152 Abw Cbydo bn Cbyd Allh bn Cmr wCbd AlCzyz bn Cbyd Allh bn Cmr
+# 153 Abw Cbydo bn mHmd bn CmAr bn yAsr wslmh bn mHmd bn CmAr
+# 154 Cmr bn Aby slmo bn Cbd AlrHmn bn Cwf wslmh bn Aby slmo
+# 155 Cmrw bn ECyb bn mHmd bn Cbd Allh bn Cmrw bn AlCAS wCmr bn ECyb
+# 156 Cmyr bn mHmd bn Almnkdr wAlmnkdr bn mHmd bn Almnkdr
+# 157 Cbd Allh bn Cbd AlrHmn bn mHySn wCmr bn Cbd AlrHmn
+# 158 Abw bkr bn Cly bn mqdm wCmr bn Cly bn mqdm
+# 159 Cysy bn Cmr AlqAry wHAjb bn Cmr Abw xEyno AxwAn PageV01P132
+# 160 Cysy bn ywns bn Aby AsHAq AlsbyCy wAsrAcyl bn ywns bn Aby AsHAq
+# 161 Cysy bn Cbd Allh bn mAlk bn CyAD wyHyy bn Cbd Allh bn mAlk
+# 162 qtAdo bn swAr Aljrmy wAnys bn swAr
+# 163 yCqwb bn CASm bn Crwo bn msCwd Alvqfy wnAfC bn CASm
+# 164 Cmrw bn Cbd Allh bn SfwAn bn Amyo bn xlf AljmHy wSfwAn bn Cbd Allh
+~~PageV01P133
+# 165 Cbd Allh bn slmo AlhmdAny wCmrw bn slmo
+# 166 Cmrw bn mhAjr wmHmd bn mhAjr
+# 167 Cbd AlCzyz bn AlrbyC bn sbrh Aljhny wCbd Almlk bn AlrbyC bn sbrh
+# 168 yCly bn mslm bn hrmz wCbd Allh bn mslm
+# 169 mAlk bn Hbyb AlmlAH wCAcV bn Hbyb
+# 170 Ebyl bn Cwf wmdrk bn Cwf PageV01P134 5
+# 171 Cly bn Cbd Allh bn CbAs wCbAs bn Cbd Allh bn CbAs
+# 172 AlSqCb bn zhyr AlAzdy wAlClAc bn zhyr
+# 173 AsmACyl bn Cbd AlrHmn bn Aby Vcb wmHmd bn Cbd AlrHmn bn Aby Vcb
+# 174 AsmACyl bn AbrAhym bn Clyh wyCly bn AbrAhym
+# 175 zbyd bn AlSlt wkvyr bn AlSlt PageV01P135
+# 176 Cbd AlrHmn bn qys AlHnfy wTlyq bn qys
+# 177 Abw Cbd AlrHmn Alslmy Asmh Cbd Allh bn Hbyb wxrEo bn Hbyb
+# 178 Cbd Allh bn Aby slmo wAlmAjEwn bn Aby slmo
+# 179 Cbd Allh bn Cbd AlrHmn bn sCd bn Aby VyAb wAlHArv bn Cbd AlrHmn
+~~PageV01P136
+# 180 Cbd AlrHmn bn yzyd bn jAryh wmjmC bn yzyd bn jAryh
+# 181 CvmAn bn Aby slymAn bn jbyr bn mTCm wjbyr bn Aby slymAn
+# 182 CvmAn bn Aby rwAd wCbd AlCzyz bn Aby rwAd
+# 183 sfyAn bn Cqbo AlCAmry AlswAcy wqbySh bn Cqbo
+# 184 rEdyn bn kryb wmHmd bn kryb
+# 185 yHyy bn sCyd bn AlCAS wCmrw bn sCyd PageV01P137
+# 186 AbrAhym bn Cbd Allh bn mCbd bn CbAs wCbAs bn Cbd Allh
+# 187 Cmr bn Eybh wqArZ bn Eybh
+# 188 Abw bkr bn Cbd AlrHmn bn AlHArv wCmr bn Cbd AlrHmn bn AlHArv
+# 189 Cbd Allh bn mCql bn mqrn wCbd AlrHmn bn mCql
+# 190 frwh bn nwfl AlAEjCy wCbd AlrHmn bn nwfl AlAEjCy
+# 191 mHmd bn slmo bn khyl wyHyy bn slmo bn khyl PageV01P138
+# 192 Cqbo bn Cbyd AlTAcy wsCyd bn Cbyd AlTAcy
+# 193 Cbd Allh bn zbyd AlAyAby wCbd AlrHmn bn zbyd
+# 194 Cbd Allh bn yzyd bn Cbd Allh bn qsyT wAlqAsm bn yzyd
+# 195 Cbd Allh bn Aby qtAdo AlAnSAry wCbd AlrHmn bn Aby qtAdo
+# 196 Cbd Allh bn mxArq bn slymAn wHsAn bn mxArq
+# 197 Cbd Allh bn Aby rzyn wrzyn bn Aby rzyn SAHb AlsqAyh PageV01P139
+# 198 Cbd Allh bn qys bn mxrmo wmHmd bn qys bn mxrmo
+# 199 sCyd bn Aby sCyd Almqbry wCbAd bn Aby sCyd
+# 200 Cbd Allh bn Aby mlyko wAbw bkr bn Aby mlyko
+# 201 wAHmd bn Cbd AlrHmn Abw Hrh wsCyd bn Cbd AlrHmn
+# 202 Abw bkr bn slymAn bn Aby Hvmh AlCdwy wCvmAn bn slymAn bn Aby Hvmh
+~~PageV01P140
+# 203 HfS bn CASm bnCmr wCbd Allh bn CASm bn Cmr
+# 204 msHAj bn mwsy AlDby wsmAk bn mwsy yCny AlDby
+# 205 Cbd Almlk bn Cbd AlCzyz bn jryj wmHmd bn Cbd AlCzyz bn jryj
+# 206 Alwlyd bn CvmAn xAl msCr yCny bn kdAm wslmh bn CvmAn
+# 207 mHmd bn AsAmo bn zyd wAlHsn bn AsAmo bn zyd PageV01P141
+# 208 mwsy bn Aby Cysy Abw hArwn wCysy bn Aby Cysy AlHnAT
+# 209 kvyr bn AflH mwly Aby Aywb AlAnSAry wmHmd bn AflH mwly Aby Aywb
+~~PageV01P142
+# 210 bn AlHArv wCbd AlrHmn bn AlHArv PageV01P143
+# | 1 ( bAb mn rwy Cnh mmn Asmh hEAm )
+# 1 hEAm bn CAmr AlAnSAry
+# 2 hEAm bn Hkym bn HzAm
+# 3 hEAm bn Crwo bn Alzbyr
+# 4 hEAm bn Cmrw AlfzAry
+# 5 hEAm bn zyd bn Ans bn mAlk
+# 6 hEAm bn HsAn Alqrdwsy
+# 7 hEAm bn yHyy Almxzwmy
+# 8 hEAm AldstwAcy
+# 9 hEAm bn zyAd AlCdwy
+# 10 hEAm bn Almgyr Alvqfy
+# 11 hEAm bn AlgAzyn rbyCo AljrEy
+# 12 hEAm bn CAcV bn nSyb
+# 13 hEAm bn AsmACyl
+# 14 hEAm bn sCd
+# 15 hEAm bn bSyrh Allyvy
+# 16 hEAm bn Aby rqyh
+# 17 hEAm bn HrAm AlxzACy
+# 18 hEAm bn sCyd bn zyd
+# 19 hEAm bn Cbd Almlk
+# 20 hEAm bn ywsf AlSnCAny
+# 21 hEAm bn Hkym rwy Cn Alzhry
+# 22 hEAm bn slmAn
+# 23 hEAm bn Aby hEAm Abw AlmqdAm
+# 24 hEAm Abw klyb PageV01P144
+# 25 hEAm bn CmAr PageV01P145
+# | 1 ( bAb mn rwy Cnh mmn Asmh sAlm )
+# 26 sAlm bn Cbyd AlAEjCy
+# 27 sAlm bn Cbd Allh bn Cmr
+# 28 sAlm bn Aby AljCd AlgTfAny
+# 29 sAlm bn slmo Abw sbrh AlhVly
+# 30 sAlm AlbrAd
+# 31 sAlm Aldwsy wyCrf bsAlm Aby Cbd Allh mwly EdAd
+# 32 sAlm bn gylAn mSry
+# 33 sAlm Abw Algyv mwly bn mTyC
+# 34 sAlm bn Aby Amyo Abw AlnDr mwly Cmr bn Cbyd Allh Altymy
+# 35 sAlm bn sblAn
+# 36 sAlm Almky
+# 37 sAlm bn EwAl mwly Am Hbybh
+# 38 sAlm bn vwbAn
+# 39 sAlm bn Aby CASm Alvqfy
+# 40 sAlm bn rAEd Abw jmyC mwly AlHArv bn CTyh Alhjymy
+# 41 sAlm bn CjlAn AlAfTs
+# 42 sAlm bn hlAl
+# 43 sAlm bn EdAd Abw DrAr AlCdwy
+# 44 sAlm bn Cbd Allh Abw Cbd Allh
+# 45 sAlm bn Aby HfSo PageV01P146
+# 46 sAlm bn mxrAq Abw AlwrqAc AlCbdy
+# 47 sAlm bn mnqV
+# 48 sAlm bn srj wyCrf bsAlm bn xrbwV Abw AlnCmAn wqd qyl xrAbwd
+# 49 sAlm bn mAhAn
+# 50 sAlm bn nwH AlCTAr
+# 51 sAlm AlHnAT PageV01P147
+# 52 sAlm bn Cbd Allh AlmrAdy PageV01P148
+# | 1 ( bAb mn rwy Cnh mmn Asmh qys )
+# 53 qys bn sCd bn CbAdh
+# 54 qys bn Aby grzh
+# 55 qys bn slC
+# 56 qys bn Cmrw
+# 57 qys bn fhd
+# 58 qys bn CASm AlsCdy
+# 59 qys bn AlnCmAn
+# 60 qys bn CAcV
+# 61 qys bn AlHArv AlmVHjy
+# 62 qys bn Hbtr AlnhEly
+# 63 qys bn zyd
+# 64 qys bn Syfy
+# 65 qys bn hEAm
+# 66 qys bn Cbd Cmrw AlECby
+# 67 qys bn qys AlEybAny
+# 68 qys bn kCb bn AlAHnf
+# 69 qys bn AlwAqC
+# 70 qys bn krkm
+# 71 qys bn Efy
+# 72 qys bn Cbd AlrHmn bn Aby SCSCh
+# 73 qys bn sCd mwly bn Clqmo
+# 74 qys bn sCyd
+# 75 qys bn Tlq AlHnfy AlymAmy
+# 76 qys bn mslm
+# 77 qys bn CbAbh
+# 78 qys bn rmAnh PageV01P149
+# 79 qys bn AlAHnf
+# 80 qys bn slym AlCnbry
+# 81 qys bn mHmd bn AlAECv
+# 82 qys AlCbdy Abw AlAswd bn qys
+# 83 qys bn yzyd AlmrAdy
+# 84 qys bn ysyr bn Cmrw
+# 85 qys Abw sCyd AlrqAs
+# 86 qys bn whb
+# 87 qys bn Cbd Almlk bn qys bn mxrmo
+# 88 qys bn rbAH AlHdAny
+# 89 qys mwly xbAb PageV01P150
+# 90 qys AljVAmy PageV01P151
+# | 1 ( bAb mn rwy Cnh mmn Asmh mCbd )
+# 91 mCbd bn SbyH Altymy
+# 92 mCbd bn qys
+# 93 mCbd bn kCb bn mAlk AlAnSAry
+# 94 mCbd bn xAld Aljdly
+# 95 mCbd Aljhny
+# 96 mCbd bn hrmz
+# 97 mCbd bn hlAl AlCnzy
+# 98 mCbd bn syryn PageV01P152
+# | 1 ( bAb mn rwy Cnh mmn Asmh Almgyro )
+# 99 Almgyro bn ECbo
+# 100 Almgyro bn Hkym AlSnCAny
+# 101 Almgyro bn AlnCmAn
+# 102 Almgyro bn mAlk
+# 103 Almgyro bn slmAn
+# 104 Almgyro bn Cbd bn rkAno
+# 105 Almgyro bn CvmAn bn Cbd
+# 106 Almgyro bn mqsm
+# 107 Almgyro bn zyAd AlmwSly
+# 108 Almgyro bn Cbd AlrHmn
+# 109 Almgyro bn Aby Vcb
+# 110 Almgyro bn Hbyb
+# 111 Almgyro bn mslm Alqsmly
+# 112 Almgyro bn yzyd
+# 113 Almgyro bn mxAdE
+# 114 Almgyro bn xAld
+# 115 Almgyro bn AlAzrq
+# 116 Almgyro bn sbyC
+# 117 Almgyro bn Cbd AlrHmn AlHrAny
+# 118 Almgyro bn slmo
+# 119 Almgyro bn Cbd Allh AlyEkry PageV01P153
+# 120 Almgyro bn Hnyn
+# 121 Almgyro bn Aby brdh
+# 122 Almgyro bn Aby brzh
+# 123 Almgyro bn Ebyl
+# 124 Almgyro Abw hEAm
+# 125 Almgyro bn AlmntEr PageV01P154
+# 126 Almgyro bn Hdf AlCbsy PageV01P155
+# | 1 ( bAb mn rwy Cnh mmn Asmh mslm )
+# 127 mslm bn jndb AlhVly
+# 128 mslm bn ysAr Aljhny
+# 129 mslm bn Cwymr bn AlAjdC AlknAny
+# 130 mslm bn Cbd Allh Aljhny
+# 131 mslm bn ysAr Altymy
+# 132 mslm bn ysAr AlAnSAry
+# 133 mslm bn ysAr bn skrh AlbSry
+# 134 mslm bn Aby mrym
+# 135 mslm AlACjmy
+# 136 mslm bn AlHArv
+# 137 mslm bn nVyr AlsCdy
+# 138 mslm bn bdyl AlCdwy
+# 139 mslm bn yzyd bn mVkwr
+# 140 mslm bn Aby mslm AlxyAT
+# 141 mslm bn mxrAq Alqry
+# 142 mslm bn jbyr
+# 143 mslm bn Aby krymh
+# 144 mslm bn Aymn
+# 145 mslm bn smCAn
+# 146 mslm bn kysAn AlACwr
+# 147 mslm bn SbyH AlhmdAny
+# 148 mslm bn Aby CmrAn AlbTyn
+# 149 mslm bn sCyd
+# 150 mslm Abw AlnDr PageV01P156
+# 151 mslm bn Aby mslm
+# 152 mslm bn ynAq
+# 153 mslm Abw HsAn AlACrj
+# 154 mslm Abw AlClAnyo
+# 155 mslm bn sAlm Abw frwh
+# 156 mslm bn mro AljmHy
+# 157 mslm bn sbrh bn Almsyb bn njbh
+# 158 mslm bn xbAb
+# 159 mslm bn CyAD
+# 160 mslm bn ECbo Albkry
+# 161 mslm bn AbrAhym
+# 162 mslm bn Cmrw bn Aby Cqrb
+# 163 mslm bn qrT
+# 164 mslm bn qrZh
+# 165 mslm bn CmAr PageV01P157
+# 166 mslm bn AlhyDm
+# 167 mslm bn AlSbyH
+# 168 mslm AlnHAt
+# 169 mslm bn jrhl
+# 170 mslm bn slAm
+# 171 mslm bn mEkm
+# 172 mslm bn nsTAs PageV01P158
+# 173 mslm bn CqAl PageV01P159
+# | 1 ( bAb mn rwy Cnh mmn Asmh AyAs )
+# 174 AyAs bn Cbd Allh bn Aby VbAb
+# 175 wAyAs bn qtAdo
+# 176 AyAs bn slmo bn AlAkwC
+# 177 AyAs bn mCAwyo
+# 178 AyAs bn Aby Cmrw
+# 179 AyAs bn dgfl
+# 180 AyAs bn Cbd Almzny
+# 181 AyAs bn Aby tmymh
+# 182 AyAs bn jwyryo
+# 183 AyAs bn CyAE
+# 184 AyAs bn CAmr AlmSry
+# 185 AyAs bn AlHArv bn Aby VbAb
+# 186 AyAs bn SbyH Abw mrym AlHnfy
+# 187 AyAs bn jCfr
+# 188 AyAs bn zhyr Abw TlHo
+# 189 AyAs bn mDrb
+# 190 AyAs bn Cfyf
+# 191 AyAs bn nVyr PageV01P160
+# | 1 ( bAb mn rwy Cnh mmn Asmh AlAECv mn Ahl AlbSrh )
+# 192 AlAECv bn vrmlh
+# 193 AlAECv bn jAbr AlHdAny
+# 194 AlAECv bn Cmrw Altmymy
+# 195 AlAECv bn Aslm AlCjly
+# 196 AlAECv bn Cbd AlrHmn Aljrmy
+# 197 AlAECv bn Cbd Almlk AlHmrAny
+# 198 AlAECv bn Cbd Allh
+# 199 AlAECv bn sCyd
+# | 1 ( wmn Ahl Alkwfo )
+# 200 AlAECv bn qys bn mCd ykrb Alkndy
+# 201 AlAECv bn Tlq Alnhdy
+# 202 AlAECv bn slym bn Aswd AlmHArby
+# 203 AlAECv bn Aby xAld Albjly
+# 204 AlAECv bn AsHAq
+# 205 AlAECv bn swAr wmn AlgrbAc
+# 206 AlAECv bn AsHAq Alqmy PageV01P161
+# 207 AlAECv bn HsAb AlxrAsAny PageV01P162
+# | 1 ( bAb mn rwy Cnh mmn Asmh whb )
+# 208 whb bn HVyfo
+# 209 whb bn xnbE
+# 210 whb bn Cbd Allh Abw jHyfo AlswAcy
+# 211 whb bn AlAjdC
+# 212 whb bn AlAswd
+# 213 whb bn rbyCo
+# 214 whb bn kysAn
+# 215 whb bn Cbd Allh bn zmCo
+# 216 whb bn Cbd Allh bn Aby Vby
+# 217 whb bn xAld AlHmSy
+# 218 whb bn whb Abw Albxtry AlqrEy whw bn whb bn kvyr
+# 219 whb bn Cqbo AlbkAcy
+# 220 whb bn Cqbo AlCjly
+# 221 whb bn nAfC AlSnCAny
+# 222 whb bn jAbr AlHywAny
+# 223 whb bn mnbh bn kAml bn Eyx
+# 224 whb AlVmAry
+# 225 whb bn Cmr
+# 226 whb bn mAnws
+# 227 whb bn Hryr bn HAzm PageV01P163
+# 228 whb bn AsmACyl AlAsdy PageV01P164
+# | 1 ( bAb mn rwy Cnh mmn Asmh ywns )
+# 229 ywns bn jbyr Abw glAb
+# 230 ywns bn syf AlCnsy
+# 231 ywns bn mysro bn Hlbs AljblAny
+# 232 ywns bn Aby AlfrAt AlAskAf
+# 233 ywns bn Aby Ebyb
+# 234 ywns bn yzyd AlAyly
+# 235 ywns bn Aby Ebyb
+# 236 ywns bn Cbyd
+# 237 ywns bn Aby AsHAq
+# 238 ywns bn slym AlSnCAny
+# 239 ywns bn Aby AlqAsm AlymAny
+# 240 ywns bn mslm
+# 241 ywns bn Aby Tybh AlymAny
+# 242 ywns bn AlHArv
+# 243 ywns bn msmAr
+# 244 ywns bn mHmd AlmClm
+# 245 ywns bn Cbd AlSmd bn mCql AlSnCAny PageV01P165
+# 246 ywns bn xbAb PageV01P166
+# | 1 ( bAb mmn Asmh Aywb )
+# 247 Aywb bn xAld bn SfwAn AlAnSAry
+# 248 wAywb bn bEyr AlCdwy
+# 249 wAywb bn bEyr AlAnSAry
+# 250 wAywb bn kysAn AlsxtyAny
+# 251 wAywb bn mysro bn Hlbs
+# 252 Aywb bn mrvd
+# 253 wAywb bn Cbd AlrHmn bn SCSCh
+# 254 wAywb bn mwsy AlqrEy
+# 255 wAywb bn vAbt
+# 256 wAywb bn CAcV AlTAcy
+# 257 wAywb bn njyH PageV01P167 wqAl Cly mEyxh msCr AlVyn lm ylqhm ECbo
+# 258 CTAc bn Aby rbAH
+# 259 wCbd AlrHmn bn AlAswd
+# 260 wwbrh bn Cbd AlrHmn
+# 261 wvAbt bn Cbyd
+# 262 wmwsy bn Cbd Allh bn bdr
+# 263 wCbyd Allh bn AlqbTyh
+# 264 wCmyr bn sCyd
+# 265 wAbw bkr bn CmAro bn rwbyh
+# 266 wAbw bkr bn Cmrw bn Ctbo
+# 267 wAlqAsm bn Cbd AlrHmn
+# 268 wCmrAn bn mwsy bn TlHo
+# 269 wbkyr bn AlAxns
+# 270 wCwn bn Cbd Allh bn Ctbo
+# 271 wCbd AljbAr bn wAcl
+# 272 wAlCAcV bn Aby mAlk PageV01P168 qlnA lCly bn Almdyny Abw AlCwAm
+~~Aryd Asmh qAl fAcd bn kysAn wqlt lCly Abw AlAHwS kAn Cm Aby AlzCrAc qAl
+~~nCm wsmCt ClyA yqwl Abw AlzCrAc Cmrw bn Cmrw bn mAlk bn nDlo wAbw AlAHwS
+~~Cwf bn mAlk bn nDlo wsmCth yqwl Abw Czh SAHb Alnby Sly Allh Clyh wslm
+~~Asmh ysAr bn Cbd PageV01P169 qAl AnbAnA Cly bn EAVAn AnA CvmAn bn AHmd
+~~AldqAq vnA Hnbl bn AsHqA bn Hnbl qAl sAlm bn Aby AljCd wCbyd bn Aby
+~~AljCd wzyAd bn Aby AljCd Axwh wAbrAhym bn Aby AljCd Axr rwy Cnh Axw HkAm
+~~bn AbrAhym AlrAzy wqAl yHyy AlrbyC bn Hbyb wCAcV bn Hbyb AxwAn whmA
+~~vqtAn mn Ahl Alkwfo yqAl lhmA bny AlmlAH wAlrbyC bn Hbyb Axr bSry yHdv
+~~Cn bn syryn wAlHsn wqAl yHyy kvyr bn jmhAn kwfy rwy Cnh CTAc wsCyd bn
+~~jmhAn bSry PageV01P170 qAl AnbAnA CvmAn bn AHmd AldqAq vnA Abw Cly Hnbl
+~~bn AsHAq qAl smCt yHyy yqwl Alsdy AlAkbr Asmh Cbd AlrHmn bn Aby krymh
+~~whw mwly lbny hAEm wAlsdy AlASgr SAHb Alklby Asmh mHmd bn mrwAn whw mwly
+~~AyDA wqAl yHyy Abw yHyy AlqtAt Asmh zAVAn CTAc knyth Abw zyd zr bn Hbys
+~~knyth Abw mrym wHmyd AlrcAsy knyth Abw Cwf qAl AnbAnA CvmAn qAl qAl lnA
+~~Hnbl wlm yrfCh Aly gyrh sfyAn bn Cyyno AlhlAly wAbrAhym bn Cyyno sfyAn
+~~bn sCyd wAlmbArk bn sCyd wCmrw bn sCyd bn msrwq Alvwry wAbw bkr bn CyAE
+~~wAlHsn bn CyAE PageV01P171 qAl AnbAnA CvmAn qAl vnA Hnbl qAl sAlt Cn Asm
+~~Aby bkr bn CyAE fqAl ly Cmy AHmd bn Hnbl qd AxtlfwA fy Asmh wglbt Clyh
+~~knyth qAl Abw Cly Hnbl bn AsHAq wqAl ly bCD AlmEAyx Asmh ECbo bn CyAE
+~~wqAlwA gyr Vlk mndl bn Cly wHbAn bn Cly qAl AnbAnA CvmAn bn AHmd AldqAq
+~~vnA Abw Cly Hnbl bn AsHAq bn Hnbl qAl vnA mwsy bn AsmACyl Abw slmo
+~~Almnqry zyAdo Cn Alnsxh vnA sCyd bn slmo Almdny Cn hEAm bn Crwo Cn Axyh
+~~Cn Abyh Cn CAcEo rDy Allh CnhA qAlt qAl ly rswl Allh Sly Allh Clyh wslm
+~~PageV01P172 knt lk kAby zrC lAm zrC vm AnEA yHdv Hdyv Am zrC wSwAHbhA
+~~wqAl AjtmC AHdy CEro AmrAo ftCAqdn wtCAhdn An ynCtn AzwAjhn wySdqnh
+~~fqAlt AHdAhn zwjy CyAyAc TbAqAc kl dAc lh dAc Ejk Aw flk Aw jmC klAlk
+~~wqAlt AlAxry zwjy lHm jml gv Cly rAs jbl wCr lAsmyn fyrtqy Alyh wlA shl
+~~fyntql PageV01P173 wqAlt AlAxry zwjy AlCEq An Askt AClq wAn AnTq ATlq
+~~wqAlt AlAxry zwjy AVA Erb AEtf wAVA rqd Altf wlA ydxl Alkf fyClm Albv
+~~wqAlt AlAxry zwjy lyl thAmh lA brd wlA mxAfo PageV01P174 wqAlt AlAxry
+~~zwjy AVA dxl fhd wAVA xrj Asd wlA ysAl CmA Chd wqAlt AlAxry zwjy AlryH
+~~ryH zrnb wAlms ms Arnb Aglbh wAlnAs yglb wqAlt AlAxry zwjy Abw mAlk wmA
+~~Abw mAlk dwAbl kvyro AlmsAlk qlylh AlmbArk AVA smCn Swt mzhr Ayqn Anhn
+~~hwAlk PageV01P175 wqAlt AlAxry zwjy Twyl AlnjAd rfyC AlCmAd CZym AlrmAd
+~~qryb Albyt mn AlnAd qAlt Am zrC zwjy Abw zrC wmA Abw zrC AnAs frCy
+~~wAVnyh AnAs mn Hly AVnyh wmn EHm CDdyh wbjH nfsy ftbjHt Alyh bn Aby zrC
+~~wmA bn Aby zrC kmsl ETbh wykfyh VrAC Aljfrh bnt Aby zrC wmA bnt Aby zrC
+~~mlc ksAchA wSfr rdAchA wxyr nsAchA wgyr dArAthA kVA qAl wgyr TwC AbyhA
+~~wTwC AmhA PageV01P176 xAdm Aby zrC wmA xAdm Aby zrC lAybv HdyvnA tbvyvA
+~~wlA tfsd myrtnA tnqyvA AtAny Abw zrC wAnA fy Eq fnkHny fAnTlq bn Aly Ahl
+~~Shyl wATyT wdAcs wmnq fAnA Cndh AErb fAtqmH wArqd fAtSbH wAqwl flA AqbH
+~~wxrj mn Cndy Abw zrC wAlAwTAb tmxD flqy AmrAo lhA AbnAn kAlfhdyn ylCbAn
+~~tHthA brmAntyn fnkHhA Abw zrC wTlqny fnkHt bCdh EAbA sryA rkb frsA EryA
+~~wAxV rmHA xTyA wArAH Cly byty nCmA vryA wAtAny mn kl sAcmh zwjA fqAl kly
+~~wmyry Ahlk flw jmCt kl Eyc ASbth mnh fjClth fy ASgr wCAc mn AwCyo Aby
+~~zrC mA mlAh PageV01P177 qAlt CAcEo rDy Allh CnhA fqAl ly rswl Allh Sly
+~~Allh Clyh wslm fknt lk kAby zrC lAm zrC AnbAnA CvmAn bn AHmd vnA Hnbl bn
+~~AsHAq vnA AHmd bn dAwd AlHrAny vnA Cysy bn ywns Cn hEAm bn Crwo Cn Axyh
+~~Cbd Allh Cn Abyh Cn CAcEo rDy Allh CnhA Cn Alnby Sly Allh Clyh wslm nHwh
+~~wAlfAZhA mxtlfo qAl wAnbAnA AyDA Abw Cmrw CvmAn bn AHmd bn Cbd Allh
+~~AldqAq AlmCrwf bAbn AlsmAk fy AlmHrm mn sno ArbC wArbCyn wvlvmAco fymA
+~~qrc Clyh vnA Abw AlqAsm bn AlCbAs vnA Abw Alwlyd vnA Abw wkyC Cn AlACmE
+~~Cn Aby SAlH Cn Aby hryro An Alnby Sly Allh Clyh wslm qAl mA mn rjl AlA
+~~wlh PageV01P178 Syt fy AlsmAc fAVA kAnt Syth fy AlsmAc HsnA wDC fy AlArD
+~~wAVA kAnt Syth sycA wDC fy AlArD qAl vnA CvmAn vnA mHmd bn AlCbAs
+~~AlkAbly vnA AbrAhym vnA bn mwsy AlrAzy AnbAnA bn Aby zAcdo Cn Cmrw bn
+~~qys Cn zbyd Cn Cbd AlrHmn bn Aby lyly Cn Cmr qAl SlAo AlmsAfr fy Alsfr
+~~wSlAo AljmCo wSlAo AlADHy wSlAo AlfTr rkCtyn tmAm Cly lsAn nbykm Sly
+~~Allh Clyh wslm PageV01P179 AnbAnA CvmAn bn Cbd AlCzyz bn mCAwyo vnA bEr
+~~bn AlwDAH vnA xwyld Abw Cbd Allh qAl lmA mAt Abw Cbd Allh rAyth fymA yry
+~~AlnAcm fqAl mA mnCk An tSly Cly fACtVrt bbCD mA yCtVr bh AlnAs mn AlEgl
+~~fqAl AmA Ank lw knt Slyt Cly A lrbHt rAsk qAl fqlt mA Ay Eyc wjdtm AfDl
+~~qAl fAwmA bydh Aly AlArD wqAl AltwADC AltwADC AnbAnA CvmAn vnA mHmd bn
+~~Cysy bn HyAn AlmdAvny vnA ECyb yCny bn Hrb vnA AbrAhym vnA ywns bn HbAb
+~~Cn Sdqh bn ysAr qAl bynA qwm ysyrwn AV nfqt rAHlo rjl mnhm fqAl AyhA
+~~Alqwm wlwny bCyrA fAnh lys mCy bCyr qAlwA fAn hVh nAqo mHrmh lm yClhA
+~~AnsAn qT qAl PageV01P180 fwlynhA qAlwA hy lk bAlvmn qAl AsktwA fEdhA
+~~brHlh vm fqrA fy AVnhA Afgyr dyn Allh ybgwn wlh Aslm mn fy AlsmAwAt
+~~wAlArD TwCA wkrhA wAlyh yrjCwn fAnTlqt mn Alyn Ablhm wATwChA PageV01P181

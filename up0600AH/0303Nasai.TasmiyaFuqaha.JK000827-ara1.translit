@@ -1,0 +1,208 @@
+#####ARABICA#SUBJECT#
+
+
+######## BEGofRECORD ###################################################
+#000000# 000.SortField	:: JK_000827
+#NewRec# 000.BookURI	:: #0303.IbnShucaybNasai.TasmiyaFuqaha
+#NewRec# 010.AuthorAKA	:: AlnsAcy
+#NewRec# 010.AuthorNAME	:: AHmd bn ECyb Abw CbdAlrHmn AlnsAcy
+#NewRec# 011.AuthorBORN	:: 215
+#NewRec# 011.AuthorDIED	:: 303
+#NewRec# 019.AuthorDIED	:: NODATA
+#NewRec# 020.BookTITLE	:: tsmyo fqhAc AlAmSAr mn ASHAb rswl Allh Sly Allh Clyh wslm wmn bCdhm
+#NewRec# 020.BookTITLESUB	:: NODATA
+#NewRec# 021.BookSUBJ	:: AlTbqAt wAltrAjm :: ktb AlvqAt :: ktb AlHdyv Alnbwy AlEryf wtrAjm AlrwAo
+#NewRec# 022.BookVOLS	:: 1
+#NewRec# 025.BookLANG	:: NODATA
+#NewRec# 029.BookTITLEalt	:: tsmyo fqhAc AlAmSAr
+#NewRec# 030.LibURI	:: JK_000827
+#NewRec# 030.LibURIextra	:: NODATA
+#NewRec# 031.LibREADONLINE	:: NODATA
+#NewRec# 031.LibURL	:: NODATA
+#NewRec# 031.LibURLFILE	:: NODATA
+#NewRec# 031.LibURLextra	:: NODATA
+#NewRec# 040.EdALL	:: NODATA
+#NewRec# 040.EdEDITOR	:: mHmwd AbrAhym zAyd
+#NewRec# 041.EdNUMBER	:: AlAwly
+#NewRec# 041.EdNumber	:: NODATA
+#NewRec# 043.EdPUBLISHER	:: dAr AlwCy
+#NewRec# 044.EdPLACE	:: Hlb
+#NewRec# 045.EdYEAR	:: 1369 -
+#NewRec# 049.EdISBN	:: NODATA
+#NewRec# 049.EdPAGES	:: NODATA
+#NewRec# 049.EdPHYSICAL	:: NODATA
+#NewRec# 049.EdVOLUME	:: NODATA
+#NewRec# 090.RecMISC	:: NODATA
+#NewRec# 999.MiscINFO	:: NODATA
+
+
+
+#####FILENAME#JK_000827
+#
+# AxbrnA AlHsn bn rEyq HdvnA Abw Cbd AlrHmn AHmd bn ECyb bn Cly AlnsAcy
+~~qAl
+# | 1 ( tsmyo fqhAc AlAnSAr mn ASHAb rswl Allh Sly Allh Clyh wslm wmn
+~~bCdhm mn Ahl Almdyno )
+# 1 Cmr bn AlxTAb
+# 2 w zyd bn vAbt
+# 3 w Cbd Allh bn Cmr
+# 4 w CAcEo
+# | 1 ( wmn AltAbCyn )
+# 5 sCyd bn Almsyb
+# 6 w Crwo bn Alzbyr
+# 7 w Abw slmo bn Cbd AlrHmn PageV01P126
+# 8 w Cbyd Allh bn Cbd Allh bn Ctbo
+# 9 w slymAn bn ysAr
+# 10 w xArjo bn zyd bn vAbt
+# 11 w Abw bkr bn Cbd AlrHmn bn AlHArv bn hEAm
+# 12 w Cly bn AlHsyn
+# 13 w AlqAsm bn mHmd bn Aby bkr AlSdyq
+# 14 w sAlm bn Cbd Allh bn Cmr
+# 15 wAbw jCfr mHmd bn Cly
+# 16 wCmr bn Cbd AlCzyz
+# | 1 ( wmn bCd AltAbCyn )
+# 17 Cbd Allh bn yzyd bn hrmz
+# 18 w mHmd bn mslm bn EhAb Alzhry
+# 19 w rbyCo bn Aby Cbd AlrHmn
+# 20 w Abw AlznAd Cbd Allh bn VkwAn
+# 21 w yHyy bn sCyd AlAnSAry
+# | 1 ( w bCd hclAc )
+# 22 mAlk bn Ans
+# 23 w Cbd AlCzyz bn Aby slmo AlmAjEwn
+# | 1 ( wASHAb mAlk mn Ahl Almdyno )
+# 24 Cbd Almlk bn Cbd AlCzyz AlmAjEwn
+# | 1 ( w mn Ahl mSr )
+# 25 Cbd AlrHmn bn AlqAsm
+# 26 w AEhb bn Cbd AlCzyz
+# | 1 ( w ASHAb Cbd Allh bn CbAs mn Ahl mko )
+# 27 CTAc
+# 28 w TAws
+# 29 w mjAhd
+# 30 w sCyd bn jbyr
+# 31 w jAbr bn zyd
+# 32 w Cbyd Allh bn Cbd Allh bn Ctbo
+# | 1 ( wbCd hclAc )
+# 33 Cmrw bn dynAr wbCdh
+# 34 bn jryj
+# 35 wsfyAn bn Cyyno wbCd hclAc
+# 36 mslm bn xAld Alznjy wlys bAlqwy fy AlHdyv
+# 37 w sCyd bn sAlm AlqdAH
+# | 1 ( w bCd hclAc )
+# 38 mHmd bn Adrys AlEAfCy PageV01P127
+# | 1 ( w ASHAb AlEAfCy )
+# 39 Abw AbrAhym bn yHyy Almzny
+# 40 w Abw vwr AbrAhym bn xAld
+# 41 w ywsf bn yHyy AlbwyTy
+# 42 w Abw Alwlyd mwsy bn Aby AljArwd
+# 43 w Cbd Allh bn Alzbyr AlHmydy
+# | 1 ( w AlfqhAc mn Ahl Alkwfo )
+# 44 Cly bn Aby TAlb
+# 45 w Cbd Allh bn msCwd
+# | 1 ( wmn fqhAc AltAbCyn )
+# 46 Clqmo bn qys
+# 47 w AlAswd bn yzyd
+# 48 w Cmrw bn ErHbyl Abw mysro
+# 49 w Cbydo AlslmAny
+# 50 w EryH
+# 51 w msrwq bn AlAjdC
+# 52 w Cbd Allh bn Ctbo
+# | 1 ( wbCd hclAc )
+# 53 CAmr bn ErAHyl
+# 54 w AbrAhym AlnxCy
+# | 1 ( wbCd hVyn )
+# 55 AlHkm
+# 56 w HmAd bn Aby slymAn wAlHkm AvbthmA fy AlHdyv
+# 57 w mnSwr bn AlmCtmr
+# 58 w Almgyro bn mqsm
+# | 1 ( w bCd hclAc )
+# 59 bn Ebrmo
+# 60 w bn Aby lyly mHmd bn Cbd AlrHmn w lys bAlqwy fy AlHdyv
+# 61 wAbw Hnyfo wlys bAlqwy bAlHdyv
+# | 1 ( wbCd hclAc )
+# 62 sfyAn bn sCyd Alvwry
+# 63 w AlHsn bn SAlH bn Hy
+# 64 w ASHAb Aby Hnyfo zfr bn AlhVyl
+# 65 w yCqwb bn AbrAhym Abw ywsf AlqADy
+# 66 w CAfyo bn yzyd
+# 67 w Asd bn Cmrw
+# 68 ASHAb sfyAn Alvwry Cbd Allh bn AlmbArk
+# 69 w wkyC bn AljrAj
+# 70 w Abw AsHAq AbrAhym bn mHmd AlfzAry
+# 71 w Cbd AlrHmn bn mhdy
+# 72 w AlDHAk bn mzAHm
+# | 1 ( w ASHAb AlHsn bn Hy )
+# 73 Hmyd bn Cbd AlrHmn AlrcAsy
+# 74 w yHyy bn Adm
+# | 1 ( w mn fqhAc Ahl AlbSro )
+# 75 Abw mwsy AlAECry
+# 76 w CmrAn bn HSyn PageV01P128
+# | 1 ( wmn AltAbCyn )
+# 78 Hmyd bn Cbd AlrHmn AlHmyry
+# 79 w mTrf bn Cbd Allh bn AlExyr
+# | 1 ( w bCd hclAc )
+# 80 AlHsn bn Aby AlHsn AlbSry
+# 81 w mHmd bn syryn
+# 82 w jAbr bn zyd wqd VkrnAh fy ASHAb bn CbAs
+# 83 w Abw qlAbo w Asmh Cbd Allh bn zyd Aljrmy
+# | 1 ( w bCd hclAc )
+# 84 Aywb AlsxtyAny
+# 85 w ywns bn Cbyd
+# 86 w CvmAn Albty
+# | 1 ( wbCd hclAc )
+# 87 Cbyd Allh bn AlHsn AlqADy
+# 88 w HmAd bn zyd wqAl Cbd AlrHmn bn mhdy mA rAyt rjlA AClm bAlsno mn
+~~HmAd bn zyd
+# 89 AxbrnA Cly bn mnyr AnbA AlHsn bn rEyq qAl lnA AlnsAcy w bCd HmAd bn
+~~zyd
+# 90 bEr bn AlmfDl
+# | 1 ( w bCd hclAc )
+# 91 mCAV bn mCAV AlCnbry
+# 92 w mHmd bn Cbd Allh AlAnSAry
+# | 1 ( w bCd hclAc )
+# 93 hlAl bn yHyy AlrAy
+# | 1 ( w mn fqhAc AlEAm )
+# 94 mCAV bn jbl
+# 95 w Cwymr Abw AldrdAc
+# | 1 ( w bCd hclAc )
+# 96 mkHwl
+# | 1 ( w bCdh )
+# 97 slymAn bn mwsy
+# 98 w Cbd AlrHmn bn Cmr AlAwzACy
+# 99 w sCyd bn Cbd AlCzyz
+# | 1 ( w mn fqhAc Ahl mSr )
+# 100 Cmrw bn AlHArv
+# 101 w Allyv bn sCd
+# | 1 ( w bCd hclAc )
+# 102 Cbd AlrHmn bn AlqAsm
+# 103 w AEhb bn Cbd AlCzyz wqd VkrnAhmA fy ASHAb mAlk bn Ans PageV01P129
+# | 1 ( w bCd hclAc )
+# 104 AlHArv bn mskyn
+# 105 w mHmd bn Cbd Allh bn Cbd AlHkm
+# | 1 ( w mn fqhAc Ahl xrAsAn )
+# 106 AlDHAk bn mzAHm wqd VkrnAh fy ASHAb Alvwry
+# 107 wAlnDr bn mHmd Almrwzy
+# 108 w AbrAhym AlSAcg qtlh Abw mslm
+# 109 w Cbd Allh bn AlmbArk wqd VkrnAh fy ASHAb Alvwry
+# | 1 ( w bCd hclAc )
+# 110 AHmd bn Hnbl
+# 111 w AsHAq bn rAhwyh
+# 112 w yHyy bn Akvm
+# | 1 ( w Avbt ASHAb AlAwzACy )
+# 113 Cbd Allh bn AlmbArk
+# 114 w Alwlyd bn mzyd AHb AlynA fy AlAwzACy mn Alwlyd kAn lA yxTyc wlA
+~~ydls
+# | 1 ( w Avbt ASHAb Aywb )
+# 115 HmAd bn slmo w bCdh
+# 116 Cbd AlwArv
+# 117 AsmACyl bn Clyo
+# | 1 ( w Avbt ASHAb HmAd bn slmo )
+# 118 Cbd AlrHmn bn mhdy
+# 119 w bn AlmbArk
+# 120 w Cbd AlwhAb Alvqfy kAn qd AxtlT fmn ktb Cnh qbl Vlk fjyd
+# | 1 ( w Avbt ASHAb sCyd bn Aby Crwbo )
+# 121 yzyd bn zryC
+# 122 w srAr bn mjEr
+# 123 w mSCb bn mAhAn kAn fymA Hky Cn rwAd bn AljrAH An mSCbA kAn syc
+~~AlAxV kAn lA yktb Cnd sfyAn Alvwry vm yjyc fyktb mA smC w mA lm ysmC w
+~~rwAd kAn qd AxtlT AyDA flA Adry qAl hVA bCd AlAxtlAT Am qblh wAllh AClm
+~~PageV01P130

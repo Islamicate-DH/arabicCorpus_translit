@@ -1,0 +1,541 @@
+#####ARABICA#SUBJECT#
+
+
+######## BEGofRECORD ###################################################
+#000000# 000.SortField	:: JK_007578
+#NewRec# 000.BookURI	:: NOCODE
+#NewRec# 010.AuthorAKA	:: Abw AlEyS mHmd
+#NewRec# 010.AuthorNAME	:: Abw AlEyS mHmd
+#NewRec# 011.AuthorBORN	:: NOTGIVEN
+#NewRec# 011.AuthorDIED	:: 9999
+#NewRec# 019.AuthorDIED	:: NODATA
+#NewRec# 020.BookTITLE	:: dywAn Abw AlEyS mHmd
+#NewRec# 020.BookTITLESUB	:: NODATA
+#NewRec# 021.BookSUBJ	:: dwAwyn AlECr AlCrby :: CbAsy
+#NewRec# 022.BookVOLS	:: 1
+#NewRec# 025.BookLANG	:: NODATA
+#NewRec# 029.BookTITLEalt	:: dywAn Abw AlEyS mHmd
+#NewRec# 030.LibURI	:: JK_007578
+#NewRec# 030.LibURIextra	:: NODATA
+#NewRec# 031.LibREADONLINE	:: NODATA
+#NewRec# 031.LibURL	:: NODATA
+#NewRec# 031.LibURLFILE	:: NODATA
+#NewRec# 031.LibURLextra	:: NODATA
+#NewRec# 040.EdALL	:: NODATA
+#NewRec# 040.EdEDITOR	:: NODATA
+#NewRec# 041.EdNUMBER	:: NODATA
+#NewRec# 041.EdNumber	:: NODATA
+#NewRec# 043.EdPUBLISHER	:: NODATA
+#NewRec# 044.EdPLACE	:: NODATA
+#NewRec# 045.EdYEAR	:: NODATA
+#NewRec# 049.EdISBN	:: NODATA
+#NewRec# 049.EdPAGES	:: NODATA
+#NewRec# 049.EdPHYSICAL	:: NODATA
+#NewRec# 049.EdVOLUME	:: NODATA
+#NewRec# 090.RecMISC	:: NODATA
+#NewRec# 999.MiscINFO	:: NODATA
+
+
+
+#####FILENAME#JK_007578
+# AlbHr : - 1
+# % wkmyt ArqhA whj AlEm % s wSyf ygly bhA wEtAc % 2
+# % TbxthA AlECry AlCbwr wHvt % % nArhA bAlkwAkb AljwzAc % 3
+# % mHDthA kwAkb AlqyZ Hty % % AqlCt Cn smAchA AlAqVAc % 4
+# % hy kAlsrj fy AlzjAj AVA mA % % SbhA fy AlzjAjo AlwSfAc % 5
+# % wdm AlEAdn AlVbyH wmA yH % tlb AlsAqyAn mnhA swAc % 6
+# % qd sqtny wAllyl qd ftq AlSb % H bkAsyn Zbyo HwrAc % 7
+# % Cn bnAn kAnhA qDb AlfD % Do Hny ATrAfhA AlHnAc % PageV01P001 AlbHr :
+~~- 1
+# % lA tgD AlryAH mn EAwhA Al % lA whn AlTlAcH AlAnDAc % PageV01P002
+~~AlbHr : - 1
+# % mlk lA ySrf AlAmr wAlnh % y lh dwn rAyh AlwzrAc % 2
+# % Hl fy AldwHo Alty TAlt AlnA % % s jmyCA fmA AlyhA ArtqAc % 3
+# % wsCt kfh AlxlAcq jwdA % fAstwy AlAgnyAc wAlfqrAc % 4
+# % yA bny hAEm AfyqwA fAn Al % mlk mnkm Hyv AlCSA wAlrdAc % 5
+# % mA lhArwn fy qryE kfy % wqryE lyst lhm AkfAc % PageV01P003 AlbHr : -
+~~1
+# % xlC AlSbA Cn mnkbyh mEyb % fTwy AlVwAcb rAsh AlmxDwb % 2
+# % nEr Albly fy CArDyh CqArbA % byDA lhn Cly Alqrwn dbyb % 3
+# % mA kAn AnDr CyEh wAgDh % % AyAm fDl rdAch msHwb % PageV01P004 AlbHr
+~~: - 1
+# % yrmyn AlbAb AlrjAl bAshm % % qd rAEhn AlkHl wAlthdyb % PageV01P005
+~~AlbHr : - 1
+# % AVA mA HmAm Almrc kAn bbldo % % dCth AlyhA HAjo Aw tTrb %
+~~PageV01P006 AlbHr : - 1
+# % lkl mryc rzq wllrzq jAlb % wlys yfwt Almrc mA xT kAtbh % 2
+# % ysAq Aly VA rzqh whw wAdC % wyHrm hVA Alrzq whw yTAlbh % % 3
+# % yqwl Alfty vmrt mAly wAnmA % % lwArvh mA vmr AlmAl kAsbh % % 4
+# % yHAsb fyh nfsh bHyAth % % wytrkh nhbA lmn lA yHAsbh % % 5
+# % yxyb Alfty mn Hyv yrzq gyrh % % wyCTy Alfty mn Hyv yHrm SAHbh % %
+~~PageV01P007 AlbHr : - 1
+# % mrt Cynh llEwq fAldmC mnskb % Tlwl dyAr AlHy wAlHy mgtrb % % 2
+# % ksA Aldhr brdyhA Albly wlrbmA % % lbsnA jdydyhA wAClAmnA qEb % 3
+# % fgyr mgnAhA wmHt rswmhA % % smAc wArwAH wdhr lhA Cqb % 4
+# % trbC fy ATlAlhA bCd AhlhA % % zmAn yEt AlEml fy Srfh Cjb % 5
+# % tbdlt AlZlmAn bCd AnyshA % % wswdA mn AlgrbAn tbky wtntHb % 6
+# % wChdy bhA gnAc mxDro Alrby % % yTyb Alhwy fyhA wystHsn AllCb % 7
+# % wfy CrSAt AlHy AZb kAnhA % % mwAcd AgSAn tAwd fy kvb % 8
+# % CwAtq qd SAn AlnCym wjwhhA % % wxfrhA xfr AlHwADn wAlHjb % 9
+# % CfAcf lm ykEfn strA lgdro % wlm tntH AlATrAf mnhn bAlryb % 10
+# % fAdrjhm Ty Aljdydyn fAnTwwA % % kVAk AnSdAC AlECb ynAy wyqtrb %
+~~PageV01P008 11
+# % wkAs ksA AlsAqy lnA bCd hjCo % HwAEyhA mA mj mn ryqh AlCnb % 12
+# % kmyt AjAdt jmro AlSyf TbxhA % % fAbt blA nAr tHE wlA HTb % 13
+# % lTymo msk ft CnhA xtAmhA % % mCtqo ShbAc Hyryo Alnsb % 14
+# % rbybo AHqAb jlA Aldhr wjhhA % % flys bhA AlA tlAlchA ndb % 15
+# % AVA frjAt AlkAs mnhA txylt % tAmlt fy HAfAthA ECl Allhb % 16
+# % kAn ATrAd AlmAc fy jnbAthA % % ttbC mAc Aldr fy sbk AlVhb % 17
+# % sqAny bhA wAllyl qd EAb rAsh % % gzAl bHnAc AlzjAjo mxtDb % 18
+# % ykAd AVA mA Artj mA fy AzArh % % wmAlt ACAlyh mn Allyn ynqDb % 19
+# % lTyf AlHEy Cbl AlEwy mdmj Alqry % % mryD jfwn AlCyn fy Tyh qbb % 20
+# % Amyl AVA mA qAcd Aljhl qAdny % % Alyh wtlqAny AlgwAny ftSTHb %
+~~PageV01P009 21
+# % fwrCny bCd AljhAlo wAlSbA % % Cn Aljhl Chd bAlEbybo qd Vhb % 22
+# % wAHdAv Eyb yftrCn Cn Albly % % wdhr thr AlnAs AyAmh klb % 23
+# % fASbHt qd nkbt Cn Trq AlSbA % % wjAnbt AHdAv AlzjAjo wAlTrb % 24
+# % yHTAn kAsA llndym AVA jrt % Cly wAn kAnt HlAlA lmn Erb % 25
+# % wlw Ect CATAny AlzjAjo AHwr % Twyl qnAo AlSlb mnxzl AlCSb % 26
+# % lyAlynA bAlTf AV nHn jyro % wAV llhwy fynA wfy wSlnA Arb % 27
+# % lyAly tsCy bAlmdAmo bynnA % % bnAt AlnSAry fy qlAcdhA AlSlb % 28
+# % txAlsny AllVAt Aydy CwATl % wjwf mn AlCydAn tbky wtSTxb % 29
+# % Aly An rmy bAlArbCyn mEbhA % % wwqrny qrC AlHwAdv wAlnkb % 30
+# % wkfkf mn grby mEyb wkbro % wAHkmny Twl AltjArb wAlAdb % PageV01P010
+~~31
+# % wbHr yHAr AlTrf fyh qTCth % % bmhnwco mn gyr Cr wlA jrb % 32
+# % mlAHko AlADlAC mHbwko Alqry % % mdAxlo AlrAyAt bAlqAr wAlxEb % 33
+# % mwvqo AlAlwAH lm ydm mtnhA % % wlA SfHtyhA Cqd rHl wlA qtb % 34
+# % CryDo zwr AlSdr dhmAc rslo % % snAd xlyC AlrAs mzmwmo AlVnb % 35
+# % jmwH AlSlA mwAro AlSdr jsro % tkAd mn AlAgrAq fy Alsyr tlthb % 36
+# % mjfro Aljnbyn jwfAc jwno % % nbylo mjry AlCrD fy ZhrhA Hdb % 37
+# % mClmo lA tEtky AlAyn wAlwjy % % wlA tEtky CD AlnswC wlA AldAb % 38
+# % wlm ydm mn jVb AlxEAEo AnfhA % % wlA xAnhA rsm AlmnAsb wAlnqb % 39
+# % mrqqo AlAxfAf Sm CZAmhA % % Edydo Ty AlSlb mCSwbo AlCSb % 40
+# % yEq HbAb AlmAc Hd jrAnhA % % AVA mA tfry Cn mnAkbhA AlHbb %
+~~PageV01P011 41
+# % AVA ACtljt wAlryH fy bTn ljo % % rAyt CjAj Almwt mn HwlhA yvb % 42
+# % trAmy bhA AlxljAn mn kl jAnb % Aly mtn mqtr AlmsAfo mnjVb % 43
+# % wmvqwbo AlAxfAf tdmy AnwfhA % % mCrqo AlASlAb mTwyo Alqrb % 44
+# % SwAdC llECb AlEdyd AltyAmh % % EwACb llSdC AlVy lys ynECb %
+~~PageV01P012 AlbHr : - 1
+# % bgdAd bCdA lA sqy % % sAHAthA Swb AlsHAb % 2
+# % Cmr AlAlh dyArhA % % bAlCAwyAt mn AlklAb % PageV01P013 AlbHr : - 1
+# % lw knt Amlk An AfArq mhjty % % ljClt nAZrhA Clyk rqybA % % 2
+# % HVrA Clyk wAnny bk wAvq % An lA ynAl swAy mnk nSybA % % PageV01P014
+~~AlbHr : - 1
+# % wywm tstwy fyh % % EyAt AlEqr wAlEhb % PageV01P015 AlbHr : - 1
+# % lm tnSfy yA smyo AlVhb % ttlf nfsy wAnt fy lCb % 2
+# % yA bno Cm Almsk Alzky wmn % % lwlAk lm ytxV wlm yTb % 3
+# % nAsbk Almsk fy AlswAd wfy Alr % yH fAkrm bVAk mn nsb % PageV01P016
+~~AlbHr : - 1
+# % wqAclo wqd bSrt bdmC % Cly Alxdyn mnHdr skwb % 2
+# % AtkVb fy AlbkAc wAnt xlw % qdymA mA jsrt Cly AlVnwb % 3
+# % qmySk wAldmwC tjwl fyh % % wqlbk lys bAlqlb Alkcyb % % 4
+# % nZyr qmyS ywsf Hyn jAcwA % % Cly AlbAbh bdm kVwb % % 5
+# % fqlt lhA fdAk Aby wAmy % % rjmt bswc Znk fy Algywb % 6
+# % AmA wAllh lw ftEt qlby % % bsrk bAlCwyl wbAlnHyb % % 7
+# % dmwC AlCAEqyn AVA tlAqwA % % bZhr Algyb Alsno Alqlwb % % PageV01P017
+~~AlbHr : - 1
+# % rbC dAr mdrs AlCrSAt % wTlwl mmHwo AlAyAt % 2
+# % xfq Aldhr fwqhA bjnAHy % n mryEyn bAlbly wAlEtAt % PageV01P018 AlbHr
+~~: - 1
+# % wkm mn myto qd mt fyhA % % wlkn kAn VAk wmA ECrt % 2
+# % wknt AVA rAyt fty ybky % % Cly Ejn hzAt AVA xlwt % 3
+# % wAHsbny AdAl Allh mny % % fSrt AVA bSrt bh bkyt % PageV01P019 AlbHr
+~~: - 1
+# % srwA yxbTwn Allyl fwq ZhwrhA % % Aly An bdA qrn mn Allyl Ablj % 2
+# % wADHwA wbCD mA yqym lsAnh % % wbCD AVA mA HAwl AlmEy yCrj %
+~~PageV01P020 AlbHr : - 1
+# % yA Sdyqy wAxy fy % % kl mA yCrw wEdh % % 2
+# % lyt ECry hl zrCtm % % bVr ktAn Almxdh % % PageV01P021 AlbHr : - 1
+# % AnCy fty Aljwd Aly Aljwd % % mA mvl mn AnCy bmwjwd % 2
+# % AnCy fty mS Alvry bCdh % % bqyo AlmAc mn AlCwd % PageV01P022 AlbHr :
+~~- 1
+# % jlA AlSbH Awny Alkry Cn jfwnh % % wfy Sdrh mvl AlshAm AlqwASd % 2
+# % tmkn mn grAth AlHb fAntHy % % Clyh bAyd AydAt HwAEd % 3
+# % AVA xTrAt AlEwq qlbn qlbh % % Eddn bAnfAs EdAd AlmSACd % 4
+# % yVkrh xfD Alhwy wnCymh % % swAlf AyAm wlys bCAcd % PageV01P023 AlbHr
+~~: - 1
+# % yA AyhA Aldhr AqSr Cn tnqSnA % % flst mnthyA Cn gEmnA AbdA % 2
+# % ADHy snAn qnAty bCd Hdth % % mrt bh CvrAt Aldhr fAnfSdA % %
+~~PageV01P024 AlbHr : - 1
+# % wSAHb kAn ly wknt lh % % AEfq mn wAld Cly wld % 2
+# % knA ksAq ymEy bhA qdm % Aw kVrAC nyTt Aly CDd % 3
+# % Hty AVA dAnt AlHwAdv mn % % xTwy wHl AlzmAn mn Cqdy % % 4
+# % AHwl Cny wkAn ynZr mn % % Cyny wyrmy bsACdy wydy % % 5
+# % wkAn ly mcnsA wknt lh % % lys bnA HAjo Aly AHd % 6
+# % Hty AVA Astrfdt ydy ydh % knt kmstrfd yd AlAsd % PageV01P025 AlbHr :
+~~- 1
+# % ql llTwylo mwDC AlCqd % % wlTyfo AlAHEAc wAlkbd % 2
+# % AlA wqft Cly mdAmCh % fnZrt mA yCmln fy Alxd % 3
+# % lwlA AltmnTq wAlswAr mCA % wAlHjl wAldmlwj fy AlCDd % 4
+# % ltzAylt mn kl nAHyo % % lkn jCln lhA Cly Cmd % 5
+# % jAct Aly Cynyk wjnthA % % fy xlCo Alxyry wAlwrd % PageV01P026 AlbHr
+~~: - 1
+# % Ablg AmAm Alhdy An lst mSTnCA % llnAcbAt kyCqwb bn dAwd % 2
+# % Amsy yqyk bnfs qd HbAk bhA % % wAljwd bAlnfs AqSy gAyo Aljwd % 3
+# % nSbt llnAs yCqwbA fqwmhm % % kmA AlvqAf mqym kl tAwyd % 4
+# % lw tbtgy mvlh fy AlnAs klhm % % Tlbt mA lys fy AldnyA bmwjwd %
+~~PageV01P027 AlbHr : - 1
+# % tTAwl fy bgdAd lyly wmn ybt % bbgdAd ylbv lylh gyr rAqd % 2
+# % blAd AVA zAl AlnhAr tqAfzt % % brAgyvhA mA byn mvny wwAHd % 3
+# % dyAzjo Ehb AlbTwn kAnhA % % bgAl bryd Arslt fy AlmVAwd % PageV01P028
+~~AlbHr : - 1
+# % yA HbVA Alzwr AlVy zArA % % kAnh mqtbs nArA % % 2
+# % nfsy fdAc lk mn zAcr % % mA Hl Hty qyl qd sArA % % 3
+# % mr bbAb AldAr fAjtAzhA % % yA lyth lw dxl AldArA % % PageV01P029
+~~AlbHr : - 1
+# % txEC Ems AlnhAr TAlCo % Hyn trAh . wyxEC Alqmr % 2
+# % tCrfh Anh yfwqhmA % % bAlHsn fy Cyn mn lh bSr % PageV01P030 AlbHr :
+~~- 1
+# % ySbrny qrm brAc mn Alhwy % % wllSbr tArAt Amr mn AlSbr % PageV01P031
+~~AlbHr : - 1
+# % wmn ykn AlgrAb lh dlylA % fnAwws Almjws lh mSyr % PageV01P032 AlbHr
+~~: - 1
+# % nhy Cn xlo Alxmr % byAD lAH fy AlECr % % 2
+# % wqd Agdw wCyn AlEm % % s fy AvwAbhA AlSfr % % 3
+# % Cly jrdAc qbAc Al % % HEA mlhbo AlHDr % % 4
+# % bsyf SArm AlHd % wzq AHdb AlZhr % % 5
+# % wZby yCTf AlAzr % wyvnyhA Cly AlxSr % % 6
+# % Cly AlTf mA Edt % % Clyh Cqd AlAzr % 7
+# % mhAo trtmy AlAlbA % % b Cn qws mn AlsHr % 8
+# % lhA Trf yEwb Alxm % r llndmAn bAlxmr % 9
+# % Cfyf AllHZ wAlACDA % % c fy AlSHw wfy Alskr % % 10
+# % Cly CVrAc lm tftq % % bnAr lA wlA qdr % % PageV01P033 11
+# % Cjwz nsj AlmAc % lhA TwqA mn AlEVr % 12
+# % kAn AlVhb AlAHm % % r fy HAfAthA yjry % % 13
+# % wlyl trkb AlrkbA % % n fy AjwAfh AlxDr % % 14
+# % bArD tqTC AlHyr % o fyhA bAlqTA Alkdr % 15
+# % tmskt Cly AhwA % % lhA bAllh wAlSbr % 16
+# % wACmAl bnAt Alry % % H fy Almhmh wAlqfr % 17
+# % EmAlyl ySAfHn % mtwn AlSxr bAlSxr % 18
+# % bAyjAf yqd Ally % % l Cn nASyo Alfjr % PageV01P034 AlbHr : - 1
+# % wEAdn kAlbdr yjlw Aldjy % % fy Alfrq mnh Almsk mVrwr % 2
+# % yHAVr AlCyn Cly Sdrh % % fAljyb Cnh Aldhr mzrwr . . . % PageV01P035
+~~AlbHr : - 1
+# % DC Alsr fy SmAc lyst bSxro % % Slwd kmA CAynt mn sAcr AlSxr % % 2
+# % wlknhA qlb Amryc Vy HfyZo % % try DyCo AlAsrAr qASmo AlZhr % % 3
+# % ymwt wmA mAtt krAcm fClh % % wybly wmA ybly vnAh Cly Aldhr % % 4
+# % fVAk wlA SmAc mn rAm ksrhA % % bmCwlh Vlt bkfyh llksr % %
+~~PageV01P036 AlbHr : - 1
+# % tmj mn AqdAHnA qhwo % % tDwC bAlmsk wbAlCnbr % 2
+# % kAnmA AqdAHnA fDo % % qd bTnt bAlVhb AlAHmr % % PageV01P037 AlbHr :
+~~- 1
+# % fAwrdhA byDA ZmAc SdwrhA % % wASdrhA bAlry AlwAnhA Hmr % PageV01P038
+~~AlbHr : - 1
+# % yqwl wAlswT Cly kfh % % qd Hz fy jldthA HzA % 2
+# % why Cly Alslm mEdwdo % % wAnt AyDA fAsrqy AlxbzA % % PageV01P039
+~~AlbHr : - 1
+# % jrt jwAr bAlsCd wAlnHs % % fnHn fy wHEo wfy Ans % % 2
+# % AlCyn tbky wAlsn DAHko % fnHn fy mAtm wfy Crs % % 3
+# % yDHknA AlqAcm AlAmyn % wtbkynA wfAo AlAmAm bAlAms % 4
+# % bdrAn bdr ADHy bbgdAd fy % % Alxld wbdr bTws fy Alrms % PageV01P040
+~~AlbHr : - 1
+# % yA dAr mA lk lys fyk Anys % AlA mCAlm Ayhn drws % 2
+# % Aldhr gAlk Am CrAk mn Albly % % bCd AlnCym xEwno wybws % 3
+# % mA kAn AxSb CyEnA bk mro % % AyAm rbCk Ahl mAnws % 4
+# % fsqAk yA dAr Albly mtjrf % fyh AlrwACd wAlbrwq hjws % 5
+# % dAr jlA CnhA AlnCym frbChA % % xlq tmr bh AlryAH ybys % 6
+# % Tll mHt Ay AlsmAc rswmh % % fkAn bAqy mHwhn drws % 7
+# % mA AstHlbt Cynyk AlA dmno % % wmxrb Cnh AlEry mnkws % 8
+# % wmxys fy AldAr yndb Ahlh % rv AlqlAdo fy AltrAb dsys % 9
+# % Ans AlwHwE bhA flys brbChA % % AlA AlnCAm trwdh wtjws % % 10
+# % rbC trbC fy jwAnbh Albly % wCft mCAlmh fhn Tmws % PageV01P041 11
+# % ydCw AlSdy fy jwfh fyjybh % % rbd AlnCAm kAnhn qsws % 12
+# % wlrbmA jr AlSbA ly Vylh % fyh wfyh mAlf wAnys % 13
+# % mn kl DAmro AlHEA mhDwmo % % lHbAlhA bHbAlnA tlbys % 14
+# % mtstrAt bAlHyAc lwAbs % Hll AlCfAf Cn AlfwAHE Ews % 15
+# % wsbyco mn krmhA Hyryo % % CVrAc mn lms AlrjAl Emws % 16
+# % lm yftq AlnCmAn CVrthA wlm % % yrEf mjAjo kAshA qAbws % 17
+# % ktb Alyhwd Cly xwAtm dnhA % % yA dn Ant Cly AlzmAn Hbys % 18
+# % Vmyo Sly wzmzm HwlhA % % mn Al brmk hrbd wmjws % 19
+# % tjlw Alkcws AVA jlt Cn wjhhA % % EmsA gVAhA AlEms fhy Crws % 20
+# % Ckft bhA Cfr AlZbAc kAnhA % % bAkfhn kwAkb wEmws % PageV01P042 21
+# % mn kl mrtj AlrwAdf AHwr % ksry Abwh wAmh blqys % 22
+# % rxw AlCnAn AVA Abtdyt fxAdm % wAVA Sbwt Alyh fhw jlys % 23
+# % ysCy bAbryq kAn fdAmh % mn lwnhA fy CSfr mgmws % 24
+# % ysqyk ryq sbyco Hyryo % % mmA AstbAh lfSHh Alqsys % 25
+# % byn Alxwrnq wAlsdyr mHlo % % llhw fyhA mnzl mTmws % 26
+# % fAlnd mn ryHAnhA mtDwC % wAlZhr mn gzlAnhA mdHws % 27
+# % nHs AlzmAn bAhlhA ftSdCwA % % An AlzmAn bAhlh lnHws % 28
+# % knA nHl bh wnHn bgbTo % AyAm llAyAm fyh Hsys % 29
+# % fbny Clyh Aldhr Abnyo Albly % fCly rbAh kAbo wCbws % 30
+# % wSryC kAs bt Arqbh wqd % % nhEth mn AfCy AlmdAm kcws % PageV01P043
+~~31
+# % Cql AlzjAj lsAnh wtxAVlt % rjlAh fhw kAnh mTsws % 32
+# % sTt AlCqAr bh frAH kAnmA % % mj Alrdy fy kAsh AlfACws % PageV01P044
+~~AlbHr : - 1
+# % ACll AmAly bkAnt wlm tkn % wVlk TCm Alsm wAlEhd fy AlkAs % %
+~~PageV01P045 AlbHr : - 1
+# % Abqy AlzmAn bh ndwb CDAD % % wrmy swAd qrwnh bbyAD % 2
+# % nfrt bh kAs Alndym wAgmDt % Cnh AlkwACb AymA AgmAD % % 3
+# % wlrbmA jClt mHAsn wjhh % % ljfwnhA grDA mn AlAgrAD % % 4
+# % Hsr AlmEyb qnACh Cn rAsh % % frmynh bAlSd wAlACrAD % 5
+# % AvnAn lA tSbw AlnsAc AlyhmA % % Vw Eybo wmHAlf AlAnfAD % 6
+# % fwCwdhn AVA wCdnk bATl % wbrwqhn kwAVb AlAymAD % 7
+# % lA tnkry Sdy wlA ACrDy % % lys Almql Cly AlzmAn brAD % 8
+# % Hly CqAl mTyty lA Cn qly % wAmDy fAny yA Amymo mAD % 9
+# % CwDt Cn brd AlEbAb mlAco % xlqA wbcs mCwDo AlmCtAD % 10
+# % AyAm AfrAs AlEbAb jwAmH % tAby ACnthA Cly AlrwAD % PageV01P046 11
+# % wrkAcb Srft Alyk wjwhhA % % nkbAt dhr llfty CDAD % 12
+# % EdwA bACwAd AlrHAl mTyhm % % mn kl Ahwj llHSy rDAD % % 13
+# % yrmyn bAlmrc AlTryq wtAro % yHVfn wjh AlArD bAlrDrAD % % 14
+# % qTCwA Alyk ryAD kl tnwfo % wmhAmh mls Almtwn CrAD % 15
+# % Akl Alwjyf lHwmhA wlHwmhm % % fAtwk AnqADA Cly AnqAD % 16
+# % wlqd Attk Cly AlzmAn swAxTA % frjCn Cnk whn Cnh rwAD % 17
+# % An AlAmAn mn AlzmAn wrybh % % yA Cqb ETA bHrk AlfyAD % 18
+# % bHr ylwV AlmCtfwn bnylh % % fCm AljdAwl mtrC AlAHwAD % 19
+# % vbt AlmqAm AVA Altwy bCdwh % % lm yxE mn zll wlA AdxAD % 20
+# % gyv twEHt AlryAD ChAdh % % lyv yTwf bgAbo wgyAD % PageV01P047 21
+# % wmEmr llmwt Vyl qmySh % % qAny AlqnAo Aly Alrdy xwAD % 22
+# % lAby mHmd Almrjy rAHtA % % mlk Aly ACly AlCly nhAD % 23
+# % fyd tdfq bAlndy lwlyh % % wyd Cly AlACdAc sm qAD % 24
+# % wjnAH mqSwS tHyf ryEh % % ryb AlzmAn tHyf AlmqrAD % 25
+# % AnhDth wwSlt ryE jnAHh % % wjbrth yA jAbr AlmnhAD % 26
+# % nfsy fdAck Ay lyv ktybo % yrmy bhA byn AlqnA AlmrfAD . . % 27
+# % wmnAzl llqrn ysHb fADo % Clq AlnjyC bvwbhA AlfDfAD % % PageV01P048
+~~AlbHr : - 1
+# % kAn blAd Allh fy Dyq xAtm % % Cly fmA tzdAd TwlA wlA CrDA % %
+~~PageV01P049 AlbHr : - 1
+# % wlqd Aqwl lEybo AbSrthA % % fy mfrqy fmnHthA ACrADy % % 2
+# % Cny Alyk flst mnthyA wlw % % Cmmn mnk mfArqty bbyAD % 3
+# % hl ly swy CEryn CAmA qd mDt % mC sto fy Avrhn mwAD % 4
+# % wlqd nzlt brAs SAby Alqlb fy % % mydAn kl gwAyo rkAD % 5
+# % wlqlmA ArtAC mnk wAnny % % fymA hwyt wAn wzCt lmAD % 6
+# % fClyk mA AsTCt AlZhwr blmty % % wCly An AlqAk bAlmqrAD % PageV01P050
+~~AlbHr : - 1
+# % wAbrz Alxdr mn vnyyh byDth % % wACjl AlrwC nSl Alsyf yxtrT % 2
+# % fvm tfdyk mnA kl gAnyo % % wAlEyx yfdyk wAlwldAn wAlEmT % %
+~~PageV01P051 AlbHr : - 1
+# % tkAmlt fyk AwSAf xSSt bhA % % fklnA bk msrwr wmgtbT % 2
+# % Alsn DAHko wAlkf mAnHo % wAlnfs wAsCo wAlwjh mnbsT % PageV01P052
+~~AlbHr : - 1
+# % grbt bAlmErq AlEm % % s fql llCyn tdmC % 2
+# % mA rAynA qT EmsA % grbt mn Hyv tTlC % PageV01P053 AlbHr : - 1
+# % wlA AjmCt AlA Clyk jmyChA % % AVA Vkr AlmCrwf Albsh AlCrf %
+~~PageV01P054 AlbHr : - 1
+# % AlHmd llh rb AlCAlmyn Cly % % qrby wbCdk mnh yA bn AsHAq % 2
+# % yA lyt ECry mty tjdy Cly wqd % % ASbHt rb dnAnyr wAwrAq % 3
+# % tjdy Cly AVA mA qyl mn rAq % % wAltft AlsAq Cnd Almwt bAlsAq % 4
+# % ywm lCmry thm AlnAs Anfsm % % wlys tnfC fyh rqyo AlrAqy % %
+~~PageV01P055 AlbHr : - 1
+# % mA kAn mvlk fy Alwry fymn mDy % % AHd wZny Anh lA yxlq % PageV01P056
+~~AlbHr : - 1
+# % lhwn Cn AlAxwAn AV sfr AlDHy % % wfy kbdy mn Hrhn Hryq % 2
+# % mzjt dmA bAldmC Hty kAnmA % % yVAb bCyny lclc wCqyq % PageV01P057
+~~AlbHr : - 1
+# % CEq AlmkArm fhw mEtgl bhA % % wAlmkrmAt qlylo AlCEAq % % 2
+# % wAqAm swqA llvnAc wlm tkn % % swq AlvnAc tCd fy AlAswAq % 3
+# % bv AlSnAcC fy AlblAd fASbHt % % tjby Alyh mHAmd AlAfAq % PageV01P058
+~~AlbHr : - 1
+# % dCtny jfwnk Hty CEqt % wmA knt mn qblhA ACEq % 2
+# % fdmCy ysyl wSbry yzwl % wjsmy fy Cbrty ygrq % PageV01P059 AlbHr : -
+~~1
+# % AmA wHrmo kAs % % mn AlmdAm AlCtyq % 2
+# % wCqd nHr bnHr % wmzj ryq bryq % 3
+# % fqd jry AlHb mny % % mjry dmy fy Crwqy % % PageV01P060 AlbHr : - 1
+# % Eddt Amyr Almcmnyn qwy Almlk % % SdCt bftH Alrwm Afcdo Altrk % 2
+# % fryt bsyf Allh hAm Cdwh % % wTATAt llAslAm nASyo AlErk % 3
+# % fASbHt msrwrA bmA kAn DAHkA % wASbH nqfwr Cly mlkh ybky . . %
+~~PageV01P061 AlbHr : - 1
+# % xtlth Almnwn bCd AHtyAl % byn Sfyn mn qny wnSAl % 2
+# % fy rdAc mn AlSfyH vqyl % wqmyS mn AlHdyd mVAl % PageV01P062 AlbHr :
+~~- 1
+# % wxmys ylfh fy xmys % fy sHAb mn Alrdy hTAl % PageV01P063 AlbHr : - 1
+# % mA frq AlAHbAb bC % % d Allh AlA AlAbl % 2
+# % wAlnAs ylHwn grA % % b Albyn lmA jhlwA % % 3
+# % wmA AVA SAH grA % % b fy AldyAr AHtmlwA % % 4
+# % wmA Cly Zhr grA % % b Albyn tTwy AlrHl % 5
+# % wmA grAb Albyn Al % lA nAqo Aw jml % PageV01P064 AlbHr : - 1
+# % AVA lm tkn Trq Alhwy ly Vlylo % % tnkbthA wAnHzt lljAnb Alshl % 2
+# % wmA ly ArDy mnh bAljwr fy Alhwy % % wly mvlh Alf wlys lh mvly % %
+~~PageV01P065 AlbHr : - 1
+# % bAllh ql yA Tll % Ahlk mAVA fClwA % % 2
+# % fAn qlby HVr % mn An ybnwA wjl % PageV01P066 AlbHr : - 1
+# % lhA Cn Slo AlbyD % % nVyr lVwy AlCql % % 2
+# % mSAbyH mEyb w % % smtny smo Alkhl % % 3
+# % wChdy brbybAt % mlAH Aldl wAlEkl % % 4
+# % AVA jct yrqCn Al % % kwy bAlACyn Alnjl % % PageV01P067 AlbHr : - 1
+# % wnZro Cyn tCllthA % % HVArA kmA nZr AlAHwl % 2
+# % tqsmthA byn wjh AlHbyb % % wTrf Alrqyb mty ygfl % PageV01P068 AlbHr
+~~: - 1
+# % wqf Alhwy by Hyv Ant flys ly % % mtAxr Cnh wlA mtqdm % 2
+# % wAhntny fAhnt nfsy jAhdA % mA mn yhwn Clyk mmn ykrm % 3
+# % AEbhtACdAcy fSrt AHbhm % % AV kAn HZy mnk HZy mnhm % 4
+# % Ajd AlmlAmo fy hwAk lVyVo % HbA lVkrk flylmny Allwm % PageV01P069
+~~AlbHr : - 1
+# % ASbt AlmdAm bryq AlgmAm % % wqd zr jyb qmyS AlZlAm % 2
+# % fEAbt nwASy Aldjy wnfry % % Cn AlSbH srbAl lyl AltmAm % 3
+# % Hbwt bhA SHn qArwro % fADHkthA Cn lsAn AlDrAm % 4
+# % yTwf ClynA bhA AHwr % kCwl bCynyh vql AlmdAm % 5
+# % gzAl nsjnA lh Hltyn % mn AlAs wAlwrd fy ywm rAm % % PageV01P070
+~~AlbHr : - 1
+# % jAc Alrswl bbEry mnk tTmCny % % fkAn Akbr whmy Anh whmA % % 2
+# % fmA frHt wlkn zAdny HznA % Clmy bAn rswly lm ykn fhmA % % 3
+# % km mn sryro Hb qd xlwt bhA % % wdmCo tmlA AlqrTAs wAlqlmA % %
+~~PageV01P071 AlbHr : - 1
+# % AEAqk wAllyl mlqy AljrAn % grAb ynwH Cly gSn bAn % 2
+# % AHm AljnAH Edyd AlSyAH % % ybky bCynyn lAthmlAn % 3
+# % wfy nCbAt AlgrAb AgtrAb % wfy AlbAn byn bCyd AltdAn % 4
+# % lCmry lcn fzCt mqltAk % % Aly dmCo qTrhA gyr wAn % 5
+# % fHq lCynyk AlA tjf % dmwChmA whmA tTrfAn % 6
+# % wmn kAn fy AlHy bAlAms mnk % % qryb AlmkAn bCyd AlmkAn % 7
+# % fhl lk yA CyE mn rjCo % bAyAmk AlmwnqAt AlHsAn % 8
+# % fyA CyEnA wAlhwy mwrq % lh gSn AxDr AlCwd dAn % 9
+# % lCl AlEbAb wryCAnh % % yswd mA byD AlqAdmAn % 10
+# % whyhAt yA CyE mn rjCo % bAgSAnk AlmAclAt AldwAny % % PageV01P072 11
+# % lqd SdC AlEyb mA bynnA % % wbynk SdC AlrdAc AlymAny % % 12
+# % Clyk AlslAm fkm lylo % jmwH dlyl xlyC AlCnAn % 13
+# % qSrt bk Allhw fy jAnbyh % % bqrC Aldfwf wCzf AlqyAn % 14
+# % wCVrAc lm tftrChA AlsqAo % wlA AstAmhA AlErb fy byt HAn % 15
+# % wlA AHtlbt drhA Arjl % wlA wsmthA bnAr ydAn % 16
+# % wlkn gVthA bAlbAnhA % % DrwC yHf bhA jdwlAn % 17
+# % Aly An tHwl CnhA AlSbA % % wAhdy AlfTAm lhA AlmrDCAn % 18
+# % fAHsbhA why mkrwCo % tmj slAfthA fy AlAwAn % 19
+# % CnAqyd AxlAfhA Hfl % tdr bmvl AldmAc AlqwAny % % 20
+# % flm tzl AlEms mEgwlo % bSbgthA fy bTwn AldnAn % % PageV01P073 21
+# % trEHhA llvAm AlrjAl % % Aly An tSdy lhA AlsAqyAn % 22
+# % ffDA AlxwAtym Cn jwno % Sdwf Cn AlfHl bkr CwAn % 23
+# % Cjwz gVA Almsk ASdAghA % % mDmxo Aljld bAlzCfrAn % 24
+# % yTwf ClynA bhA AHwr % ydAh mn AlkAs mxDwbtAn % 25
+# % lyAly tHsb ly mn sny % vmAn wwAHdo wAvntAn % 26
+# % glAm Sgyr Axw Ero % yTyr mCy llhwy TAcrAn % 27
+# % jrwr AlAzAr xlyC AlCVAr % % Cly lChd AlSbA brdtAn % 28
+# % ASyb AlVnwb wlA Atqy % % Cqwbo mA yktb AlkAtbAn % % 29
+# % tnAfs fy Cywn AlrjAl % wtCvr by fy AlHjwl AlgwAny % % 30
+# % fAqSrt lmA nhAny AlmEyb % % wAqSr Cn CVly AlCAVlAn % PageV01P074 31
+# % wCAft Cywf wAtrAbhA % % rnwy AlyhA wmlt mkAny % % 32
+# % wrAjCt lmA ATAr AlEbAb % grAbAn Cn mfrqy TAcrAn % 33
+# % rAt rjlA wsmth Alsnwn % bryb AlmEyb wryb AlzmAn % 34
+# % fSdt wqAlt Axw Eybo % Cdym AlA bcst AlHAltAn % 35
+# % fqlt kVlk mn CDh % mn Aldhr nAbAh wAlmxlbAn % 36
+# % wCjt Aly jml bAzl % rHyb rHy Alzwr fHl hjAn % 37
+# % sbwH Alydyn TmwH AlHrAn % gcwl lAnsACh wAlbTAn % 38
+# % fCDyt ACwAd rHly bh % % wnAbAh mn zmC yDrbAn % 39
+# % flmA Astql bAjrAnh % wlAn Cly Alsyr bCD AllyAn % 40
+# % qTCt bh mn blAd AlEAm % xrwqA yDl bhA AlhAdyAn % PageV01P075 41
+# % Aly mlk mn bny hAEm % krym AlDrAcb sbT AlbnAn % 42
+# % Aly Clm AlbAs fy kfh % % mn Aljwd CynAn nDAxtAn % PageV01P076 AlbHr
+~~: - 1
+# % yA nfs bky bAdmC htn % wwAkf kAljmAn fy snn % 2
+# % Cly dlyly wqAcdy wydy % % wnwr wjhy wsAcs Albdn % 3
+# % Abky ClyhA bhA mxAfo An % yqrnny wAlZlAm fy qrn % PageV01P077 AlbHr
+~~: - 1
+# % krym ygD AlTrf fDl HyAch % % wydnw wATrAf AlrmAH dwAn % 2
+# % wkAlsyf An lA ynth lAn mtnh % % wHdAh An xAEnth xEnAn % %
+~~PageV01P078 AlbHr : - 1
+# % yA mn tHly bryHAn ynAdmh % % mn CTr wrd wxyry wnsryn % 2
+# % wyAsmyn wCwd mA ygyrh % mA kAn AHsn VA lw lm ykn dwny % %
+~~PageV01P079 AlbHr : - 1
+# % yA mn tmny Cly AldnyA mbAlghA % % hlA sAlt AbA bEr ftCTAhA % % 2
+# % mA hbt AlryH AlA hb nAclh % % wlA rtqy gAyo AlA txTAhA % % 3
+# % AVA AxVt bHbl mn HbAclh % % dAnt lk AlArD AqSAhA wAdnAhA % %
+~~PageV01P080 AlbHr : - 1
+# % jAryo tsHr CynAhA % % AsflhA yjVb AClAhA % % 2
+# % ASbHt AhwAhA wAhwy Alrdy % % lkl mn ASbH yhwAhA % % 3
+# % nfsy Cly Amryn mTbwCo % Hby lhA Aw bgD mwlAhA % % 4
+# % qd mlktny why mmlwko % fSrt AxEAh wAxEAhA % % PageV01P081 AlbHr : -
+~~1
+# % yA Hfro TwlhA xms AVA VrCt % fy xmso qd dfnA CznA fyhA % %
+~~PageV01P082 AlbHr : - 1
+# % hyhAt yAby VAk ly slf % % xmdwA wlm yxmd lhm mjd % % 2
+# % fAljd kndo wAlbnwn hm % % fzkA Albnwn wAnjb Aljd % % PageV01P083
+~~AlbHr : - 1
+# % hl bAlTlwl lsAcl rd % Aw hl lhA btklm Chd % 2
+# % drs Aljdyd jdyd mChdhA % % fkAnmA hy ryTo jrd % 3
+# % mn Twl mA ybky AlgmAm Cly % % CrSAthA wyqhqh AlrCd % 4
+# % wtlv sAryo wgAdyo % wykr nHs xlfh sCd % 5
+# % tlqy EAmyo ymAnyo % % lhmA bmwr trAbhA srd % 6
+# % fkst bwATnhA ZwAhrhA % % nwrA kAn zhAch brd % 7
+# % ygdw fysdy nsjh Hdb % wAhy AlCry wwcydh Cqd % 8
+# % fwqft AsAlhA wlys bhA % % AlA AlmhA wnqAnq rbd % 9
+# % ftbAdrt drr AlEcwn Cly % % xdy kmA ytnAvr AlCqd % 10
+# % Aw nDH CzlAc AlCsyb wqd % % rAH AlCsyf bmAchA yCdw % % PageV01P084
+~~11
+# % wmkdm fy CAno xfrt % % Hty yhyj EAwhA Alwrd % 12
+# % lhfy Cly dCd wmA xlqt % AlA lTwl blyty dCd % 13
+# % byDAc qd lbs AlAdym bhA % % cAlHsn fhw ljldhA jld % 14
+# % wyzyn fwdyhA AVA Hsrt % DAfy AlgdAcr fAHm jCd % 15
+# % fAlwjh mvl AlSbH mnblj % wAlECr mvl Allyl mswd % 16
+# % DdAn lmA AstjmCA HsnA % % wAlDd yZhr Hsnh AlDd % 17
+# % wjbynhA Slt wHAjbhA % % Ext AlmxT Azj mmtd % 18
+# % wkAnhA wsny AVA nZrt % Aw mdnf lmA yfq bCd % 19
+# % bftwr Cyn mA bhA rmd % wbhA tdAwy AlACyn Alrmd % 20
+# % wtryk CrnynA yzynh % % Emm wxdA lwnh Alwrd % PageV01P085 21
+# % wtjyl mswAk AlArAk Cly % % rtl kAn rDAbh AlEhd % 22
+# % wAljyd mnhA jyd jAzco % % tCTw AVA mA TlhA Albrd % 23
+# % wAmtd mn ACDAdhA qSb % fCm tlth mrAfq drd % 24
+# % wAlmCSmAn fmA yry lhmA % % mn nCmo wbDADo znd % 25
+# % wlhA bnAn lw Ardt lh % % CqdA bkfk Amkn AlCqd % 26
+# % wkAnmA sqyt trAcbhA % % wAlnHr mAc AlHsn AVA tbdw % % 27
+# % wbSdrhA HqAn xlthmA % % kAfwrtyn ClAhmA nd % 28
+# % wAlbTn mTwy kmA Twyt % byD AlryAT ySwnhA Almld % 29
+# % wbxSrhA hyf yzynh % % fAVA tnwc ykAdd ynqd % 30
+# % wlhAhn rAb mjsth % % Dyq AlmsAlk Hrh wqd % PageV01P086 31
+# % fkAnh mn kbrh qdH % Akl AlCyAl wkbh AlCbd % 32
+# % fAVA TCnt TCnt fy lbd % % wAVA sllt ykAd ynsd % 33
+# % wAltf fxVAhA wfwqhmA % % kfl yjAVb xSrhmA nhd % 34
+# % fqyAmhA mvny AVA nhDt % mn vqlh wqCwdhA frd % 35
+# % wAlsAq xrCbo mnCmo % % Cblt fTwq AlHjl mnsd % 36
+# % wAlkCb Adrm lA ybyn lh % % Hjm wlys lrAsh Hd % 37
+# % wmEt Cly qdmyn xSrtA % % wAlyntA ftkAml Alqd % 38
+# % mA EAnhA Twl wlA qSr % fy xlqhA fqwAmhA qSd % 39
+# % An lm ykn wSl ldyk lnA % % yEfy AlSbAbo flykn wCd % 40
+# % qd kAn Awrq wSlkm zmnA % fVwy AlwSAl wAwrq AlSd % PageV01P087 41
+# % llh AEwAqy AVA nzHt % dAr bnA wnAy bkm bCd % 42
+# % An tthmy fthAmo wTny % % Aw tnjdy An Alhwy njd % 43
+# % wzCmt Ank tDmryn lnA % % wdA fhlA ynfC Alwd % 44
+# % wAVA AlmHb EkA AlSdwd wlm % % yCTf Clyh fqtlh Cmd % 45
+# % txtShA bAlwd why Cly % % mA lA tHb fhkVA Alwjd % 46
+# % Aw mA try Tmry bynhmA % % rjl AlH bhzlh Aljd % 47
+# % fAlsyf yqTC whw Vw SdA % % wAlnSl yClw AlhAm lA Algmd % 48
+# % hl ynfCn Alsyf Hlyth % % ywm AljlAd AVA nbA AlHd % 49
+# % wlqd Clmt bAnny rjl % fy AlSAlHAt ArwH Aw Agdw % % 50
+# % slm Cly AlAdny wmrHmo % wCly AlHwAdv hAdyc jld % PageV01P088 51
+# % mtjlbb vwb AlCfAf wqd % % gfl Alrqyb wAmkn Alwrd % 52
+# % wmjAnb fCl AlqbyH wqd % % wSl AlHbyb wsACd AlsCd % 53
+# % mnC AlmTAmC An tvlmny % % Any lmCwlhA SfA Sld % 54
+# % fArwH HrA mn mVlthA % % wAlHr Hyn yTyChA Cbd % 55
+# % Alyt AmdH mqrfA AbdA % ybqy AlmdyH wyVhb Alrfd % 56
+# % hyhAt yAby VAk ly slf % xmdwA wlm yxmd lhm mjd % 57
+# % wAljd kndo wAlbnwn hm % fzkA Albnwn wAnjb Aljd % 58
+# % flcn qfwt jmyl fClhm % bVmym fCly Anny wgd % 59
+# % Ajml AVA HAwlt fy Tlb % % fAljd ygny Cnk lA Aljd % 60
+# % lykn ldyk lsAcl frj % An lm ykn flyHsn Alrd % PageV01P089 61
+# % wTryd lyl sAqh sgb % whnA Aly wqAdh brd % 62
+# % AwsCt jhd bEAEo wqry % wCly Alkrym lDyfh Aljhd % 63
+# % ftSrm AlmEty wmnzlh % % rHb ldy wCyEh rgd % 64
+# % vm Agtdy wrdAch nCm % AsArthA wrdAcy AlHmd % 65
+# % yA lyt ECry bCd Vlkm % % wmSyr kl mcml lHd % 66
+# % ASryC klm Am SryC Dny % Awdy flys mn Alrdy bd % PageV01P090 AlbHr :
+~~- 1
+# % ErAbk fy AlsrAb AVA CTEnA % % wxbzk Cnd mnqTC AltrAb % 2
+# % wmA rwHtnA ltVb CnA % % wlkn xft mrzco AlVbAb % % PageV01P091 AlbHr
+~~: - 1
+# % mlk kAn Almwt ytbC qwlh % % Hty yqAl tTyCh AlAqdAr % PageV01P092
+~~AlbHr : - 1
+# % tqwl gdAo Albyn AHdy nsAchm % % ly Alkbd AlHry fsr wlk AlSbr % 2
+# % wqd xnqthA Cbro fdmwChA % % Cly xdhA byD wfy nHrhA Sfr % PageV01P093
+~~AlbHr : - 1
+# % wnACs lw yVwq AlHb mA nCsA % % bly Csy An yry Tyf AlHbyb Csy % % 2
+# % wllhwy jrs ynfy AlrqAd bh % % fklmA kdt Agfy Hrk AljrsA % %
+~~PageV01P094 AlbHr : - 1
+# % lA tAmnn Cly sry wsrkm % gyry wgyrk Aw Ty AlqrATys % 2
+# % Aw TAcr sASlyh wAnCth % % mA zAl SAHb tnqyr wtdsys % 3
+# % swd brAvnh myl VwAcbh % % Sfr HmAlqh fy AlHsn mgmws % % 4
+# % qd kAn hm slymAn lyVbHh % % lwlA sCAyth fy mlk blqys % PageV01P095
+~~AlbHr : - 1
+# % mA kAn mnksr AllwAc lTyro % % txEy wlA Amr ykwn mzylA % % 2
+# % lkn hVA AlrmH ADCf rknh % % Sgr AlwlAyo wAstql AlmwSlA % %
+~~PageV01P096 AlbHr : - 1
+# % hVA ktAb fty lh hmm % CTft Clyk rjAch rHmh % % 2
+# % gl AlzmAn ydy Czymth % % whwt bh mn HAlq qdmh % 3
+# % wtwAklth Vww qrAbth % % wTwAh Cn AkfAch Cdmh % 4
+# % AfDy Alyk bsrh qlm % lw kAn yCrfh bky qlmh % % PageV01P097 AlbHr : -
+~~1
+# % byDAc tsHb mn qyAm frChA % % wtgyb fyh whw jvl AsHm % 2
+# % fkAnhA fyh nhAr sATC % wkAnh lyl ClyhA mZlm % PageV01P098 AlbHr : -
+~~1
+# % CATny kAs slwo % % Cn AVAn AlmcVn % % 2
+# % mA try AlSbH qd bdA % % fy AzAr mtbn % 3
+# % fAsqnyhA slAfo % wAlTmny wArmny % % PageV01P099
